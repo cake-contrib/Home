@@ -28,11 +28,27 @@ To this end, the following things will happen:
 * This AppVeyor Role will be provided with the correct permissions to access each AppVeyor Project
 * The necessary settings will be added to the AppVeyor project to allow notifications to be sent via the official Cake Contrib communication channels
 
-## License
+# Tracking Addin's, Modules and Recipes
+
+Do to the growing number of Addin's, Modules and Recipes that are available, we are tracking the current status of each of these.
+
+Ideally, all addin's, modules and recipes will appear on the [Cake Website](http://cakebuild.net/), however, this requires PR's from the maintainers, so in the meantime, you can find this information [here](status.md).
+
+This tracks things like:
+
+* the fact that the addin/module/recipe actually exists
+* a link to the NuGet package
+* information about the maintainer
+* whether the maintainer has been contacted about providing additional information
+* whether the cake-contrib user has been added as a co-maintainer to the NuGet packages
+* whether the addin has been added to the Cake Build website
+* whether the addin repository has been moved to the Cake Contrib Organisation
+
+# License
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/cake-contrib/Cake.Recipe/blob/develop/LICENSE)
 
-## Chat Room
+# Chat Room
 
 Come join in the conversation about anything related to the Cake Contrib Organisation in our Gitter Chat Room
 

@@ -32,7 +32,7 @@ To this end, the following things will happen:
 
 Do to the growing number of Addin's, Modules and Recipes that are available, we are tracking the current status of each of these.
 
-Ideally, all addin's, modules and recipes will appear on the [Cake Website](http://cakebuild.net/), however, this requires PR's from the maintainers, so in the meantime, you can find this information [here](status.md).
+Ideally, all addin's, modules and recipes will appear on the [Cake Website](http://cakebuild.net/), however, this requires PR's from the maintainers, so in the meantime, you can find this information [here](https://github.com/cake-contrib/Home/blob/master/Status.md).
 
 This tracks things like:
 

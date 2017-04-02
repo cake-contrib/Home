@@ -72,6 +72,7 @@ Currently:
 | [Cake.Email](https://www.nuget.org/packages/Cake.Email) | jericho | Yes | Yes | Yes | Yes |
 | Cake.Ember | gep13 | Yes | No | No | Yes |
 | [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform) | nengberg | Yes | Yes | Yes | No |
+| Cake.EventLog | agc93 | No | No | No | Yes |
 | [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet) | redth | Yes | Yes | Yes | No |
 | [Cake.Figlet](https://www.nuget.org/packages/Cake.Figlet) | enkafan | Yes | Yes | Yes | No |
 | [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers) | redth | Yes | Yes | Yes | No |

@@ -1,7 +1,7 @@
 In total, there are 131 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [116 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [117 of them](https://www.nuget.org/profiles/cake-contrib)
 * 44 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 101 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -39,7 +39,7 @@ Currently:
 | [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest) | ghuntley | Yes | Yes | Yes | No |
 | [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator) | ghuntley | Yes | Yes | Yes | No |
 | [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager) | cphill11 | Yes | Yes | Yes | No |
-| [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee) | LittleColin | Yes | No | No | No |
+| [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee) | LittleColin | Yes | No | Yes | No |
 | [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor) | redth | Yes | Yes | Yes | No |
 | [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/) | wexman | Yes | Yes | Yes | No |
 | [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest) | achapman | Yes | Yes | Yes | No |

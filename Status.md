@@ -141,6 +141,7 @@ Currently:
 | [Cake.Storyteller](https://www.nuget.org/packages/Cake.Storyteller) | bibodha | Yes | Yes | Yes | No |
 | [Cake.StrongNameTool](https://www.nuget.org/packages/Cake.StrongNameTool) | krippz | Yes | Yes | Yes | No |
 | [Cake.StyleCop](https://www.nuget.org/packages/Cake.StyleCop) | Codedlogic | Yes | Yes | Yes | No |
+| Cake.Svn | mholo65 | No | No | No | No |
 | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/) | ozzymcduff | Yes | Yes | Not Required | Not Required |
 | [Cake.Terraform](https://www.nuget.org/packages/Cake.Terraform/) |erikvanbrakel | No | Yes | Yes | No |
 | [Cake.Tfx](https://www.nuget.org/packages/Cake.Tfx) | gep13 | Yes | Yes | Yes | Yes |

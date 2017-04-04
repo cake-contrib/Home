@@ -1,8 +1,8 @@
-In total, there are 131 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
+In total, there are 136 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [117 of them](https://www.nuget.org/profiles/cake-contrib)
-* 44 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* the `cake-contrib` user has been added to [122 of them](https://www.nuget.org/profiles/cake-contrib)
+* 49 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 101 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
 
@@ -57,6 +57,7 @@ Currently:
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack) | olivier-spinelli | Yes | No | Not Required | Not Required |
 | [Cake.CMake](https://www.nuget.org/packages/Cake.CMake) | patrik | Yes | Yes | Yes | Yes |
 | Cake.CodeCov | larzw admiringworm | No | No | No | No |
+| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting) | bbtsoftwareag | Yes | No | No | Yes |
 | [Cake.Compression](https://www.nuget.org/packages/Cake.Compression) | arkord | Yes | Yes| Yes | No |
 | [Cake.Coveralls](https://www.nuget.org/packages/Cake.Coveralls) | gep13 | Yes | Yes | Yes | Yes |
 | [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/) | RadioSystems | No | Yes | Yes | No |
@@ -118,7 +119,11 @@ Currently:
 | [Cake.Powershell](https://www.nuget.org/packages/Cake.Powershell) | sharperad | Yes | Yes | Yes | No |
 | [Cake.Prca](https://www.nuget.org/packages/Cake.Prca/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Prca.Issues.InspectCode](https://www.nuget.org/packages/Cake.Prca.Issues.InspectCode/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
-| [Cake.Prca.Issues.MsBuild](https://www.nuget.org/packages/Cake.Prca.Issues.MsBuild/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
+| [Cake.Prca.Issues.ESLint](https://www.nuget.org/packages/Cake.Prca.Issues.ESLint/) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.Prca.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Prca.Issues.Markdownlint/) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.Prca.Issues.MsBuild](https://www.nuget.org/packages/Cake.Prca.Issues.MsBuild/) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.Prca.Issues.Stylelint](https://www.nuget.org/packages/Cake.Prca.Issues.Stylelint/) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.Prca.Issues.TSLint](https://www.nuget.org/packages/Cake.Prca.Issues.TSLint/) | bbtsoftwareag | Yes | No | No | Yes |
 | [Cake.Prca.PullRequests.Tfs](https://www.nuget.org/packages/Cake.Prca.PullRequests.Tfs/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.ProjHelpers](https://www.nuget.org/packages/Cake.ProjHelpers) | almogor | Yes | Yes | Yes | No |
 | [Cake.Putty](https://www.nuget.org/packages/Cake.Putty) | mihies | Yes | Yes | Yes | No |

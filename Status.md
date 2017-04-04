@@ -121,7 +121,7 @@ Currently:
 | [Cake.Prca.Issues.InspectCode](https://www.nuget.org/packages/Cake.Prca.Issues.InspectCode/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Prca.Issues.ESLint](https://www.nuget.org/packages/Cake.Prca.Issues.ESLint/) | bbtsoftwareag | Yes | No | No | Yes |
 | [Cake.Prca.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Prca.Issues.Markdownlint/) | bbtsoftwareag | Yes | No | No | Yes |
-| [Cake.Prca.Issues.MsBuild](https://www.nuget.org/packages/Cake.Prca.Issues.MsBuild/) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.Prca.Issues.MsBuild](https://www.nuget.org/packages/Cake.Prca.Issues.MsBuild/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Prca.Issues.Stylelint](https://www.nuget.org/packages/Cake.Prca.Issues.Stylelint/) | bbtsoftwareag | Yes | No | No | Yes |
 | [Cake.Prca.Issues.TSLint](https://www.nuget.org/packages/Cake.Prca.Issues.TSLint/) | bbtsoftwareag | Yes | No | No | Yes |
 | [Cake.Prca.PullRequests.Tfs](https://www.nuget.org/packages/Cake.Prca.PullRequests.Tfs/) | bbtsoftwareag | Yes | Yes | Yes | Yes |

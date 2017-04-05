@@ -39,7 +39,7 @@ Currently:
 | [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest) | ghuntley | Yes | Yes | Yes | No |
 | [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator) | ghuntley | Yes | Yes | Yes | No |
 | [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager) | cphill11 | Yes | Yes | Yes | No |
-| [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee) | LittleColin | Yes | No | Yes | No |
+| [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee) | LittleColin | Yes | Yes | Yes | No |
 | [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor) | redth | Yes | Yes | Yes | No |
 | [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/) | wexman | Yes | Yes | Yes | No |
 | [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest) | achapman | Yes | Yes | Yes | No |

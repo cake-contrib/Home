@@ -1,4 +1,4 @@
-In total, there are 131 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
+In total, there are 132 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [117 of them](https://www.nuget.org/profiles/cake-contrib)
@@ -50,6 +50,7 @@ Currently:
 | [Cake.AWS.ElasticLoadBalancing](https://www.nuget.org/packages/Cake.AWS.ElasticLoadBalancing) | sharperad | Yes | Yes | Yes | No |
 | [Cake.AWS.Route53](https://www.nuget.org/packages/Cake.AWS.Route53) | sharperad | Yes | Yes | Yes | No |
 | [Cake.AWS.S3](https://www.nuget.org/packages/Cake.AWS.S3) | sharperad | Yes | Yes | Yes | No |
+| [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/) | DixonD | No | No | No | No |
 | [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage) | RadioSystems | Yes | Yes | Yes | No |
 | [Cake.CakeBoss](https://www.nuget.org/packages/Cake.CakeBoss) | sharperad | Yes | No | Yes | No |
 | [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail) | jericho | Yes | Yes | Yes | Yes |

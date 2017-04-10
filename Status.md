@@ -133,6 +133,7 @@ Currently:
 | [Cake.Scripty](https://www.nuget.org/packages/Cake.Scripty) | daveaglick | Yes | No | Not Required | Not Required |
 | [Cake.SemVer](https://www.nuget.org/packages/Cake.SemVer) | redth | Yes | Yes | Yes | No |
 | [Cake.SendGrid](https://www.nuget.org/packages/Cake.SendGrid) | jericho | Yes | Yes | Yes | Yes |
+| Cake.ServiceFabric | mholo65 | No | No | No | No |
 | [Cake.ServiceOrchestration](https://www.nuget.org/packages/Cake.ServiceOrchestration) | achapman | Yes | No | Yes | No |
 | [Cake.Services](https://www.nuget.org/packages/Cake.Services) | sharperad | Yes | Yes | Yes | No |
 | [Cake.SimpleHTTPServer](https://www.nuget.org/packages/Cake.SimpleHTTPServer) | wearetherock | Yes | No | Yes | No |

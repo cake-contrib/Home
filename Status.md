@@ -52,6 +52,7 @@ Currently:
 | [Cake.AWS.S3](https://www.nuget.org/packages/Cake.AWS.S3) | sharperad | Yes | Yes | Yes | No |
 | [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/) | DixonD | No | No | No | No |
 | [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage) | RadioSystems | Yes | Yes | Yes | No |
+| [Cake.CachedNpm](https://www.nuget.org/packages/Cake.CachedNpm/) | TomikT | No | No | No | No |
 | [Cake.CakeBoss](https://www.nuget.org/packages/Cake.CakeBoss) | sharperad | Yes | No | Yes | No |
 | [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail) | jericho | Yes | Yes | Yes | Yes |
 | [Cake.Chutzpah](https://www.nuget.org/packages/Cake.Chutzpah/) | James Nail| Yes | No| Yes | Yes |

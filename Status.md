@@ -177,7 +177,7 @@ Currently:
 | [Cake.Wyam](https://www.nuget.org/packages/Cake.Wyam) | daveaglick | Yes | Yes | Yes | Not Required |
 | [Cake.Xamarin](https://www.nuget.org/packages/Cake.Xamarin) | redth | Yes | Yes | Yes | No |
 | [Cake.Xamarin.Build](https://www.nuget.org/packages/Cake.Xamarin.Build) | redth | Yes | Not Required | Not Required | Not Required |
-| [Cake.XCode](https://www.nuget.org/packages/Cake.XCod) | redth | Yes | Yes | Yes | No |
+| [Cake.XCode](https://www.nuget.org/packages/Cake.XCode) | redth | Yes | Yes | Yes | No |
 | [Cake.XComponent](https://www.nuget.org/packages/Cake.XComponent) | xcomponent | Yes | Yes | Not Required | Not Required |
 | [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform) | cphill11 | Yes | Yes | Yes | No |
 | [Cake.Yaml](https://www.nuget.org/packages/Cake.Yaml) | redth | Yes | Yes | Yes | No |

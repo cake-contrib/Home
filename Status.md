@@ -72,6 +72,7 @@ Currently:
 | [Cake.DocumentDb](https://www.nuget.org/packages/Cake.DocumentDb/) | jonathan.stowell | No | No | No | No |
 | [Cake.DoInDirectory](https://www.nuget.org/packages/Cake.DoInDirectory) | pitermarx | Yes | Yes | Yes | No |
 | [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/) | mvput | Yes | No | Yes | Yes |
+| Cake.Electron  | phillipsj | No | No | No | No |
 | [Cake.Email](https://www.nuget.org/packages/Cake.Email) | jericho | Yes | Yes | Yes | Yes |
 | Cake.Ember | gep13 | Yes | No | No | Yes |
 | [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform) | nengberg | Yes | Yes | Yes | No |
@@ -104,11 +105,13 @@ Currently:
 | [MagicChunks](https://www.nuget.org/packages/MagicChunks/) | Sergey Zwezdin | Yes | Yes | Not Required | Not Required |
 | [Cake.MicrosoftTeams](https://www.nuget.org/packages/Cake.MicrosoftTeams) | devlead | Yes | Yes | Yes | Yes |
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools) | redth | Yes | No | Yes | No |
+| Cake.MSBuild15 | phillipsj | No | No | No | No |
 | [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask) | marcosnz | Yes | Yes | No | No |
 | [Cake.MsDeploy](https://www.nuget.org/packages/Cake.MsDeploy) | louisfischer | Yes | Yes| Yes | Yes |
 | Cake.Netlify | philllipsj | No | No | No | No |
 | [Cake.Newman](https://www.nuget.org/packages/Cake.Newman) | achapman | Yes | Yes | Yes | Yes |
 | [Cake.NewRelic](https://www.nuget.org/packages/Cake.NewRelic) | brysonwilding | Yes | No | Yes | No |
+| Cake.Node | phillipsj | No | No | No | No |
 | [Cake.Npm](https://www.nuget.org/packages/Cake.Npm) | philo | Yes | Yes | Yes | Yes |
 | [Cake.NSpec](https://www.nuget.org/packages/Cake.NSpec) | app-iron | Yes | No | Yes | No |
 | [Cake.NSwag](https://www.nuget.org/packages/Cake.NSwag) | achapman | Yes | Yes | Yes | No |
@@ -140,6 +143,7 @@ Currently:
 | [Cake.ServiceOrchestration](https://www.nuget.org/packages/Cake.ServiceOrchestration) | achapman | Yes | No | Yes | No |
 | [Cake.Services](https://www.nuget.org/packages/Cake.Services) | sharperad | Yes | Yes | Yes | No |
 | [Cake.SimpleHTTPServer](https://www.nuget.org/packages/Cake.SimpleHTTPServer) | wearetherock | Yes | No | Yes | No |
+| Cake.Skype | phillipsj | No | No | No | No |
 | [Cake.Slack](https://www.nuget.org/packages/Cake.Slack) | devlead | Yes | Yes | Yes | No |
 | [Cake.Sonar](https://www.nuget.org/packages/Cake.Sonar) | tomstaijen | Yes | Yes | Yes | No |
 | [Cake.SqlServer](https://www.nuget.org/packages/Cake.SqlServer) | trailmax | Yes | Yes | Yes | No |

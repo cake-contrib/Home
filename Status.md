@@ -1,7 +1,7 @@
 In total, there are 132 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [119 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [121 of them](https://www.nuget.org/profiles/cake-contrib)
 * 51 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 102 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -132,7 +132,7 @@ Currently:
 | [Cake.Raygun](https://www.nuget.org/packages/Cake.Raygun) | ghuntley | Yes | Yes | Yes | No |
 | [Cake.ReSharperReports](https://www.nuget.org/packages/Cake.ReSharperReports) | gep13 | Yes | Yes | Yes | Yes |
 | [Cake.ResxConverter](https://www.nuget.org/packages/Cake.ResxConverter) | jzeferino | No | No | Not Required | Not Required |
-| [Cake.Scripty](https://www.nuget.org/packages/Cake.Scripty) | daveaglick | Yes | No | Not Required | Not Required |
+| [Cake.Scripty](https://www.nuget.org/packages/Cake.Scripty) | daveaglick | Yes | No | Yes | Not Required |
 | [Cake.SemVer](https://www.nuget.org/packages/Cake.SemVer) | redth | Yes | Yes | Yes | No |
 | [Cake.SendGrid](https://www.nuget.org/packages/Cake.SendGrid) | jericho | Yes | Yes | Yes | Yes |
 | Cake.ServiceFabric | mholo65 | No | No | No | No |
@@ -169,7 +169,7 @@ Currently:
 | [Cake.WebDeploy](https://www.nuget.org/packages/Cake.WebDeploy) | sharperad | Yes | Yes | Yes | No |
 | [Cake.WebPack](https://www.nuget.org/packages/Cake.WebPack) | philo | Yes | Yes | Yes | No |
 | [Cake.WinSCP](https://www.nuget.org/packages/Cake.WinSCP) | ilich | Yes | Yes| Yes | No |
-| [Cake.Wyam](https://www.nuget.org/packages/Cake.Wyam) | daveaglick | Yes | Yes | Not Required | Not Required |
+| [Cake.Wyam](https://www.nuget.org/packages/Cake.Wyam) | daveaglick | Yes | Yes | Yes | Not Required |
 | [Cake.Xamarin](https://www.nuget.org/packages/Cake.Xamarin) | redth | Yes | Yes | Yes | No |
 | [Cake.Xamarin.Build](https://www.nuget.org/packages/Cake.Xamarin.Build) | redth | Yes | Not Required | Not Required | Not Required |
 | [Cake.XCode](https://www.nuget.org/packages/Cake.XCod) | redth | Yes | Yes | Yes | No |

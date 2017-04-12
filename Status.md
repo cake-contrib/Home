@@ -1,7 +1,7 @@
 In total, there are 132 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [118 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [119 of them](https://www.nuget.org/profiles/cake-contrib)
 * 51 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 102 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -59,7 +59,7 @@ Currently:
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack) | olivier-spinelli | Yes | No | Not Required | Not Required |
 | [Cake.CMake](https://www.nuget.org/packages/Cake.CMake) | patrik | Yes | Yes | Yes | Yes |
 | Cake.CodeCov | larzw admiringworm | No | No | No | No |
-| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting) | bbtsoftwareag | Yes | No | Yes | Yes |
 | [Cake.Compression](https://www.nuget.org/packages/Cake.Compression) | arkord | Yes | Yes| Yes | No |
 | [Cake.Coveralls](https://www.nuget.org/packages/Cake.Coveralls) | gep13 | Yes | Yes | Yes | Yes |
 | [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/) | RadioSystems | No | Yes | Yes | No |

@@ -1,7 +1,7 @@
 In total, there are 132 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [117 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [118 of them](https://www.nuget.org/profiles/cake-contrib)
 * 51 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 102 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -122,7 +122,7 @@ Currently:
 | [Cake.Prca](https://www.nuget.org/packages/Cake.Prca/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Prca.Issues.InspectCode](https://www.nuget.org/packages/Cake.Prca.Issues.InspectCode/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Prca.Issues.ESLint](https://www.nuget.org/packages/Cake.Prca.Issues.ESLint/) | bbtsoftwareag | Yes | No | No | Yes |
-| [Cake.Prca.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Prca.Issues.Markdownlint/) | bbtsoftwareag | Yes | No | No | Yes |
+| [Cake.Prca.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Prca.Issues.Markdownlint/) | bbtsoftwareag | Yes | No | Yes | Yes |
 | [Cake.Prca.Issues.MsBuild](https://www.nuget.org/packages/Cake.Prca.Issues.MsBuild/) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Prca.Issues.Stylelint](https://www.nuget.org/packages/Cake.Prca.Issues.Stylelint/) | bbtsoftwareag | Yes | No | No | Yes |
 | [Cake.Prca.Issues.TSLint](https://www.nuget.org/packages/Cake.Prca.Issues.TSLint/) | bbtsoftwareag | Yes | No | No | Yes |

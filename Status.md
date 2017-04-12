@@ -106,6 +106,7 @@ Currently:
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools) | redth | Yes | No | Yes | No |
 | [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask) | marcosnz | Yes | Yes | No | No |
 | [Cake.MsDeploy](https://www.nuget.org/packages/Cake.MsDeploy) | louisfischer | Yes | Yes| Yes | Yes |
+| Cake.Netlify | philllipsj | No | No | No | No |
 | [Cake.Newman](https://www.nuget.org/packages/Cake.Newman) | achapman | Yes | Yes | Yes | Yes |
 | [Cake.NewRelic](https://www.nuget.org/packages/Cake.NewRelic) | brysonwilding | Yes | No | Yes | No |
 | [Cake.Npm](https://www.nuget.org/packages/Cake.Npm) | philo | Yes | Yes | Yes | Yes |

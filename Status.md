@@ -59,7 +59,7 @@ Currently:
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack) | olivier-spinelli | Yes | No | Not Required | Not Required |
 | [Cake.CMake](https://www.nuget.org/packages/Cake.CMake) | patrik | Yes | Yes | Yes | Yes |
 | Cake.CodeCov | larzw admiringworm | No | No | No | No |
-| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting) | bbtsoftwareag | Yes | No | Yes | Yes |
+| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting) | bbtsoftwareag | Yes | Yes | Yes | Yes |
 | [Cake.Compression](https://www.nuget.org/packages/Cake.Compression) | arkord | Yes | Yes| Yes | No |
 | [Cake.Coveralls](https://www.nuget.org/packages/Cake.Coveralls) | gep13 | Yes | Yes | Yes | Yes |
 | [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/) | RadioSystems | No | Yes | Yes | No |

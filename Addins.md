@@ -6,7 +6,7 @@ The following is a list of all the addin's whose source code is hosted within th
 |-------------------------------|-----------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Cake.AliaSql                  | [RichiCoder1](https://github.com/richicoder1) | [Cake.AliaSql](https://www.nuget.org/packages/Cake.AliaSql/)| [Cake.AliaSql](https://github.com/cake-contrib/cake.aliasql)|
 | Cake.CakeMail                 | [](https://github.com/) | [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail/) | [Cake.CakeMail](https://github.com/cake-contrib/cake.CakeMail) |
-| Cake.Chocolatey.Module        | [gep13](https://github.com/gep13) | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module/) | [Cake.](https://github.com/cake-contrib/cake.Chocolatey.Module)|
+| Cake.Chocolatey.Module        | [gep13](https://github.com/gep13) | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module/) | [Cake.Chocolatey.Module](https://github.com/cake-contrib/cake.Chocolatey.Module)|
 | Cake.Chutzpah                 | [](https://github.com/) | [Cake.Chutzpah](https://www.nuget.org/packages/Cake.Chutzpah/) | [Cake.Chutzpah](https://github.com/cake-contrib/cake.Chutzpah) |
 | Cake.CMake                    | [](https://github.com/) | [Cake.CMake](https://www.nuget.org/packages/Cake.CMake/) | [Cake.CMake](https://github.com/cake-contrib/cake.CMake) |
 | Cake.CodeAnalysisReporting    | [](https://github.com/) | [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting/) | [Cake.CodeAnalysisReporting](https://github.com/cake-contrib/cake.CodeAnalysisReporting) |
@@ -35,7 +35,7 @@ The following is a list of all the addin's whose source code is hosted within th
 | Cake.Npm                      | [](https://github.com/) | [Cake.Npm](https://www.nuget.org/packages/Cake.Npm/) | [Cake.Npm](https://github.com/cake-contrib/cake.Npm) |
 | Cake.Npm.Module               | [gep13](https://github.com/gep13) | [Cake.Npm.Module](https://www.nuget.org/packages/Cake.Npm.Module/) | [Cake.Npm.Module](https://github.com/cake-contrib/cake.Npm.Module) |
 | Cake.Plist                    | [](https://github.com/) | [Cake.Plist](https://www.nuget.org/packages/Cake.Plist/) | [Cake.Plist](https://github.com/cake-contrib/cake.Plist) |
-| Cake.Prca                     | [pascalberger](https://github.com/pascalberger | [Cake.Prca](https://www.nuget.org/packages/Cake.Prca/) | [Cake.Prca](https://github.com/cake-contrib/cake.Prca) |
+| Cake.Prca                     | [pascalberger](https://github.com/pascalberger) | [Cake.Prca](https://www.nuget.org/packages/Cake.Prca/) | [Cake.Prca](https://github.com/cake-contrib/cake.Prca) |
 | Cake.Prca.Issues.ESLint       | [pascalberger](https://github.com/pascalberger) | [Cake.Prca.Issues.ESLint](https://www.nuget.org/packages/Cake.Prca.Issues.ESLint/) | [Cake.Prca.Issues.ESLint](https://github.com/cake-contrib/cake.Prca.Issues.ESLint) |
 | Cake.Prca.Issues.InspectCode  | [pascalberger](https://github.com/pascalberger) | [Cake.Prca.Issues.InspectCode](https://www.nuget.org/packages/Cake.Prca.Issues.InspectCode/) | [Cake.Prca.Issues.InspectCode](https://github.com/cake-contrib/cake.Prca.Issues.InspectCode) |
 | Cake.Prca.Issues.Markdownlint | [pascalberger](https://github.com/pascalberger) | [Cake.Prca.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Prca.Issues.Markdownlint/) | [Cake.Prca.Issues.Markdownlint](https://github.com/cake-contrib/cake.Prca.Issues.Markdownlint) |
@@ -46,7 +46,7 @@ The following is a list of all the addin's whose source code is hosted within th
 | Cake.Prca.Website             | [pascalberger](https://github.com/pascalberger) | [Cake.Prca.Website](https://www.nuget.org/packages/Cake.Prca.Website/) | [Cake.Prca.Website](https://github.com/cake-contrib/cake.Prca.Website) |
 | Cake.Recipe                   | [gep13](https://github.com/gep13) | [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe/) | [Cake.Recipe](https://github.com/cake-contrib/cake.Recipe) |
 | Cake.ReSharperReports         | [gep13](https://github.com/gep13) | [Cake.ReSharperReports](https://www.nuget.org/packages/Cake.ReSharperReports/) | [Cake.ReSharperReports](https://github.com/cake-contrib/cake.ReSharperReports) |
-| Cake.SendGrid                 | [](https://github.com/) | [Cake.ReSharperReports](https://www.nuget.org/packages/Cake.ReSharperReports/) | [Cake.ReSharperReports](https://github.com/cake-contrib/cake.ReSharperReports) |
+| Cake.SendGrid                 | [](https://github.com/) | [Cake.SendGrid](https://www.nuget.org/packages/Cake.SendGrid/) | [Cake.SendGrid](https://github.com/cake-contrib/cake.SendGrid)|
 | Cake.Tfx                      | [gep13](https://github.com/gep13) | [Cake.Tfx](https://www.nuget.org/packages/Cake.Tfx/) | [Cake.Tfx](https://github.com/cake-contrib/cake.Tfx) |
 | Cake.Twitter                  | [gep13](https://github.com/gep13) | [Cake.Twitter](https://www.nuget.org/packages/Cake.Twitter/) | [Cake.Twitter](https://github.com/cake-contrib/cake.Twitter) |
 | Cake.Unity                    | [](https://github.com/) | [Cake.Unity](https://www.nuget.org/packages/CakeUnity./) | [Cake.Unity](https://github.com/cake-contrib/cake.Unity) |

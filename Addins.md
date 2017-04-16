@@ -5,53 +5,53 @@ The following is a list of all the addin's whose source code is hosted within th
 | Addin Name                    | Maintainer(s)                                 | NuGet Package                                               | GitHub Repo                                                 |
 |-------------------------------|-----------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
 | Cake.AliaSql                  | [RichiCoder1](https://github.com/richicoder1) | [Cake.AliaSql](https://www.nuget.org/packages/Cake.AliaSql/)| [Cake.AliaSql](https://github.com/cake-contrib/cake.aliasql)|
-| Cake.CakeMail                 |  |  |  |
-| Cake.Chocolatey.Module        |  |  |  |
-| Cake.Chutzpah                 |  |  |  |
-| Cake.CMake                    |  |  |  |
-| Cake.CodeAnalysisReporting    |  |  |  |
-| Cake.Coveralls                |  |  |  |
-| Cake.DNF.Module               |  |  |  |
-| Cake.DocFx                    |  |  |  |
-| Cake.DotNetCoreEf             |  |  |  |
-| Cake.Email                    |  |  |  |
-| Cake.Ember                    |  |  |  |
-| Cake.EventLog                 |  |  |  |
-| Cake.FluentMigrator           |  |  |  |
-| Cake.Gem                      |  |  |  |
-| Cake.Gitter                   |  |  |  |
-| Cake.Grunt                    |  |  |  |
-| Cake.Gulp                     |  |  |  |
-| Cake.HipChat                  |  |  |  |
-| Cake.HockeyApp                |  |  |  |
-| Cake.Http                     |  |  |  |
-| Cake.Incubator                |  |  |  |
-| Cake.LongPath.Module          |  |  |  |
-| Cake.Cake.Mage                |  |  |  |
-| Cake.MicrosoftTeams           |  |  |  |
-| Cake.MSBuildTask              |  |  |  |
-| Cake.MsDeploy                 |  |  |  |
-| Cake.Newman                   |  |  |  |
-| Cake.Npm                      |  |  |  |
-| Cake.Npm.Module               |  |  |  |
-| Cake.Plist                    |  |  |  |
-| Cake.Prca                     |  |  |  |
-| Cake.Prca.Issues.ESLint       |  |  |  |
-| Cake.Prca.Issues.InspectCode  |  |  |  |
-| Cake.Prca.Issues.Markdownlint |  |  |  |
-| Cake.Prca.Issues.MsBuild      |  |  |  |
-| Cake.Prca.Issues.Stylelint    |  |  |  |
-| Cake.Prca.Issues.TSLint       |  |  |  |
-| Cake.Prca.PullRequests.Tfs    |  |  |  |
-| Cake.Prca.Website             |  |  |  |
-| Cake.Recipe                   |  |  |  |
-| Cake.ReSharperReports         |  |  |  |
-| Cake.SendGrid                 |  |  |  |
-| Cake.Tfx                      |  |  |  |
-| Cake.Twitter                  |  |  |  |
-| Cake.Unity                    |  |  |  |
-| Cake.Vagrant                  |  |  |  |
-| Cake.VsCode                   |  |  |  |
-| Cake.VsMetrics                |  |  |  |
-| Cake.Webpack                  |  |  |  |
-| Cake.Yeoman                   |  |  |  |
+| Cake.CakeMail                 | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Chocolatey.Module        | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Chutzpah                 | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.CMake                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.CodeAnalysisReporting    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Coveralls                | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.DNF.Module               | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.DocFx                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.DotNetCoreEf             | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Email                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Ember                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.EventLog                 | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.FluentMigrator           | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Gem                      | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Gitter                   | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Grunt                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Gulp                     | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.HipChat                  | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.HockeyApp                | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Http                     | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Incubator                | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.LongPath.Module          | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Cake.Mage                | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.MicrosoftTeams           | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.MSBuildTask              | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.MsDeploy                 | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Newman                   | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Npm                      | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Npm.Module               | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Plist                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca                     | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Issues.ESLint       | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Issues.InspectCode  | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Issues.Markdownlint | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Issues.MsBuild      | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Issues.Stylelint    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Issues.TSLint       | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.PullRequests.Tfs    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Prca.Website             | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Recipe                   | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.ReSharperReports         | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.SendGrid                 | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Tfx                      | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Twitter                  | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Unity                    | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Vagrant                  | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.VsCode                   | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.VsMetrics                | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Webpack                  | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |
+| Cake.Yeoman                   | [](https://github.com/) | [Cake.](https://www.nuget.org/packages/Cake./) | [Cake.](https://github.com/cake-contrib/cake.) |

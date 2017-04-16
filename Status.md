@@ -187,17 +187,17 @@ Currently:
 
 # Needs investigation
 
-| Name | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-| --- | --- | --- | --- | --- |
-| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Storm | No | No | No |
-| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS) | Storm | No | No | No |
-| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget) | Storm | No | No | No |
-| [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android) | Storm | No | No | No |
+| Name                                                                                                  | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
+|-------------------------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
+| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Storm      | No                   | No                    | No                                   |
+| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm      | No                   | No                    | No                                   |
+| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm      | No                   | No                    | No                                   |
+| [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Storm      | No                   | No                    | No                                   |
 
 # Deprecated
 
-| Name | Maintainer | cake-contrib user added on NuGet.org | Replaced By |
-| --- | --- | --- | --- |
-| [Cake.Extensions](https://www.nuget.org/packages/Cake.Extensions/) | wwwlicious | Yes | [Cake.Incubator](https://www.nuget.org/packages/Cake.Incubator) |
-| [Cake.SemVer.FromAssembly](https://www.nuget.org/packages/Cake.SemVer.FromAssembly) | wallymathieu | No - Not Required | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/) |
-| [Cake.SemVer.FromBinary](https://www.nuget.org/packages/Cake.SemVer.FromBinary) | wallymathieu | No - Not Required | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/) |
+| Name                                                                                | Maintainer   | cake-contrib user added on NuGet.org | Replaced By                                                     |
+|-------------------------------------------------------------------------------------|--------------|--------------------------------------|-----------------------------------------------------------------|
+| [Cake.Extensions](https://www.nuget.org/packages/Cake.Extensions/)                  | wwwlicious   | Yes                                  | [Cake.Incubator](https://www.nuget.org/packages/Cake.Incubator) |
+| [Cake.SemVer.FromAssembly](https://www.nuget.org/packages/Cake.SemVer.FromAssembly) | wallymathieu | No - Not Required                    | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)      |
+| [Cake.SemVer.FromBinary](https://www.nuget.org/packages/Cake.SemVer.FromBinary)     | wallymathieu | No - Not Required                    | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)      |

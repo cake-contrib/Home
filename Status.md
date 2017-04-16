@@ -1,4 +1,4 @@
-In total, there are 132 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
+In total, there are 133 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [121 of them](https://www.nuget.org/profiles/cake-contrib)
@@ -30,62 +30,62 @@ Currently:
 
 # Addins
 
-| Name | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
-| --- | --- | --- | --- | --- | --- |
-| [Cake.ActiveDirectory](https://www.nuget.org/packages/Cake.ActiveDirectory) | RadioSystems | Yes | Yes | Yes | No |
-| [Cake.AliaSql](https://www.nuget.org/packages/Cake.AliaSql) | Richicoder | Yes | Yes | Yes | Yes |
-| [Cake.Android.Adb](https://www.nuget.org/packages/Cake.Android.Adb) | redth | Yes | Yes | Yes | No |
-| [Cake.Android.SdkManager](https://www.nuget.org/packages/Cake.Android.SdkManager) | redth | Yes | Yes | Yes | No |
-| [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest) | ghuntley | Yes | Yes | Yes | No |
-| [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator) | ghuntley | Yes | Yes | Yes | No |
-| [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager) | cphill11 | Yes | Yes | Yes | No |
-| [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee) | LittleColin | Yes | Yes | Yes | No |
-| [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor) | redth | Yes | Yes | Yes | No |
-| [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/) | wexman | Yes | Yes | Yes | No |
-| [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest) | achapman | Yes | Yes | Yes | No |
-| [Cake.AWS.CloudFront](https://www.nuget.org/packages/Cake.AWS.CloudFront) | sharperad | Yes | Yes | Yes | No |
-| [Cake.AWS.CodeDeploy](https://www.nuget.org/packages/Cake.AWS.CodeDeploy) | sharperad | Yes | Yes | No | No |
-| [Cake.AWS.EC2](https://www.nuget.org/packages/Cake.AWS.EC2) | sharperad | Yes | No | Yes | No |
-| [Cake.AWS.ElasticBeanstalk](https://www.nuget.org/packages/Cake.AWS.ElasticBeanstalk) | mkempe | Yes | No | Yes | No |
-| [Cake.AWS.ElasticLoadBalancing](https://www.nuget.org/packages/Cake.AWS.ElasticLoadBalancing) | sharperad | Yes | Yes | Yes | No |
-| [Cake.AWS.Route53](https://www.nuget.org/packages/Cake.AWS.Route53) | sharperad | Yes | Yes | Yes | No |
-| [Cake.AWS.S3](https://www.nuget.org/packages/Cake.AWS.S3) | sharperad | Yes | Yes | Yes | No |
-| [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/) | DixonD | No | No | No | No |
-| [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage) | RadioSystems | Yes | Yes | Yes | No |
-| [Cake.CachedNpm](https://www.nuget.org/packages/Cake.CachedNpm/) | TomikT | No | No | No | No |
-| [Cake.CakeBoss](https://www.nuget.org/packages/Cake.CakeBoss) | sharperad | Yes | No | Yes | No |
-| [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail) | jericho | Yes | Yes | Yes | Yes |
-| [Cake.Chutzpah](https://www.nuget.org/packages/Cake.Chutzpah/) | James Nail| Yes | No| Yes | Yes |
-| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack) | olivier-spinelli | Yes | No | Not Required | Not Required |
-| [Cake.CMake](https://www.nuget.org/packages/Cake.CMake) | patrik | Yes | Yes | Yes | Yes |
-| Cake.CodeCov | larzw admiringworm | No | No | No | No |
-| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting) | bbtsoftwareag | Yes | Yes | Yes | Yes |
-| [Cake.Compression](https://www.nuget.org/packages/Cake.Compression) | arkord | Yes | Yes| Yes | No |
-| [Cake.Coveralls](https://www.nuget.org/packages/Cake.Coveralls) | gep13 | Yes | Yes | Yes | Yes |
-| [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/) | RadioSystems | No | Yes | Yes | No |
-| [Cake.Curl](https://www.nuget.org/packages/Cake.Curl) | ecampidoglio | Yes | Yes | Yes | No |
-| [Cake.Dialog](https://www.nuget.org/packages/Cake.Dialog) | wearetherock | Yes | No | Yes | No |
-| [Cake.DeployParams](https://www.nuget.org/packages/Cake.DeployParams) | wooboo | Yes | No | No | No |
-| [Cake.DocCreator](https://www.nuget.org/packages/Cake.DocCreator) | achapman | Yes | No | Not Required | Not Required |
-| [Cake.DocFx](https://www.nuget.org/packages/Cake.DocFx) | reicheltp | Yes | Yes | Yes | Yes |
-| [Cake.Docker](https://www.nuget.org/packages/Cake.Docker) | mihies | Yes | Yes | Yes | No |
-| [Cake.DocumentDb](https://www.nuget.org/packages/Cake.DocumentDb/) | jonathan.stowell | No | No | No | No |
-| [Cake.DoInDirectory](https://www.nuget.org/packages/Cake.DoInDirectory) | pitermarx | Yes | Yes | Yes | No |
-| [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/) | mvput | Yes | No | Yes | Yes |
-| Cake.Electron  | phillipsj | No | No | No | No |
-| [Cake.Email](https://www.nuget.org/packages/Cake.Email) | jericho | Yes | Yes | Yes | Yes |
-| Cake.Ember | gep13 | Yes | No | No | Yes |
-| [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform) | nengberg | Yes | Yes | Yes | No |
-| Cake.EventLog | agc93 | No | No | No | Yes |
-| [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet) | redth | Yes | Yes | Yes | No |
-| [Cake.Figlet](https://www.nuget.org/packages/Cake.Figlet) | enkafan | Yes | Yes | Yes | No |
-| [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers) | redth | Yes | Yes | Yes | No |
-| [Cake.FluentMigrator](https://www.nuget.org/packages/Cake.FluentMigrator) | FredrikL | Yes | Yes| Yes | Yes |
-| [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp) | cphill11 | Yes | Yes | Yes | No |
-| [Cake.Gem](https://www.nuget.org/packages/Cake.Gem) | gep13 | Yes | Yes | Yes | Yes |
-| [Cake.Genymotion](https://www.nuget.org/packages/Cake.Genymotion) | ghuntley | Yes | Yes | Yes | No |
-| [Cake.Git](https://www.nuget.org/packages/Cake.Git) | devlead | Yes | Yes | Yes | No |
-| [Cake.GithubUtility](https://www.nuget.org/packages/Cake.GithubUtility) | weartherock | Yes | No | Yes| No |
+| Name                                                                                          | Maintainer                  | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
+|-----------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| [Cake.ActiveDirectory](https://www.nuget.org/packages/Cake.ActiveDirectory)                   | RadioSystems                | Yes | Yes | Yes          | No  |
+| [Cake.AliaSql](https://www.nuget.org/packages/Cake.AliaSql)                                   | Richicoder                  | Yes | Yes | Yes          | Yes |
+| [Cake.Android.Adb](https://www.nuget.org/packages/Cake.Android.Adb)                           | redth                       | Yes | Yes | Yes          | No  |
+| [Cake.Android.SdkManager](https://www.nuget.org/packages/Cake.Android.SdkManager)             | redth                       | Yes | Yes | Yes          | No  |
+| [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest)             | ghuntley                    | Yes | Yes | Yes          | No  |
+| [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator)                     | ghuntley                    | Yes | Yes | Yes          | No  |
+| [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager)                           | cphill11                    | Yes | Yes | Yes          | No  |
+| [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee)                                     | LittleColin                 | Yes | Yes | Yes          | No  |
+| [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor)                                 | redth                       | Yes | Yes | Yes          | No  |
+| [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/)      | wexman                      | Yes | Yes | Yes          | No  |
+| [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest)                                 | achapman                    | Yes | Yes | Yes          | No  |
+| [Cake.AWS.CloudFront](https://www.nuget.org/packages/Cake.AWS.CloudFront)                     | sharperad                   | Yes | Yes | Yes          | No  |
+| [Cake.AWS.CodeDeploy](https://www.nuget.org/packages/Cake.AWS.CodeDeploy)                     | sharperad                   | Yes | Yes | No           | No  |
+| [Cake.AWS.EC2](https://www.nuget.org/packages/Cake.AWS.EC2)                                   | sharperad                   | Yes | No  | Yes          | No  |
+| [Cake.AWS.ElasticBeanstalk](https://www.nuget.org/packages/Cake.AWS.ElasticBeanstalk)         | mkempe                      | Yes | No  | Yes          | No  |
+| [Cake.AWS.ElasticLoadBalancing](https://www.nuget.org/packages/Cake.AWS.ElasticLoadBalancing) | sharperad                   | Yes | Yes | Yes          | No  |
+| [Cake.AWS.Route53](https://www.nuget.org/packages/Cake.AWS.Route53)                           | sharperad                   | Yes | Yes | Yes          | No  |
+| [Cake.AWS.S3](https://www.nuget.org/packages/Cake.AWS.S3)                                     | sharperad                   | Yes | Yes | Yes          | No  |
+| [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/)                                      | DixonD                      | No  | No  | No           | No  |
+| [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage)                         | RadioSystems                | Yes | Yes | Yes          | No  |
+| [Cake.CachedNpm](https://www.nuget.org/packages/Cake.CachedNpm/)                              | TomikT                      | No  | No  | No           | No  |
+| [Cake.CakeBoss](https://www.nuget.org/packages/Cake.CakeBoss)                                 | sharperad                   | Yes | No  | Yes          | No  |
+| [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail)                                 | jericho                     | Yes | Yes | Yes          | Yes          |
+| [Cake.Chutzpah](https://www.nuget.org/packages/Cake.Chutzpah/)                                | James Nail                               | Yes | No  | Yes          | Yes          |
+| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                   | olivier-spinelli                            | Yes | No  | Not Required | Not Required |
+| [Cake.CMake](https://www.nuget.org/packages/Cake.CMake)                                       | patrik                                          | Yes | Yes | Yes | Yes |
+| Cake.CodeCov                                                                                  | larzw admiringworm                                                                         | No | No | No | No |
+| [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting)       | bbtsoftwareag   | Yes | Yes | Yes | Yes |
+| [Cake.Compression](https://www.nuget.org/packages/Cake.Compression)                           | arkord                              | Yes | Yes| Yes | No |
+| [Cake.Coveralls](https://www.nuget.org/packages/Cake.Coveralls)                               | gep13                                   | Yes | Yes | Yes | Yes |
+| [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/)                              | RadioSystems                           | No | Yes | Yes | No |
+| [Cake.Curl](https://www.nuget.org/packages/Cake.Curl)                                         | ecampidoglio                                      | Yes | Yes | Yes | No |
+| [Cake.Dialog](https://www.nuget.org/packages/Cake.Dialog)                                     | wearetherock                                  | Yes | No | Yes | No |
+| [Cake.DeployParams](https://www.nuget.org/packages/Cake.DeployParams)                         | wooboo                            | Yes | No | No | No |
+| [Cake.DocCreator](https://www.nuget.org/packages/Cake.DocCreator)                             | achapman                              | Yes | No | Not Required | Not Required |
+| [Cake.DocFx](https://www.nuget.org/packages/Cake.DocFx)                                       | reicheltp                                       | Yes | Yes | Yes | Yes |
+| [Cake.Docker](https://www.nuget.org/packages/Cake.Docker)                                     | mihies                                        | Yes | Yes | Yes | No |
+| [Cake.DocumentDb](https://www.nuget.org/packages/Cake.DocumentDb/)                            | jonathan.stowell                     | No | No | No | No |
+| [Cake.DoInDirectory](https://www.nuget.org/packages/Cake.DoInDirectory)                       | pitermarx                       | Yes | Yes | Yes | No |
+| [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/)                        | mvput                            | Yes | No | Yes | Yes |
+| Cake.Electron                                                                                 | phillipsj                                                                                | No | No | No | No |
+| [Cake.Email](https://www.nuget.org/packages/Cake.Email)                                       | jericho                                         | Yes | Yes | Yes | Yes |
+| Cake.Ember                                                                                    | gep13 | Yes | No | No | Yes |
+| [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform)                   | nengberg                    | Yes | Yes | Yes | No |
+| Cake.EventLog                                                                                 | agc93                                                                                     | No | No | No | Yes |
+| [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet)                       | redth                           | Yes | Yes | Yes | No |
+| [Cake.Figlet](https://www.nuget.org/packages/Cake.Figlet)                                     | enkafan                                       | Yes | Yes | Yes | No |
+| [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers)                           | redth                               | Yes | Yes | Yes | No |
+| [Cake.FluentMigrator](https://www.nuget.org/packages/Cake.FluentMigrator)                     | FredrikL                      | Yes | Yes| Yes | Yes |
+| [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp)                                           | cphill11                                            | Yes | Yes | Yes | No |
+| [Cake.Gem](https://www.nuget.org/packages/Cake.Gem)                                           | gep13                                               | Yes | Yes | Yes | Yes |
+| [Cake.Genymotion](https://www.nuget.org/packages/Cake.Genymotion)                             | ghuntley                              | Yes | Yes | Yes | No |
+| [Cake.Git](https://www.nuget.org/packages/Cake.Git)                                           | devlead                                             | Yes | Yes | Yes | No |
+| [Cake.GithubUtility](https://www.nuget.org/packages/Cake.GithubUtility)                       | weartherock                     | Yes | No | Yes| No |
 | [Cake.GitPackager](https://www.nuget.org/packages/Cake.GitPackager) | ilich | Yes | Yes| Yes | No |
 | [Cake.Gitter](https://www.nuget.org/packages/Cake.Gitter) | gep13 | Yes | Yes | Yes | Yes |
 | [Cake.Gradle](https://www.nuget.org/packages/Cake.Gradle) | abeggchr | Yes | No | Yes | No |

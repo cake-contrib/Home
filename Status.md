@@ -8,23 +8,23 @@ Currently:
 
 # Recipes
 
-| Name | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-| --- | --- | --- | --- | --- |
-| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe) | gep13 | Yes | No | Yes |
+| Name                                                      | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
+|-----------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
+| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe) | gep13      | Yes                  | No                    | Yes                                  |
 
 # Modules
 
-| Name | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-| --- | --- | --- | --- | --- |
-| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module) | gep13 | Yes | No | Yes |
-| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module) | devlead | Yes | No | Yes |
-| Cake.Npm.Module | gep13 | Yes | No | Yes |
-| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module) | larzw | Yes | No | Yes |
+| Name                                                                            | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
+| --------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
+| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module) | gep13      | Yes                  | No                    | Yes                                  |
+| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)     | devlead    | Yes                  | No                    | Yes                                  |
+| Cake.Npm.Module                                                                 | gep13      | Yes                  | No                    | Yes                                  |
+| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)           | larzw      | Yes                  | No                    | Yes                                  |
 
 # Websites
 
-| Name | Maintainer |
-| --- | --- |
+| Name                                                                   | Maintainer   |
+|------------------------------------------------------------------------|--------------|
 | [Cake.Prca.Website](https://github.com/cake-contrib/Cake.Prca.Website) | pascalberger |
 
 

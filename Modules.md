@@ -1,1 +1,10 @@
+# Cake-Contrib Modules
 
+The following is a list of all the modules whose source code is hosted within the Cake-Contrib GitHub Organisation, along with the maintainers of those modules. If you have any questions about these projects, these are the best people to speak to about them.
+
+| Module Name                   | Maintainer(s)                                       | NuGet Package                                                                                  | GitHub Repo                                                                                    |
+|-------------------------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| Cake.Chocolatey.Module        | [gep13](https://github.com/gep13)                   | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module/)               | [Cake.Chocolatey.Module](https://github.com/cake-contrib/cake.Chocolatey.Module)               |
+| Cake.DNF.Module               | [agc93](https://github.com/agc93)                   | [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module/)                             | [Cake.DNF.Module](https://github.com/cake-contrib/cake.DNF.Module)                             |
+| Cake.LongPath.Module          | [devlead](https://github.com/devlead)               | [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module/)                   | [Cake.LongPath.Module](https://github.com/cake-contrib/cake.LongPath.Module)                   |
+| Cake.Npm.Module               | [gep13](https://github.com/gep13)                   | [Cake.Npm.Module](https://www.nuget.org/packages/Cake.Npm.Module/)                             | [Cake.Npm.Module](https://github.com/cake-contrib/cake.Npm.Module)                             |

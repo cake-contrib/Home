@@ -1,7 +1,7 @@
 In total, there are 133 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [121 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [122 of them](https://www.nuget.org/profiles/cake-contrib)
 * 51 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 104 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -167,7 +167,7 @@ Currently:
 | [Cake.UServer](https://www.nuget.org/packages/Cake.UServer)                                    | wearetherock                | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.Vagrant](https://www.nuget.org/packages/Cake.Vagrant)                                    | achapman                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.VersionReader](https://www.nuget.org/packages/Cake.VersionReader)                        | NinetailLabs                | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.ViewCompiler](https://www.nuget.org/packages/Cake.ViewCompiler)                          | achapman                    | Yes                  | No                    | No                                   | No                                 |
+| [Cake.ViewCompiler](https://www.nuget.org/packages/Cake.ViewCompiler)                          | achapman                    | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.VsCode](https://www.nuget.org/packages/Cake.VsCode)                                      | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.VsMetrics](https://www.nuget.org/packages/Cake.VsMetrics/)                               | fwinkelbauer                | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.VstsReleaseTools](https://www.nuget.org/packages/Cake.VstsReleaseTools)                  | fleed                       | Yes                  | No                    | No                                   | No                                 |

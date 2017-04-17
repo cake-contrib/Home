@@ -1,7 +1,7 @@
 In total, there are 133 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [122 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [124 of them](https://www.nuget.org/profiles/cake-contrib)
 * 51 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 104 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -44,7 +44,7 @@ Currently:
 | [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/)       | wexman                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest)                                  | achapman                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.CloudFront](https://www.nuget.org/packages/Cake.AWS.CloudFront)                      | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.AWS.CodeDeploy](https://www.nuget.org/packages/Cake.AWS.CodeDeploy)                      | sharperad                   | Yes                  | Yes                   | No                                   | No                                 |
+| [Cake.AWS.CodeDeploy](https://www.nuget.org/packages/Cake.AWS.CodeDeploy)                      | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.EC2](https://www.nuget.org/packages/Cake.AWS.EC2)                                    | sharperad                   | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.AWS.ElasticBeanstalk](https://www.nuget.org/packages/Cake.AWS.ElasticBeanstalk)          | mkempe                      | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.AWS.ElasticLoadBalancing](https://www.nuget.org/packages/Cake.AWS.ElasticLoadBalancing)  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -95,7 +95,7 @@ Currently:
 | [Cake.HockeyApp](https://www.nuget.org/packages/Cake.HockeyApp)                                | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Http](https://www.nuget.org/packages/Cake.Http)                                          | LouisFischer                | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.IIS](https://www.nuget.org/packages/Cake.IIS)                                            | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.ImageOptimizer](https://www.nuget.org/packages/Cake.ImageOptimizer)                      | sharperad                   | Yes                  | Yes                   | No                                   | No                                 |
+| [Cake.ImageOptimizer](https://www.nuget.org/packages/Cake.ImageOptimizer)                      | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Incubator](https://www.nuget.org/packages/Cake.Incubator)                                | wwwlicious                  | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Intellisense](https://www.nuget.org/packages/Cake.Intellisense/)                         | tpodolak                    | No                   | No                    | No                                   | No                                 |
 | [Cake.JMeter](https://www.nuget.org/packages/Cake.JMeter)                                      | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |

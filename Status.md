@@ -1,7 +1,7 @@
 In total, there are 133 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [126 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [127 of them](https://www.nuget.org/profiles/cake-contrib)
 * 52 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 104 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -162,7 +162,7 @@ Currently:
 | [Cake.Topshelf](https://www.nuget.org/packages/Cake.Topshelf)                                  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Transifex](https://www.nuget.org/packages/Cake.Transifex/)                               | admiringworm                | No                   | Yes                   | Yes                                  | No                                 |
 | [Cake.Twitter](https://www.nuget.org/packages/Cake.Twitter)                                    | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
-| [Cake.UncUtils](https://www.nuget.org/packages/Cake.UncUtils/)                                 | kolletzki                   | Yes                  | No                    | No                                   | No                                 |
+| [Cake.UncUtils](https://www.nuget.org/packages/Cake.UncUtils/)                                 | kolletzki                   | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.Unity](https://www.nuget.org/packages/Cake.Unity)                                        | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
 | [Cake.UServer](https://www.nuget.org/packages/Cake.UServer)                                    | wearetherock                | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.Vagrant](https://www.nuget.org/packages/Cake.Vagrant)                                    | achapman                    | Yes                  | Yes                   | Yes                                  | Yes                                |

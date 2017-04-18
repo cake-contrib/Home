@@ -1,7 +1,7 @@
 In total, there are 133 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [124 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [125 of them](https://www.nuget.org/profiles/cake-contrib)
 * 51 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 104 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -106,7 +106,7 @@ Currently:
 | [Cake.MicrosoftTeams](https://www.nuget.org/packages/Cake.MicrosoftTeams)                      | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools)                          | redth                       | Yes                  | No                    | Yes                                  | No                                 |
 | Cake.MSBuild15                                                                                 | phillipsj                   | No                   | No                    | No                                   | No                                 |
-| [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask)                            | marcosnz                    | Yes                  | Yes                   | No                                   | No                                 |
+| [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask)                            | marcosnz                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.MsDeploy](https://www.nuget.org/packages/Cake.MsDeploy)                                  | louisfischer                | Yes                  | Yes                   | Yes                                  | Yes                                |
 | Cake.Netlify                                                                                   | philllipsj                  | No                   | No                    | No                                   | No                                 |
 | [Cake.Newman](https://www.nuget.org/packages/Cake.Newman)                                      | achapman                    | Yes                  | Yes                   | Yes                                  | Yes                                |

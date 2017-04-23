@@ -189,7 +189,7 @@ Currently:
 | Cake.ServiceFabric                                                                             | mholo65                     | No                   | No                    | No                                   | No                                 |
 | Cake.Skype                                                                                     | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.Svn                                                                                       | mholo65                     | No                   | No                    | No                                   | No                                 |
-| [Cake.Unity](https://www.nuget.org/packages/Cake.Unity)                                        | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
+| Cake.Unity                                                                                     | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
 | Cake.Yeoman                                                                                    | pascalberger                | Yes                  | No                    | No                                   | Yes                                |
 
 # Needs investigation

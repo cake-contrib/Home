@@ -1,7 +1,7 @@
-In total, there are 135 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
+In total, there are 136 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [129 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [130 of them](https://www.nuget.org/profiles/cake-contrib)
 * 52 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 105 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated

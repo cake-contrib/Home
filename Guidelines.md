@@ -34,8 +34,26 @@ This is therefore the prefered method.
 It is more difficult to setup than Costura, would require additional build steps currently not supported by [Cake.Recipe],
 but would provide better performance than Costura.
 
+## Documenttion
+
+### Addin documentation
+
+The prefered tool for creating documentation for the addin is [Wyam].
+The [Cake.Recipe] scripts support building [Wyam] projects and the created website can be published to
+`https://cake-contrib.github.io/Cake.AddinName/` using a `gh-pages` branch.
+
+For details see [How to create gh-pages branch].
+
+### Integration on Cake website
+
+Addins published to nuget.org should be listed on the cakebuild.net website.
+
+Follow the instructions [here](https://github.com/cake-build/website/blob/develop/README.md#addins).
+
 [Cake.Recipe]: https://github.com/cake-contrib/Cake.Recipe
 [Costura]: https://github.com/Fody/Costura
 [Fody]: https://github.com/Fody/Fody/
 [Costura.Fody NuGet package]: https://nuget.org/packages/Costura.Fody/
-[ILMerge]: https://www.microsoft.com/en-us/download/details.aspx?id=17630 
+[ILMerge]: https://www.microsoft.com/en-us/download/details.aspx?id=17630
+[Wyam]: https://wyam.io/ 
+[How to create gh-pages branch]: http://www.gep13.co.uk/blog/how-to-create-gh-pages-branch

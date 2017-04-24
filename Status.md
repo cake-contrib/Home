@@ -1,7 +1,7 @@
 In total, there are 136 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [130 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [131 of them](https://www.nuget.org/profiles/cake-contrib)
 * 52 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 105 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -49,7 +49,7 @@ Currently:
 | [Cake.AWS.ElasticLoadBalancing](https://www.nuget.org/packages/Cake.AWS.ElasticLoadBalancing)  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.Route53](https://www.nuget.org/packages/Cake.AWS.Route53)                            | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.S3](https://www.nuget.org/packages/Cake.AWS.S3)                                      | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/)                                       | DixonD                      | Yes                  | No                    | No                                   | No                                 |
+| [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/)                                       | DixonD                      | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage)                          | RadioSystems                | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.CachedNpm](https://www.nuget.org/packages/Cake.CachedNpm/)                               | TomikT                      | No                   | No                    | No                                   | No                                 |
 | [Cake.CakeBoss](https://www.nuget.org/packages/Cake.CakeBoss)                                  | sharperad                   | Yes                  | No                    | Yes                                  | No                                 |

@@ -206,6 +206,12 @@ Currently:
 | [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                   | marcosnz            | Yes                  | No                    | No                                   |
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                           | olivier-spinelli    | Yes                  | No                    | No                                   |
 | [ScriptCs.Cake](https://www.nuget.org/packages/ScriptCs.Cake)                                         | redth               | Yes                  | No                    | No                                   |
+| [Cake.CD](https://www.nuget.org/packages/Cake.CD)                                                     | ObjectivityLtd      | Yes                  | No                    | No                                   |
+| [Cake.Cake.Deploy.Variables](https://www.nuget.org/packages/Cake.Cake.Deploy.Variables)               | ObjectivityLtd      | Yes                  | No                    | No                                   |
+| [AutoCake.TaskAliases](https://www.nuget.org/packages/AutoCake.TaskAliases)                           | tmorgner            | Yes                  | No                    | No                                   |
+| [AutoCake.Release](https://www.nuget.org/packages/AutoCake.Release)                                   | tmorgner            | Yes                  | No                    | No                                   |
+| [AutoCake.Build](https://www.nuget.org/packages/AutoCake.Build)                                       | tmorgner            | Yes                  | No                    | No                                   |
+| [CakeApp](https://www.nuget.org/packages/CakeApp)                                                     | secana              | Yes                  | No                    | No                                   |
 
 # Deprecated
 

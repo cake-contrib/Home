@@ -1,7 +1,7 @@
-In total, there are 134 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
+In total, there are 135 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [128 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [129 of them](https://www.nuget.org/profiles/cake-contrib)
 * 52 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 105 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 3 of them have been deprecated
@@ -72,6 +72,7 @@ Currently:
 | [Cake.DoInDirectory](https://www.nuget.org/packages/Cake.DoInDirectory)                        | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/)                         | mvput                       | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Email](https://www.nuget.org/packages/Cake.Email)                                        | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |
+| [Cake.EntityFramework](https://www.nuget.org/packages/Cake.EntityFramework)                    | louisfischer                | No                   | No                    | Yes                                  | No                                 |
 | [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform)                    | nengberg                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet)                        | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Figlet](https://www.nuget.org/packages/Cake.Figlet)                                      | enkafan                     | Yes                  | Yes                   | Yes                                  | No                                 |

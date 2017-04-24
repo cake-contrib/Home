@@ -148,7 +148,6 @@ Currently:
 | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                     | ozzymcduff                  | Yes                  | Yes                   | Not Required                         | Not Required                       |
 | [Cake.Terraform](https://www.nuget.org/packages/Cake.Terraform/)                               | erikvanbrakel               | No                   | Yes                   | Yes                                  | No                                 |
 | [Cake.Tfx](https://www.nuget.org/packages/Cake.Tfx)                                            | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
-| [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                            | marcosnz                    | Yes                  | No                    | No                                   | No                                 |
 | [Cake.Topshelf](https://www.nuget.org/packages/Cake.Topshelf)                                  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Transifex](https://www.nuget.org/packages/Cake.Transifex/)                               | admiringworm                | No                   | Yes                   | Yes                                  | No                                 |
 | [Cake.Twitter](https://www.nuget.org/packages/Cake.Twitter)                                    | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
@@ -195,13 +194,17 @@ Currently:
 
 # Needs investigation
 
-| Name                                                                                                  | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-|-------------------------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
-| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Storm      | No                   | No                    | No                                   |
-| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm      | No                   | No                    | No                                   |
-| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm      | No                   | No                    | No                                   |
-| [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Storm      | No                   | No                    | No                                   |
-| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                               | lowcase    | No                   | No                    | No                                   |
+| Name                                                                                                  | Maintainer          | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
+|-------------------------------------------------------------------------------------------------------|---------------------|----------------------|-----------------------|--------------------------------------|
+| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Storm               | No                   | No                    | No                                   |
+| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm               | No                   | No                    | No                                   |
+| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm               | No                   | No                    | No                                   |
+| [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Storm               | No                   | No                    | No                                   |
+| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                               | lowcase             | No                   | No                    | No                                   |
+| [Code.Cake](https://www.nuget.org/packages/Code.Cake)                                                 | olivier-spinelli    | No                   | No                    | No                                   |
+| [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                         | olivier-spinelli    | No                   | No                    | No                                   |
+| [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                   | marcosnz            | Yes                  | No                    | No                                   |
+| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                           | olivier-spinelli    | Yes                  | No                    | No                                   |
 
 # Deprecated
 

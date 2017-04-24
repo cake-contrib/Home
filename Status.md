@@ -18,7 +18,6 @@ Currently:
 | --------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
 | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module) | gep13      | Yes                  | No                    | Yes                                  |
 | [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)     | devlead    | Yes                  | No                    | Yes                                  |
-| Cake.Npm.Module                                                                 | gep13      | Yes                  | No                    | Yes                                  |
 | [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)           | larzw      | Yes                  | No                    | Yes                                  |
 
 # Websites
@@ -192,6 +191,7 @@ Currently:
 | Cake.Svn                                                                                       | mholo65                     | No                   | No                    | No                                   | No                                 |
 | Cake.Unity                                                                                     | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
 | Cake.Yeoman                                                                                    | pascalberger                | Yes                  | No                    | No                                   | Yes                                |
+| Cake.Npm.Module                                                                                | gep13                       | Yes                  | No                    | Yes                                  | No                                 |
 
 # Needs investigation
 

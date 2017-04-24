@@ -205,6 +205,7 @@ Currently:
 | [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                         | olivier-spinelli    | No                   | No                    | No                                   |
 | [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                   | marcosnz            | Yes                  | No                    | No                                   |
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                           | olivier-spinelli    | Yes                  | No                    | No                                   |
+| [ScriptCs.Cake](https://www.nuget.org/packages/ScriptCs.Cake)                                         | redth               | Yes                  | No                    | No                                   |
 
 # Deprecated
 

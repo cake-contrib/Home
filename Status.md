@@ -201,6 +201,7 @@ Currently:
 | [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm      | No                   | No                    | No                                   |
 | [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm      | No                   | No                    | No                                   |
 | [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Storm      | No                   | No                    | No                                   |
+| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                               | lowcase    | No                   | No                    | No                                   |
 
 # Deprecated
 

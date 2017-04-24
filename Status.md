@@ -1,10 +1,10 @@
 In total, there are 146 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [134 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [135 of them](https://www.nuget.org/profiles/cake-contrib)
 * 52 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 105 of them appear on the [Cake Website](http://cakebuild.net/addins/)
-* 5 of them have been deprecated
+* 4 of them have been deprecated
 
 # Recipes
 
@@ -220,3 +220,4 @@ Currently:
 | [Cake.Extensions](https://www.nuget.org/packages/Cake.Extensions/)                  | wwwlicious   | Yes                                  | [Cake.Incubator](https://www.nuget.org/packages/Cake.Incubator) |
 | [Cake.SemVer.FromAssembly](https://www.nuget.org/packages/Cake.SemVer.FromAssembly) | wallymathieu | Yes                                  | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)      |
 | [Cake.SemVer.FromBinary](https://www.nuget.org/packages/Cake.SemVer.FromBinary)     | wallymathieu | Yes                                  | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)      |
+| [SemVer.FromAssembly](https://www.nuget.org/packages/SemVer.FromAssembly/)          | wallymathieu | Yes                                  | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)      |

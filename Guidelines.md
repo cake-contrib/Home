@@ -34,7 +34,7 @@ This is therefore the prefered method.
 It is more difficult to setup than Costura, would require additional build steps currently not supported by [Cake.Recipe],
 but would provide better performance than Costura.
 
-## Documenttion
+## Documentation
 
 Addins should follow the [Cake Documentation Guidelines].
 

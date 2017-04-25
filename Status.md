@@ -1,7 +1,7 @@
 In total, there are 146 addins (and supporting NuGet packages) and 3 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [136 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [137 of them](https://www.nuget.org/profiles/cake-contrib)
 * 52 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 105 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 * 4 of them have been deprecated
@@ -64,7 +64,7 @@ Currently:
 | [Cake.Curl](https://www.nuget.org/packages/Cake.Curl)                                          | ecampidoglio                | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Dialog](https://www.nuget.org/packages/Cake.Dialog)                                      | wearetherock                | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.DeployParams](https://www.nuget.org/packages/Cake.DeployParams)                          | wooboo                      | Yes                  | No                    | Yes                                  | No                                 |
-| [Cake.DocCreator](https://www.nuget.org/packages/Cake.DocCreator)                              | achapman                    | Yes                  | No                    | Not Required                         | Not Required                       |
+| [Cake.DocCreator](https://www.nuget.org/packages/Cake.DocCreator)                              | achapman                    | Yes                  | No                    | Yes                                  | Not Required                       |
 | [Cake.DocFx](https://www.nuget.org/packages/Cake.DocFx)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Docker](https://www.nuget.org/packages/Cake.Docker)                                      | mihies                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.DocumentDb](https://www.nuget.org/packages/Cake.DocumentDb/)                             | jonathan.stowell            | Yes                  | No                    | No                                   | No                                 |

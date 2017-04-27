@@ -1,4 +1,10 @@
-In total, there are 146 addins (and supporting NuGet packages) and 5 modules hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
+In total, there are:
+
+* 138 addins (and supporting NuGet packages)
+* 5 modules 
+* 1 Recipe
+
+hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [139 of them](https://www.nuget.org/profiles/cake-contrib)

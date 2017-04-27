@@ -195,6 +195,7 @@ Currently:
 | Cake.Npm.Module                                                                                | gep13                       | Yes                  | No                    | No                                   | No                                 |
 | Cake.OpenVsixSignTool                                                                          | mihamarkic                  | No                   | No                    | No                                   | No                                 |
 | Cake.SignClient                                                                                | mihamarkic                  | No                   | No                    | No                                   | No                                 |
+| Cake.WindowsAppStore                                                                           | geertvanhorrik              | No                   | No                    | No                                   | No                                 |
 
 # Needs investigation
 

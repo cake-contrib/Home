@@ -181,8 +181,8 @@ Currently:
 
 # Work in Progress
 
-| Name                                                                                           | Maintainer                  | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-|------------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|
+| Name                                                                                           | Maintainer                  | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |Added to cake-contrib organisation  |
+|------------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
 | Cake.CodeCov                                                                                   | larzw admiringworm          | No                   | No                    | No                                   | No                                 |
 | Cake.Electron                                                                                  | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.Ember                                                                                     | gep13                       | Yes                  | No                    | No                                   | Yes                                |
@@ -203,6 +203,7 @@ Currently:
 | Cake.Prca.Issues.ESLint                                                                        | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Prca.Issues.Stylelint                                                                     | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Prca.Issues.TSLint                                                                        | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
+| Cake.Parallel                                                                                  | aabenoja                    | No                   | No                    | No                                   | No                                 |
 
 # Needs investigation
 

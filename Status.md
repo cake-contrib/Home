@@ -10,7 +10,7 @@ hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [139 of them](https://www.nuget.org/profiles/cake-contrib)
-* 53 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* 54 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 108 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
@@ -146,7 +146,7 @@ Currently:
 | [Cake.SqlServer](https://www.nuget.org/packages/Cake.SqlServer)                                | trailmax                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlServerPackager](https://www.nuget.org/packages/Cake.SqlServerPackager)                | ilich                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlTools](https://www.nuget.org/packages/Cake.SqlTools)                                  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.SquareLogo](https://www.nuget.org/packages/Cake.SquareLogo)                              | weartherock                 | Yes                  | No                    | Yes                                  | No                                 |
+| [Cake.SquareLogo](https://www.nuget.org/packages/Cake.SquareLogo)                              | weartherock                 | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Squirrel](https://www.nuget.org/packages/Cake.Squirrel)                                  | cphill11                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Storyteller](https://www.nuget.org/packages/Cake.Storyteller)                            | bibodha                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.StrongNameTool](https://www.nuget.org/packages/Cake.StrongNameTool)                      | krippz                      | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -190,9 +190,9 @@ Currently:
 | Cake.MSBuild15                                                                                    | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.Node                                                                                         | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.Packer                                                                                       | agc93                       | No                   | No                    | No                                   | No                                 |
-| Cake.ServiceFabric                                                                                | mholo65                     | No                   | No                    | No                                   | No                                 |
+| Cake.ServiceFabric                                                                                | mholo65                     | No                   | No                    | No                                   | Yes                                |
 | Cake.Skype                                                                                        | phillipsj                   | No                   | No                    | No                                   | No                                 |
-| Cake.Svn                                                                                          | mholo65                     | No                   | No                    | No                                   | No                                 |
+| Cake.Svn                                                                                          | mholo65                     | No                   | No                    | No                                   | Yes                                |
 | Cake.Unity                                                                                        | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
 | Cake.Yeoman                                                                                       | pascalberger                | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Npm.Module                                                                                   | gep13                       | Yes                  | No                    | No                                   | No                                 |

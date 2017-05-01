@@ -10,7 +10,6 @@ hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [139 of them](https://www.nuget.org/profiles/cake-contrib)
-* 54 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 108 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
@@ -86,7 +85,7 @@ Currently:
 | [Cake.Figlet](https://www.nuget.org/packages/Cake.Figlet)                                      | enkafan                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers)                            | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.FluentMigrator](https://www.nuget.org/packages/Cake.FluentMigrator)                      | FredrikL                    | Yes                  | Yes                   | Yes                                  | Yes                                |
-| [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp)                                            | cphill11                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp)                                            | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Gem](https://www.nuget.org/packages/Cake.Gem)                                            | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Genymotion](https://www.nuget.org/packages/Cake.Genymotion)                              | ghuntley                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Git](https://www.nuget.org/packages/Cake.Git)                                            | devlead                     | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -114,7 +113,7 @@ Currently:
 | [Cake.MsDeploy](https://www.nuget.org/packages/Cake.MsDeploy)                                  | louisfischer                | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Newman](https://www.nuget.org/packages/Cake.Newman)                                      | achapman                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.NewRelic](https://www.nuget.org/packages/Cake.NewRelic)                                  | brysonwilding               | Yes                  | No                    | Yes                                  | No                                 |
-| [Cake.Netlify](https://www.nuget.org/packages/Cake.Netlify/)                                   | philllipsj                  | No                   | No                    | Yes                                  | No                                 |
+| [Cake.Netlify](https://www.nuget.org/packages/Cake.Netlify/)                                   | philllipsj                  | No                   | No                    | Yes                                  | Yes                                |
 | [Cake.Npm](https://www.nuget.org/packages/Cake.Npm)                                            | philo                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.NSpec](https://www.nuget.org/packages/Cake.NSpec)                                        | app-iron                    | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.NSwag](https://www.nuget.org/packages/Cake.NSwag)                                        | achapman                    | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -147,7 +146,7 @@ Currently:
 | [Cake.SqlServerPackager](https://www.nuget.org/packages/Cake.SqlServerPackager)                | ilich                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlTools](https://www.nuget.org/packages/Cake.SqlTools)                                  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SquareLogo](https://www.nuget.org/packages/Cake.SquareLogo)                              | weartherock                 | Yes                  | No                    | Yes                                  | Yes                                |
-| [Cake.Squirrel](https://www.nuget.org/packages/Cake.Squirrel)                                  | cphill11                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Squirrel](https://www.nuget.org/packages/Cake.Squirrel)                                  | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Storyteller](https://www.nuget.org/packages/Cake.Storyteller)                            | bibodha                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.StrongNameTool](https://www.nuget.org/packages/Cake.StrongNameTool)                      | krippz                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.StyleCop](https://www.nuget.org/packages/Cake.StyleCop)                                  | Codedlogic                  | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -174,7 +173,7 @@ Currently:
 | [Cake.Xamarin.Build](https://www.nuget.org/packages/Cake.Xamarin.Build)                        | redth                       | Yes                  | Not Required          | Not Required                         | Not Required                       |
 | [Cake.XCode](https://www.nuget.org/packages/Cake.XCode)                                        | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.XComponent](https://www.nuget.org/packages/Cake.XComponent)                              | xcomponent                  | Yes                  | Yes                   | Not Required                         | Not Required                       |
-| [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform)                          | cphill11                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform)                          | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Yaml](https://www.nuget.org/packages/Cake.Yaml)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Yarn](https://www.nuget.org/packages/Cake.Yarn)                                          | MilovanovM                  | Yes                  | Yes                   | Yes                                  | No                                 |
 | [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                  | olivier-spinelli            | Yes                  | No                    | Not Required                         | Not Required                       |

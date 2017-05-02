@@ -21,13 +21,13 @@ Currently:
 
 # Modules
 
-| Name                                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-| ------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
-| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)     | gep13      | Yes                  | No                    | Yes                                  |
-| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)         | devlead    | Yes                  | No                    | Yes                                  |
-| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)               | larzw      | Yes                  | No                    | Yes                                  |
-| [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module) | agc93      | No                   | No                    | Yes                                  |
-| [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                   | agc93      | No                   | No                    | Yes                                  |
+| Name                                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
+| ------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)     | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)         | devlead    | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)               | larzw      | Yes                  | No                    | Yes                                  | No                                 |
+| [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module) | agc93      | No                   | No                    | Yes                                  | No                                 |
+| [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                   | agc93      | No                   | No                    | Yes                                  | Yes                                |
 
 # Websites
 

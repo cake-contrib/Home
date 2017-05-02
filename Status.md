@@ -10,7 +10,7 @@ hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [139 of them](https://www.nuget.org/profiles/cake-contrib)
-* 59 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* 63 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 108 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes

@@ -15,9 +15,9 @@ Currently:
 
 # Recipes
 
-| Name                                                      | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-|-----------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|
-| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe) | gep13      | Yes                  | No                    | Yes                                  |
+| Name                                                      | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
+|-----------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe) | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
 
 # Modules
 

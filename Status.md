@@ -10,7 +10,7 @@ hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [139 of them](https://www.nuget.org/profiles/cake-contrib)
-* 58 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* 59 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 108 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
@@ -204,6 +204,7 @@ Currently:
 | Cake.Prca.Issues.Stylelint                                                                        | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Prca.Issues.TSLint                                                                           | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Parallel                                                                                     | aabenoja                    | No                   | No                    | No                                   | No                                 |
+| Cake.Env.Module                                                                                   | phillipsj                   | No                   | No                    | No                                   | Yes                                |
 | [Cake.DotNetCore.Tools.AWS.Lambda](https://github.com/JonCubed/Cake.DotNetCore.Tools.AWS.Lambda)  | JonCubed                    | No                   | No                    | No                                   | No                                 |
 | [Cake.IISExpress](https://github.com/jrnail23/Cake.IISExpress)                                    | jrnail23                    | No                   | No                    | No                                   | No                                 |
 | [Cake.Process](https://github.com/jrnail23/Cake.Process)                                          | jrnail23                    | No                   | No                    | No                                   | No                                 |

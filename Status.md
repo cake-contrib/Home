@@ -10,7 +10,7 @@ hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [139 of them](https://www.nuget.org/profiles/cake-contrib)
-* 63 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* 67 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 108 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
@@ -44,9 +44,9 @@ Currently:
 | [Cake.AliaSql](https://www.nuget.org/packages/Cake.AliaSql)                                    | Richicoder                  | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Android.Adb](https://www.nuget.org/packages/Cake.Android.Adb)                            | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Android.SdkManager](https://www.nuget.org/packages/Cake.Android.SdkManager)              | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest)              | ghuntley                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest)              | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee)                                      | LittleColin                 | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator)                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator)                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager)                            | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor)                                  | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/)       | wexman                      | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -88,7 +88,7 @@ Currently:
 | [Cake.FluentMigrator](https://www.nuget.org/packages/Cake.FluentMigrator)                      | FredrikL                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp)                                            | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Gem](https://www.nuget.org/packages/Cake.Gem)                                            | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
-| [Cake.Genymotion](https://www.nuget.org/packages/Cake.Genymotion)                              | ghuntley                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Genymotion](https://www.nuget.org/packages/Cake.Genymotion)                              | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Git](https://www.nuget.org/packages/Cake.Git)                                            | devlead                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.GithubUtility](https://www.nuget.org/packages/Cake.GithubUtility)                        | weartherock                 | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.GitPackager](https://www.nuget.org/packages/Cake.GitPackager)                            | ilich                       | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -132,7 +132,7 @@ Currently:
 | [Cake.Prca](https://www.nuget.org/packages/Cake.Prca/)                                         | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ProjHelpers](https://www.nuget.org/packages/Cake.ProjHelpers)                            | almogor                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Putty](https://www.nuget.org/packages/Cake.Putty)                                        | mihies                      | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.Raygun](https://www.nuget.org/packages/Cake.Raygun)                                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Raygun](https://www.nuget.org/packages/Cake.Raygun)                                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ReSharperReports](https://www.nuget.org/packages/Cake.ReSharperReports)                  | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ResxConverter](https://www.nuget.org/packages/Cake.ResxConverter)                        | jzeferino                   | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Scripty](https://www.nuget.org/packages/Cake.Scripty)                                    | daveaglick                  | Yes                  | Yes                   | Yes                                  | Not Required                       |

@@ -1,6 +1,6 @@
 In total, there are:
 
-* 138 addins (and supporting NuGet packages)
+* 139 addins (and supporting NuGet packages)
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
@@ -143,6 +143,7 @@ Currently:
 | [Cake.SimpleHTTPServer](https://www.nuget.org/packages/Cake.SimpleHTTPServer)                  | wearetherock                | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.Slack](https://www.nuget.org/packages/Cake.Slack)                                        | devlead                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Sonar](https://www.nuget.org/packages/Cake.Sonar)                                        | tomstaijen                  | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.SqlPackage](https://www.nuget.org/packages/Cake.SqlPackage)                              | RLittlesII                  | No                   | No                    | No                                   | No                                 |
 | [Cake.SqlServer](https://www.nuget.org/packages/Cake.SqlServer)                                | trailmax                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlServerPackager](https://www.nuget.org/packages/Cake.SqlServerPackager)                | ilich                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlTools](https://www.nuget.org/packages/Cake.SqlTools)                                  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |

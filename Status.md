@@ -1,6 +1,6 @@
 In total, there are:
 
-* 139 addins (and supporting NuGet packages)
+* 140 addins (and supporting NuGet packages)
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [140 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [141 of them](https://www.nuget.org/profiles/cake-contrib)
 * 67 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 108 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -80,6 +80,7 @@ Currently:
 | [Cake.DoInDirectory](https://www.nuget.org/packages/Cake.DoInDirectory)                        | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/)                         | mvput                       | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Email](https://www.nuget.org/packages/Cake.Email)                                        | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |
+| [Cake.Ember](https://www.nuget.org/packages/Cake.Ember)                                        | gep13                       | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.EntityFramework](https://www.nuget.org/packages/Cake.EntityFramework)                    | louisfischer                | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform)                    | nengberg                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet)                        | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -186,7 +187,6 @@ Currently:
 |---------------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
 | Cake.CodeCov                                                                                      | larzw admiringworm          | No                   | No                    | No                                   | No                                 |
 | Cake.Electron                                                                                     | phillipsj                   | No                   | No                    | No                                   | No                                 |
-| Cake.Ember                                                                                        | gep13                       | Yes                  | No                    | No                                   | Yes                                |
 | Cake.EventLog                                                                                     | agc93                       | No                   | No                    | No                                   | Yes                                |
 | Cake.MSBuild15                                                                                    | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.Node                                                                                         | phillipsj                   | No                   | No                    | No                                   | No                                 |

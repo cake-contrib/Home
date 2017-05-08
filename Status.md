@@ -1,6 +1,6 @@
 In total, there are:
 
-* 140 addins (and supporting NuGet packages)
+* 141 addins (and supporting NuGet packages)
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
@@ -65,6 +65,7 @@ Currently:
 | [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail)                                  | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Chutzpah](https://www.nuget.org/packages/Cake.Chutzpah/)                                 | James Nail                  | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                    | olivier-spinelli            | Yes                  | No                    | Not Required                         | Not Required                       |
+| [Cake.ClickTwice](https://www.nuget.org/packages/Cake.ClickTwice/)                             | achapman                    | Yes                  | No                    | Yes                                  | No                                |
 | [Cake.CMake](https://www.nuget.org/packages/Cake.CMake)                                        | patrik                      | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting)        | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Compression](https://www.nuget.org/packages/Cake.Compression)                            | arkord                      | Yes                  | Yes                   | Yes                                  | No                                 |

@@ -224,6 +224,7 @@ Currently:
 | [Cake.ScheduledTasks](https://github.com/hawker-am/Cake.ScheduledTasks)                           | hawker-am                   | No                   | No                    | No                                   | No                                 |
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   | No                    | No                                   | No                                 |
 | [Cake.SevenZip](https://github.com/airbreather/Cake.SevenZip)                                     | airbreather                 | No                   | No                    | No                                   | No                                 |
+| Cake.Hosts                                                                                        | trailmax                    | No                   | No                    | No                                   | No                                 |
 
 # Needs investigation
 

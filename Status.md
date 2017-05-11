@@ -1,6 +1,6 @@
 In total, there are:
 
-* 142 addins (and supporting NuGet packages)
+* 143 addins (and supporting NuGet packages)
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
@@ -120,6 +120,7 @@ Currently:
 | [Cake.Npm](https://www.nuget.org/packages/Cake.Npm)                                            | philo                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.NSpec](https://www.nuget.org/packages/Cake.NSpec)                                        | app-iron                    | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.NSwag](https://www.nuget.org/packages/Cake.NSwag)                                        | achapman                    | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.NSwag.Console](https://www.nuget.org/packages/Cake.NSwag.Console)                        | achapman                    | No                   | No                    | No                                   | No                                 |
 | [Cake.OctoDeploy](https://www.nuget.org/packages/Cake.OctoDeploy)                              | NinetailLabs                | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Orchard](https://www.nuget.org/packages/Cake.Orchard)                                    | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.Packages](https://www.nuget.org/packages/Cake.Packages/)                                 | tomstaijen                  | Yes                  | No                    | No                                   | No                                 |

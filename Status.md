@@ -4,7 +4,7 @@ In total, there are:
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
-* 151 Total
+* 153 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 

@@ -182,7 +182,6 @@ Currently:
 | [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform)                          | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Yaml](https://www.nuget.org/packages/Cake.Yaml)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Yarn](https://www.nuget.org/packages/Cake.Yarn)                                          | MilovanovM                  | Yes                  | Yes                   | Yes                                  | No                                 |
-| [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                  | olivier-spinelli            | Yes                  | No                    | Not Required                         | Not Required                       |
 
 # Work in Progress
 
@@ -235,6 +234,7 @@ Currently:
 | [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm               | No                   | No                    | No                                   |
 | [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm               | No                   | No                    | No                                   |
 | [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Storm               | No                   | No                    | No                                   |
+| [Cake.Storm.Environment](https://www.nuget.org/packages/Cake.Storm.Environment)                       | Storm               | No                   | No                    | No                                   |
 | [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                               | lowcase             | No                   | No                    | No                                   |
 | [Code.Cake](https://www.nuget.org/packages/Code.Cake)                                                 | olivier-spinelli    | No                   | No                    | No                                   |
 | [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                         | olivier-spinelli    | No                   | No                    | No                                   |

@@ -1,15 +1,15 @@
 In total, there are:
 
-* 143 addins (and supporting NuGet packages)
+* 144 addins (and supporting NuGet packages)
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
-* 153 Total
+* 154 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [143 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [144 of them](https://www.nuget.org/profiles/cake-contrib)
 * 70 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 116 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -182,6 +182,7 @@ Currently:
 | [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform)                          | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Yaml](https://www.nuget.org/packages/Cake.Yaml)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Yarn](https://www.nuget.org/packages/Cake.Yarn)                                          | MilovanovM                  | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Yeoman](https://www.nuget.org/packages/Cake.Yeoman)                                      | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                |
 
 # Work in Progress
 
@@ -197,7 +198,6 @@ Currently:
 | Cake.Skype                                                                                        | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.Svn                                                                                          | mholo65                     | No                   | No                    | No                                   | Yes                                |
 | Cake.Unity                                                                                        | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
-| Cake.Yeoman                                                                                       | pascalberger                | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Npm.Module                                                                                   | gep13                       | Yes                  | No                    | No                                   | Yes                                |
 | Cake.OpenVsixSignTool                                                                             | mihamarkic                  | No                   | No                    | No                                   | Yes                                |
 | Cake.SignClient                                                                                   | mihamarkic                  | No                   | No                    | No                                   | Yes                                |

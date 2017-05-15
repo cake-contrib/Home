@@ -1,15 +1,15 @@
 In total, there are:
 
-* 144 addins (and supporting NuGet packages)
+* 145 addins (and supporting NuGet packages)
 * 5 modules 
 * 1 Recipe
 * 4 of them have been deprecated
-* 154 Total
+* 155 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [144 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [145 of them](https://www.nuget.org/profiles/cake-contrib)
 * 70 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 116 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -128,6 +128,7 @@ Currently:
 | [Cake.Path](https://www.nuget.org/packages/Cake.Path)                                          | CleanKludge                 | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Plist](https://www.nuget.org/packages/Cake.Plist)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Powershell](https://www.nuget.org/packages/Cake.Powershell)                              | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Prca.Issues.ESLint](https://www.nuget.org/packages/Cake.Prca.Issues.EsLint/)             | bbtsoftwareag               | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Prca.Issues.InspectCode](https://www.nuget.org/packages/Cake.Prca.Issues.InspectCode/)   | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Prca.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Prca.Issues.Markdownlint/) | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Prca.Issues.MsBuild](https://www.nuget.org/packages/Cake.Prca.Issues.MsBuild/)           | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |
@@ -204,7 +205,6 @@ Currently:
 | Cake.WindowsAppStore                                                                              | geertvanhorrik              | No                   | No                    | No                                   | Yes                                |
 | Cake.VstsReleaseTools                                                                             | fleed                       | Yes                  | No                    | No                                   | No                                 |
 | Cake.Prca.Issues.DocFx                                                                            | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
-| Cake.Prca.Issues.ESLint                                                                           | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Prca.Issues.Stylelint                                                                        | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Prca.Issues.TSLint                                                                           | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Parallel                                                                                     | aabenoja                    | No                   | No                    | No                                   | No                                 |

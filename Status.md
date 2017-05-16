@@ -184,7 +184,7 @@ Currently:
 | [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform)                          | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Yaml](https://www.nuget.org/packages/Cake.Yaml)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Yarn](https://www.nuget.org/packages/Cake.Yarn)                                          | MilovanovM                  | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.Yeoman](https://www.nuget.org/packages/Cake.Yeoman)                                      | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.Yeoman](https://www.nuget.org/packages/Cake.Yeoman)                                      | pascalberger                | Yes                  | Yes                   | Yes                                  | Yes                                |
 
 # Work in Progress
 

@@ -2,22 +2,23 @@ In total, there are:
 
 * 146 addins (and supporting NuGet packages)
 * 5 modules 
-* 1 Recipe
+* 2 Recipe
 * 4 of them have been deprecated
-* 156 Total
+* 157 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [146 of them](https://www.nuget.org/profiles/cake-contrib)
-* 70 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* 71 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
 
-| Name                                                      | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
-|-----------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
-| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe) | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
+| Name                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
+|---------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13      | Yes                  | No                    | No                                   | Yes                                |
 
 # Modules
 

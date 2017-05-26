@@ -1,15 +1,15 @@
 In total, there are:
 
-* 147 addins (and supporting NuGet packages)
+* 148 addins (and supporting NuGet packages)
 * 5 modules 
 * 2 Recipe
 * 4 of them have been deprecated
-* 158 Total
+* 159 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [146 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [147 of them](https://www.nuget.org/profiles/cake-contrib)
 * 71 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -66,9 +66,10 @@ Currently:
 | [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail)                                  | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Chutzpah](https://www.nuget.org/packages/Cake.Chutzpah/)                                 | James Nail                  | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                    | olivier-spinelli            | Yes                  | No                    | Not Required                         | Not Required                       |
-| [Cake.ClickTwice](https://www.nuget.org/packages/Cake.ClickTwice/)                             | achapman                    | Yes                  | No                    | Yes                                  | No                                |
+| [Cake.ClickTwice](https://www.nuget.org/packages/Cake.ClickTwice/)                             | achapman                    | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.CMake](https://www.nuget.org/packages/Cake.CMake)                                        | patrik                      | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.CodeAnalysisReporting](https://www.nuget.org/packages/Cake.CodeAnalysisReporting)        | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |
+| [Cake.CodeCov](https://www.nuget.org/packages/Cake.Codecov)                                    | larzw admiringworm          | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Compression](https://www.nuget.org/packages/Cake.Compression)                            | arkord                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Coveralls](https://www.nuget.org/packages/Cake.Coveralls)                                | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/)                               | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |
@@ -192,7 +193,6 @@ Currently:
 
 | Name                                                                                              | Maintainer                  | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |Added to cake-contrib organisation  |
 |---------------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
-| Cake.CodeCov                                                                                      | larzw admiringworm          | No                   | No                    | No                                   | No                                 |
 | Cake.Electron                                                                                     | phillipsj                   | No                   | No                    | No                                   | No                                 |
 | Cake.EventLog                                                                                     | agc93                       | No                   | No                    | No                                   | Yes                                |
 | Cake.MSBuild15                                                                                    | phillipsj                   | No                   | No                    | No                                   | No                                 |

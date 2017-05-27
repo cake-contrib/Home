@@ -1,10 +1,10 @@
 In total, there are:
 
-* 148 addins (and supporting NuGet packages)
+* 149 addins (and supporting NuGet packages)
 * 5 modules 
 * 2 Recipe
 * 4 of them have been deprecated
-* 159 Total
+* 160 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -129,6 +129,7 @@ Currently:
 | [Cake.Packages](https://www.nuget.org/packages/Cake.Packages/)                                 | tomstaijen                  | Yes                  | No                    | No                                   | No                                 |
 | [Cake.Paket](https://www.nuget.org/packages/Cake.Paket)                                        | larzw                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Path](https://www.nuget.org/packages/Cake.Path)                                          | CleanKludge                 | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.PinNuGetDependency](https://www.nuget.org/packages/Cake.PinNuGetDependency)              | ghuntley                    | No                   | No                    | No                                   | Yes                                |
 | [Cake.Plist](https://www.nuget.org/packages/Cake.Plist)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Powershell](https://www.nuget.org/packages/Cake.Powershell)                              | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Prca.Issues.DocFx](https://www.nuget.org/packages/Cake.Prca.Issues.DocFx/)               | bbtsoftwareag               | Yes                  | Yes                   | Yes                                  | Yes                                |

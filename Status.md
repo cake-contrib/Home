@@ -234,23 +234,23 @@ Currently:
 
 | Name                                                                                                  | Maintainer          | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
 |-------------------------------------------------------------------------------------------------------|---------------------|----------------------|-----------------------|--------------------------------------|
-| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Storm               | No                   | No                    | No                                   |
-| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm               | No                   | No                    | No                                   |
-| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm               | No                   | No                    | No                                   |
+| [AutoCake.Build](https://www.nuget.org/packages/AutoCake.Build)                                       | tmorgner            | Yes                  | No                    | No                                   |
+| [AutoCake.Release](https://www.nuget.org/packages/AutoCake.Release)                                   | tmorgner            | Yes                  | No                    | No                                   |
+| [AutoCake.TaskAliases](https://www.nuget.org/packages/AutoCake.TaskAliases)                           | tmorgner            | Yes                  | No                    | No                                   |
+| [Cake.CD](https://www.nuget.org/packages/Cake.CD)                                                     | ObjectivityLtd      | Yes                  | No                    | No                                   |
+| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                           | olivier-spinelli    | Yes                  | No                    | No                                   |
+| [Cake.Deploy.Variables](https://www.nuget.org/packages/Cake.Deploy.Variables)                         | ObjectivityLtd      | Yes                  | No                    | No                                   |
+| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                               | lowcase             | No                   | No                    | No                                   |
 | [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Storm               | No                   | No                    | No                                   |
 | [Cake.Storm.Environment](https://www.nuget.org/packages/Cake.Storm.Environment)                       | Storm               | No                   | No                    | No                                   |
-| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                               | lowcase             | No                   | No                    | No                                   |
+| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Storm               | No                   | No                    | No                                   |
+| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Storm               | No                   | No                    | No                                   |
+| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Storm               | No                   | No                    | No                                   |
+| [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                   | marcosnz            | Yes                  | No                    | No                                   |
+| [CakeApp](https://www.nuget.org/packages/CakeApp)                                                     | secana              | Yes                  | No                    | No                                   |
 | [Code.Cake](https://www.nuget.org/packages/Code.Cake)                                                 | olivier-spinelli    | No                   | No                    | No                                   |
 | [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                         | olivier-spinelli    | No                   | No                    | No                                   |
-| [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                   | marcosnz            | Yes                  | No                    | No                                   |
-| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                           | olivier-spinelli    | Yes                  | No                    | No                                   |
 | [ScriptCs.Cake](https://www.nuget.org/packages/ScriptCs.Cake)                                         | redth               | Yes                  | No                    | No                                   |
-| [Cake.CD](https://www.nuget.org/packages/Cake.CD)                                                     | ObjectivityLtd      | Yes                  | No                    | No                                   |
-| [Cake.Deploy.Variables](https://www.nuget.org/packages/Cake.Deploy.Variables)                         | ObjectivityLtd      | Yes                  | No                    | No                                   |
-| [AutoCake.TaskAliases](https://www.nuget.org/packages/AutoCake.TaskAliases)                           | tmorgner            | Yes                  | No                    | No                                   |
-| [AutoCake.Release](https://www.nuget.org/packages/AutoCake.Release)                                   | tmorgner            | Yes                  | No                    | No                                   |
-| [AutoCake.Build](https://www.nuget.org/packages/AutoCake.Build)                                       | tmorgner            | Yes                  | No                    | No                                   |
-| [CakeApp](https://www.nuget.org/packages/CakeApp)                                                     | secana              | Yes                  | No                    | No                                   |
 
 # Deprecated
 

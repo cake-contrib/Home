@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [148 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [149 of them](https://www.nuget.org/profiles/cake-contrib)
 * 72 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -110,7 +110,7 @@ Currently:
 | [Cake.Intellisense](https://www.nuget.org/packages/Cake.Intellisense/)                         | tpodolak                    | Yes                  | No                    | No                                   | No                                 |
 | [Cake.JMeter](https://www.nuget.org/packages/Cake.JMeter)                                      | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Json](https://www.nuget.org/packages/Cake.Json)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.KeePass](https://www.nuget.org/packages/Cake.KeePass)                                    | Codedlogic                  | No                   | No                    | No                                   | No                                 |
+| [Cake.KeePass](https://www.nuget.org/packages/Cake.KeePass)                                    | Codedlogic                  | No                   | No                    | Yes                                  | No                                 |
 | [Cake.Kudu](https://www.nuget.org/packages/Cake.Kudu)                                          | devlead                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Mage](https://www.nuget.org/packages/Cake.Mage)                                          | enkafan                     | Yes                  | No                    | Yes                                  | Yes                                |
 | [MagicChunks](https://www.nuget.org/packages/MagicChunks/)                                     | Sergey Zwezdin              | Yes                  | Yes                   | Not Required                         | Not Required                       |

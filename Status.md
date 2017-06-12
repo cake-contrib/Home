@@ -18,7 +18,7 @@ Currently:
 | Name                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
 |---------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
 | [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
-| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13      | Yes                  | No                    | No                                   | Yes                                |
+| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13      | Yes                  | No                    | Yes                                   | Yes                                |
 
 # Modules
 

@@ -196,6 +196,7 @@ Currently:
 
 | Name                                                                                              | Maintainer                  | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |Added to cake-contrib organisation  |
 |---------------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| Cake.APT.Module                                                                                   | agc93                       | No                   | No                    | No                                   | No                                 |
 | [Cake.Dapper](https://github.com/RLittlesII/Cake.Dapper)                                          | RLittlesII                  | No                   | No                    | No                                   | No                                 |
 | Cake.DotEnv.Module                                                                                | phillipsj                   | No                   | No                    | No                                   | Yes                                |
 | [Cake.DotNetCore.Tools.AWS.Lambda](https://github.com/JonCubed/Cake.DotNetCore.Tools.AWS.Lambda)  | JonCubed                    | No                   | No                    | No                                   | No                                 |

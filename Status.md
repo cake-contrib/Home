@@ -1,10 +1,10 @@
 In total, there are:
 
-* 151 addins (and supporting NuGet packages)
+* 152 addins (and supporting NuGet packages)
 * 6 modules 
 * 2 Recipe
 * 4 of them have been deprecated
-* 162 Total
+* 164 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -51,6 +51,7 @@ Currently:
 | [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator)                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager)                            | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor)                                  | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.ArgumentHelpers](https://www.nuget.org/packages/Cake.ArgumentHelpers/)                   | patridge                    | No                   | No                    | No                                   | No                                 |
 | [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/)       | wexman                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest)                                  | achapman                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.CloudFront](https://www.nuget.org/packages/Cake.AWS.CloudFront)                      | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |

@@ -1,7 +1,7 @@
 In total, there are:
 
 * 151 addins (and supporting NuGet packages)
-* 5 modules 
+* 6 modules 
 * 2 Recipe
 * 4 of them have been deprecated
 * 162 Total
@@ -24,6 +24,7 @@ Currently:
 
 | Name                                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
 | ------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                  | agc93      | No                   | No                    | No                                   | No                                 |
 | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)     | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)         | devlead    | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)               | larzw      | Yes                  | No                    | Yes                                  | No                                 |
@@ -196,7 +197,6 @@ Currently:
 
 | Name                                                                                              | Maintainer                  | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |Added to cake-contrib organisation  |
 |---------------------------------------------------------------------------------------------------|-----------------------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
-| Cake.APT.Module                                                                                   | agc93                       | No                   | No                    | No                                   | No                                 |
 | [Cake.Dapper](https://github.com/RLittlesII/Cake.Dapper)                                          | RLittlesII                  | No                   | No                    | No                                   | No                                 |
 | Cake.DotEnv.Module                                                                                | phillipsj                   | No                   | No                    | No                                   | Yes                                |
 | [Cake.DotNetCore.Tools.AWS.Lambda](https://github.com/JonCubed/Cake.DotNetCore.Tools.AWS.Lambda)  | JonCubed                    | No                   | No                    | No                                   | No                                 |

@@ -1,10 +1,10 @@
 In total, there are:
 
-* 152 addins (and supporting NuGet packages)
+* 153 addins (and supporting NuGet packages)
 * 6 modules 
 * 2 Recipe
 * 4 of them have been deprecated
-* 164 Total
+* 165 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -173,6 +173,7 @@ Currently:
 | [Cake.Transifex](https://www.nuget.org/packages/Cake.Transifex/)                               | admiringworm                | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Twitter](https://www.nuget.org/packages/Cake.Twitter)                                    | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.UncUtils](https://www.nuget.org/packages/Cake.UncUtils/)                                 | kolletzki                   | Yes                  | No                    | Yes                                  | No                                 |
+| [Cake.Utility](https://github.com/waynebrantley/Cake.Utility)                                  | waynebrantley               | No                   | No                    | No                                   | No                                 |
 | [Cake.UServer](https://www.nuget.org/packages/Cake.UServer)                                    | wearetherock                | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.Vagrant](https://www.nuget.org/packages/Cake.Vagrant)                                    | achapman                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.VersionReader](https://www.nuget.org/packages/Cake.VersionReader)                        | NinetailLabs                | Yes                  | Yes                   | Yes                                  | No                                 |
@@ -230,7 +231,6 @@ Currently:
 | Cake.Svn                                                                                          | mholo65                     | No                   | No                    | No                                   | Yes                                |
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   | No                    | No                                   | No                                 |
 | Cake.Unity                                                                                        | patrik                      | Yes                  | Yes                   | No                                   | Yes                                |
-| [Cake.Utility](https://github.com/waynebrantley/Cake.Utility)                                     | waynebrantley               | No                   | No                    | No                                   | No                                 |
 | Cake.VstsReleaseTools                                                                             | fleed                       | Yes                  | No                    | No                                   | No                                 |
 | Cake.WindowsAppStore                                                                              | geertvanhorrik              | No                   | No                    | No                                   | Yes                                |
 

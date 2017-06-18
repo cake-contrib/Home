@@ -24,7 +24,7 @@ Currently:
 
 | Name                                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
 | ------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
-| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                  | agc93      | No                   | No                    | No                                   | No                                 |
+| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                  | agc93      | No                   | No                    | Yes                                  | No                                 |
 | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)     | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)         | devlead    | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)               | larzw      | Yes                  | No                    | Yes                                  | No                                 |

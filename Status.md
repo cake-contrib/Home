@@ -1,10 +1,10 @@
 In total, there are:
 
-* 153 addins (and supporting NuGet packages)
+* 154 addins (and supporting NuGet packages)
 * 6 modules 
 * 2 Recipe
 * 4 of them have been deprecated
-* 165 Total
+* 166 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 

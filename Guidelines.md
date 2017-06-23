@@ -2,6 +2,10 @@
 
 This document provides some guidelines and best practices for writing Cake addins hosted within the cake-contrib GitHub organisation.
 
+## NuGet Package Icon
+
+Use the Cake Contrib Icon which can be found [here](https://github.com/cake-contrib/graphics), rather than the Cake Icon.
+
 ## Build Infrastructure
 
 Addins which are part of the cake-contrib organisation should use the [Cake.Recipe] scripts for their build process.

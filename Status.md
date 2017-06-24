@@ -2,9 +2,9 @@ In total, there are:
 
 * 154 addins (and supporting NuGet packages)
 * 6 modules 
-* 2 Recipe
+* 3 Recipe
 * 4 of them have been deprecated
-* 166 Total
+* 167 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -15,10 +15,11 @@ Currently:
 
 # Recipes
 
-| Name                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
-|---------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
-| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
-| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13      | Yes                  | No                    | Yes                                   | Yes                                |
+| Name                                                                | Maintainer   | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
+|---------------------------------------------------------------------|--------------|----------------------|-----------------------|--------------------------------------|------------------------------------|
+| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13        | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13        | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.Mug](https://www.nuget.org/packages/Cake.Mug)                 | fwinkelbauer | No                   | No                    | No                                   | No                                 |
 
 # Modules
 

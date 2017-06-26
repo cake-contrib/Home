@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [153 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [154 of them](https://www.nuget.org/profiles/cake-contrib)
 * 72 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -192,7 +192,7 @@ Currently:
 | [Cake.Xamarin](https://www.nuget.org/packages/Cake.Xamarin)                                    | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Xamarin.Build](https://www.nuget.org/packages/Cake.Xamarin.Build)                        | redth                       | Yes                  | Not Required          | Not Required                         | Not Required                       |
 | [Cake.XCode](https://www.nuget.org/packages/Cake.XCode)                                        | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.XComponent](https://www.nuget.org/packages/Cake.XComponent)                              | xcomponent                  | Yes                  | Yes                   | Not Required                         | Not Required                       |
+| [Cake.XComponent](https://www.nuget.org/packages/Cake.XComponent)                              | xcomponent                  | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.XdtTransform](https://www.nuget.org/packages/Cake.XdtTransform)                          | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Yaml](https://www.nuget.org/packages/Cake.Yaml)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Yarn](https://www.nuget.org/packages/Cake.Yarn)                                          | MilovanovM                  | Yes                  | Yes                   | Yes                                  | No                                 |

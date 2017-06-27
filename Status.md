@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [154 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [155 of them](https://www.nuget.org/profiles/cake-contrib)
 * 72 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -160,7 +160,7 @@ Currently:
 | [Cake.SimpleVersionIncrement](https://www.nuget.org/packages/Cake.SimpleVersionIncrement)      | Devneval                    | No                   | No                    | No                                   | No                                 |
 | [Cake.Slack](https://www.nuget.org/packages/Cake.Slack)                                        | devlead                     | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.Sonar](https://www.nuget.org/packages/Cake.Sonar)                                        | tomstaijen                  | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.SonarScanner](https://www.nuget.org/packages/Cake.SonarScanner)                          | pitermarx                   | No                   | No                    | No                                   | No                                 |
+| [Cake.SonarScanner](https://www.nuget.org/packages/Cake.SonarScanner)                          | pitermarx                   | No                   | No                    | Yes                                  | No                                 |
 | [Cake.SqlPackage](https://www.nuget.org/packages/Cake.SqlPackage)                              | RLittlesII                  | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlServer](https://www.nuget.org/packages/Cake.SqlServer)                                | trailmax                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SqlServerPackager](https://www.nuget.org/packages/Cake.SqlServerPackager)                | ilich                       | Yes                  | Yes                   | Yes                                  | No                                 |

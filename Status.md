@@ -1,10 +1,10 @@
 In total, there are:
 
-* 156 addins (and supporting NuGet packages)
+* 157 addins (and supporting NuGet packages)
 * 6 modules 
 * 3 Recipe
 * 4 of them have been deprecated
-* 169 Total
+* 170 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -135,6 +135,7 @@ Currently:
 | [Cake.Orchard](https://www.nuget.org/packages/Cake.Orchard)                                    | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.Packages](https://www.nuget.org/packages/Cake.Packages/)                                 | tomstaijen                  | Yes                  | No                    | No                                   | No                                 |
 | [Cake.Paket](https://www.nuget.org/packages/Cake.Paket)                                        | larzw                       | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.Parallel](https://www.nuget.org/packages/Cake.Parallel)                                  | aabenoja                    | No                   | No                    | No                                   | No                                 |
 | [Cake.Path](https://www.nuget.org/packages/Cake.Path)                                          | CleanKludge                 | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.PinNuGetDependency](https://www.nuget.org/packages/Cake.PinNuGetDependency)              | ghuntley                    | No                   | No                    | Yes                                  | Yes                                |
 | [Cake.Plist](https://www.nuget.org/packages/Cake.Plist)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |
@@ -219,7 +220,6 @@ Currently:
 | Cake.Npm.Module                                                                                   | gep13                       | Yes                  | No                    | No                                   | Yes                                |
 | Cake.OpenVsixSignTool                                                                             | mihamarkic                  | No                   | No                    | No                                   | Yes                                |
 | Cake.Packer                                                                                       | agc93                       | No                   | No                    | No                                   | No                                 |
-| Cake.Parallel                                                                                     | aabenoja                    | No                   | No                    | No                                   | No                                 |
 | Cake.Prca.Issues.Stylelint                                                                        | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | Cake.Prca.Issues.TSLint                                                                           | bbtsoftwareag               | Yes                  | No                    | No                                   | Yes                                |
 | [Cake.Process](https://github.com/jrnail23/Cake.Process)                                          | jrnail23                    | No                   | No                    | No                                   | No                                 |

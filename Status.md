@@ -1,7 +1,7 @@
 In total, there are:
 
-* 157 addins (and supporting NuGet packages)
-* 6 modules 
+* 156 addins (and supporting NuGet packages)
+* 7 modules 
 * 3 Recipe
 * 4 of them have been deprecated
 * 170 Total
@@ -29,6 +29,7 @@ Currently:
 | [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)     | gep13      | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)         | devlead    | Yes                  | No                    | Yes                                  | Yes                                |
 | [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)               | larzw      | Yes                  | No                    | Yes                                  | No                                 |
+| [Cake.Parallel.Module](https://www.nuget.org/packages/Cake.Parallel.Module)         | aabenoja   | No                   | No                    | No                                   | No                                 |
 | [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module) | agc93      | No                   | No                    | Yes                                  | No                                 |
 | [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                   | agc93      | No                   | No                    | Yes                                  | Yes                                |
 
@@ -135,7 +136,6 @@ Currently:
 | [Cake.Orchard](https://www.nuget.org/packages/Cake.Orchard)                                    | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.Packages](https://www.nuget.org/packages/Cake.Packages/)                                 | tomstaijen                  | Yes                  | No                    | No                                   | No                                 |
 | [Cake.Paket](https://www.nuget.org/packages/Cake.Paket)                                        | larzw                       | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.Parallel](https://www.nuget.org/packages/Cake.Parallel)                                  | aabenoja                    | No                   | No                    | No                                   | No                                 |
 | [Cake.Path](https://www.nuget.org/packages/Cake.Path)                                          | CleanKludge                 | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.PinNuGetDependency](https://www.nuget.org/packages/Cake.PinNuGetDependency)              | ghuntley                    | No                   | No                    | Yes                                  | Yes                                |
 | [Cake.Plist](https://www.nuget.org/packages/Cake.Plist)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |

@@ -1,15 +1,15 @@
 In total, there are:
 
-* 156 addins (and supporting NuGet packages)
+* 157 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 4 of them have been deprecated
-* 170 Total
+* 171 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [156 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [157 of them](https://www.nuget.org/profiles/cake-contrib)
 * 72 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -64,6 +64,7 @@ Currently:
 | [Cake.AWS.ElasticLoadBalancing](https://www.nuget.org/packages/Cake.AWS.ElasticLoadBalancing)  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.Route53](https://www.nuget.org/packages/Cake.AWS.Route53)                            | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AWS.S3](https://www.nuget.org/packages/Cake.AWS.S3)                                      | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |
+| [Cake.AzCopy](https://www.nuget.org/packages/Cake.AzCopy)                                      | achapman                    | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/)                                       | DixonD                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage)                          | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.AzureBlobStorage](https://www.nuget.org/packages/Cake.AzureBlobStorage)                  | Devneval                    | No                   | No                    | No                                   | No                                 |

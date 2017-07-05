@@ -1,10 +1,10 @@
 In total, there are:
 
-* 159 addins (and supporting NuGet packages)
+* 160 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 4 of them have been deprecated
-* 173 Total
+* 174 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -154,6 +154,7 @@ Currently:
 | [Cake.Raygun](https://www.nuget.org/packages/Cake.Raygun)                                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ReSharperReports](https://www.nuget.org/packages/Cake.ReSharperReports)                  | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ResxConverter](https://www.nuget.org/packages/Cake.ResxConverter)                        | jzeferino                   | Yes                  | Yes                   | Yes                                  | Yes                                |
+| [Cake.ScheduledTasks](https://www.nuget.org/packages/Cake.ScheduledTasks/)                     | Hawker                      | No                   | No                    | No                                   | No                                 |
 | [Cake.Scripty](https://www.nuget.org/packages/Cake.Scripty)                                    | daveaglick                  | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.SemVer](https://www.nuget.org/packages/Cake.SemVer)                                      | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SendGrid](https://www.nuget.org/packages/Cake.SendGrid)                                  | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |
@@ -228,7 +229,6 @@ Currently:
 | [Cake.Process](https://github.com/jrnail23/Cake.Process)                                          | jrnail23                    | No                   | No                    | No                                   | No                                 |
 | [Cake.RestSharp](https://github.com/BudSystemLimited/Cake.RestSharp)                              | BudSystemLimited            | No                   | No                    | No                                   | No                                 |
 | [Cake.SalesForce](https://github.com/wharri220/Cake.SalesForce)                                   | wharri220                   | No                   | No                    | No                                   | No                                 |
-| [Cake.ScheduledTasks](https://github.com/hawker-am/Cake.ScheduledTasks)                           | hawker-am                   | No                   | No                    | No                                   | No                                 |
 | Cake.ServiceFabric                                                                                | mholo65                     | No                   | No                    | No                                   | Yes                                |
 | [Cake.SevenZip](https://github.com/airbreather/Cake.SevenZip)                                     | airbreather                 | No                   | No                    | No                                   | No                                 |
 | Cake.SignClient                                                                                   | mihamarkic                  | No                   | No                    | No                                   | Yes                                |

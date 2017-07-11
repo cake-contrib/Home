@@ -11,7 +11,7 @@ hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 Currently:
 * the `cake-contrib` user has been added to [159 of them](https://www.nuget.org/profiles/cake-contrib)
 * 73 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
-* 119 of them appear on the [Cake Website](http://cakebuild.net/addins/)
+* 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
 
@@ -68,7 +68,7 @@ Currently:
 | [Cake.Azure](https://www.nuget.org/packages/Cake.Azure/)                                       | DixonD                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AzureStorage](https://www.nuget.org/packages/Cake.AzureStorage)                          | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.AzureBlobStorage](https://www.nuget.org/packages/Cake.AzureBlobStorage)                  | Devneval                    | No                   | No                    | No                                   | No                                 |
-| [Cake.Bumpy](https://www.nuget.org/packages/Cake.Bumpy)                                        | fwinkelbauer                | Yes                  | No                    | Yes                                  | Yes                                |
+| [Cake.Bumpy](https://www.nuget.org/packages/Cake.Bumpy)                                        | fwinkelbauer                | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.CachedNpm](https://www.nuget.org/packages/Cake.CachedNpm/)                               | TomikT                      | No                   | No                    | No                                   | No                                 |
 | [Cake.CakeBoss](https://www.nuget.org/packages/Cake.CakeBoss)                                  | sharperad                   | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.CakeMail](https://www.nuget.org/packages/Cake.CakeMail)                                  | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |

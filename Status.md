@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [159 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [160 of them](https://www.nuget.org/profiles/cake-contrib)
 * 73 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -53,7 +53,7 @@ Currently:
 | [Cake.AppleSimulator](https://www.nuget.org/packages/Cake.AppleSimulator)                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.AppPackager](https://www.nuget.org/packages/Cake.AppPackager)                            | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.AppVeyor](https://www.nuget.org/packages/Cake.AppVeyor)                                  | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.ArgumentHelpers](https://www.nuget.org/packages/Cake.ArgumentHelpers/)                   | patridge                    | Yes                  | No                    | No                                   | No                                 |
+| [Cake.ArgumentHelpers](https://www.nuget.org/packages/Cake.ArgumentHelpers/)                   | patridge                    | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.ArtifactDrop](https://www.nuget.org/packages/Cake.ArtifactDrop/)                         | stefandevo                  | Yes                  | No                    | No                                   | No                                 |
 | [Cake.AssemblyInfoReflector](https://www.nuget.org/packages/Cake.AssemblyInfoReflector/)       | wexman                      | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.AutoRest](https://www.nuget.org/packages/Cake.AutoRest)                                  | achapman                    | Yes                  | Yes                   | Yes                                  | No                                 |

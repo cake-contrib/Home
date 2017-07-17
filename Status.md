@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [160 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [161 of them](https://www.nuget.org/profiles/cake-contrib)
 * 73 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -87,7 +87,7 @@ Currently:
 | [Cake.DocCreator](https://www.nuget.org/packages/Cake.DocCreator)                              | achapman                    | Yes                  | No                    | Yes                                  | Not Required                       |
 | [Cake.DocFx](https://www.nuget.org/packages/Cake.DocFx)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Docker](https://www.nuget.org/packages/Cake.Docker)                                      | mihies                      | Yes                  | Yes                   | Yes                                  | No                                 |
-| [Cake.DocumentDb](https://www.nuget.org/packages/Cake.DocumentDb/)                             | jonathan.stowell            | Yes                  | No                    | No                                   | No                                 |
+| [Cake.DocumentDb](https://www.nuget.org/packages/Cake.DocumentDb/)                             | jonathan.stowell            | Yes                  | No                    | Yes                                  | No                                 |
 | [Cake.DoInDirectory](https://www.nuget.org/packages/Cake.DoInDirectory)                        | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/)                         | mvput                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Email](https://www.nuget.org/packages/Cake.Email)                                        | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |

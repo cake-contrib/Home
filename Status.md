@@ -248,6 +248,7 @@ Currently:
 
 | Name                                                                                                  | Maintainer          | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
 |-------------------------------------------------------------------------------------------------------|---------------------|----------------------|-----------------------|--------------------------------------|
+| [ArchitectNow.Cake](https://www.nuget.org/packages/ArchitectNow.Cake)                                 | ArchitectNow        | No                   | No                    | No                                   |
 | [AutoCake.Build](https://www.nuget.org/packages/AutoCake.Build)                                       | tmorgner            | Yes                  | No                    | No                                   |
 | [AutoCake.Release](https://www.nuget.org/packages/AutoCake.Release)                                   | tmorgner            | Yes                  | No                    | No                                   |
 | [AutoCake.TaskAliases](https://www.nuget.org/packages/AutoCake.TaskAliases)                           | tmorgner            | Yes                  | No                    | No                                   |

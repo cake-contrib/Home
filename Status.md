@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [161 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [162 of them](https://www.nuget.org/profiles/cake-contrib)
 * 73 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -92,7 +92,7 @@ Currently:
 | [Cake.DotNetCoreEf](https://www.nuget.org/packages/Cake.DotNetCoreEf/)                         | mvput                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Email](https://www.nuget.org/packages/Cake.Email)                                        | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.Ember](https://www.nuget.org/packages/Cake.Ember)                                        | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
-| [Cake.Endpoint](https://www.nuget.org/packages/Cake.Endpoint)                                  | nalla                       | No                   | No                    | No                                   | No                                 |
+| [Cake.Endpoint](https://www.nuget.org/packages/Cake.Endpoint)                                  | nalla                       | No                   | No                    | Yes                                  | No                                 |
 | [Cake.EntityFramework](https://www.nuget.org/packages/Cake.EntityFramework)                    | louisfischer                | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform)                    | nengberg                    | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet)                        | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |

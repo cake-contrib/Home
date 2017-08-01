@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [162 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [163 of them](https://www.nuget.org/profiles/cake-contrib)
 * 73 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -158,7 +158,7 @@ Currently:
 | [Cake.Raygun](https://www.nuget.org/packages/Cake.Raygun)                                      | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ReSharperReports](https://www.nuget.org/packages/Cake.ReSharperReports)                  | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |
 | [Cake.ResxConverter](https://www.nuget.org/packages/Cake.ResxConverter)                        | jzeferino                   | Yes                  | Yes                   | Yes                                  | Yes                                |
-| [Cake.ScheduledTasks](https://www.nuget.org/packages/Cake.ScheduledTasks/)                     | Hawker                      | No                   | No                    | No                                   | No                                 |
+| [Cake.ScheduledTasks](https://www.nuget.org/packages/Cake.ScheduledTasks/)                     | Hawker                      | No                   | No                    | Yes                                  | Yes                                |
 | [Cake.Scripty](https://www.nuget.org/packages/Cake.Scripty)                                    | daveaglick                  | Yes                  | Yes                   | Yes                                  | Not Required                       |
 | [Cake.SemVer](https://www.nuget.org/packages/Cake.SemVer)                                      | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |
 | [Cake.SendGrid](https://www.nuget.org/packages/Cake.SendGrid)                                  | jericho                     | Yes                  | Yes                   | Yes                                  | Yes                                |

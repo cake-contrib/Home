@@ -263,6 +263,11 @@ Currently:
 | [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                               | Julien-Mialon       | No                   | No                    | No                                   |
 | [Cake.Storm.Environment](https://www.nuget.org/packages/Cake.Storm.Environment)                       | Julien-Mialon       | No                   | No                    | No                                   |
 | [Cake.Storm.Fluent](https://www.nuget.org/packages/Cake.Storm.Fluent)                                 | Julien-Mialon       | No                   | No                    | No                                   |
+| [Cake.Storm.Fluent.Android](https://www.nuget.org/packages/Cake.Storm.Fluent.Android)                 | Julien-Mialon       | No                   | No                    | No                                   |
+| [Cake.Storm.Fluent.DotNetCore](https://www.nuget.org/packages/Cake.Storm.Fluent.DotNetCore)           | Julien-Mialon       | No                   | No                    | No                                   |
+| [Cake.Storm.Fluent.iOS](https://www.nuget.org/packages/Cake.Storm.Fluent.iOS)                         | Julien-Mialon       | No                   | No                    | No                                   |
+| [Cake.Storm.Fluent.NuGet](https://www.nuget.org/packages/Cake.Storm.Fluent.NuGet)                     | Julien-Mialon       | No                   | No                    | No                                   |
+| [Cake.Storm.Fluent.Transformations](https://www.nuget.org/packages/Cake.Storm.Fluent.Transformations) | Julien-Mialon       | No                   | No                    | No                                   |
 | [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                       | Julien-Mialon       | No                   | No                    | No                                   |
 | [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration) | Julien-Mialon       | No                   | No                    | No                                   |
 | [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                   | Julien-Mialon       | No                   | No                    | No                                   |

@@ -251,37 +251,37 @@ Currently:
 
 # Needs investigation
 
-| Name                                                                                                            | Maintainer          | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org |
-|-------------------------------------------------------------------------------------------------------|---------------------|----------------------|-----------------------|--------------------------------------|
-| [ArchitectNow.Cake](https://www.nuget.org/packages/ArchitectNow.Cake)                                           | ArchitectNow        | No                   | No                    | No                                   |
-| [AutoCake.Build](https://www.nuget.org/packages/AutoCake.Build)                                                 | tmorgner            | Yes                  | No                    | No                                   |
-| [AutoCake.Release](https://www.nuget.org/packages/AutoCake.Release)                                             | tmorgner            | Yes                  | No                    | No                                   |
-| [AutoCake.TaskAliases](https://www.nuget.org/packages/AutoCake.TaskAliases)                                     | tmorgner            | Yes                  | No                    | No                                   |
-| [Cake.CD](https://www.nuget.org/packages/Cake.CD)                                                               | ObjectivityLtd      | Yes                  | No                    | No                                   |
-| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                                     | olivier-spinelli    | Yes                  | No                    | No                                   |
-| [Cake.Deploy.Variables](https://www.nuget.org/packages/Cake.Deploy.Variables)                                   | ObjectivityLtd      | No                   | No                    | No                                   |
-| [Cake.Deploy.Azure.Authentication](https://www.nuget.org/packages/Cake.Deploy.Azure.Authentication)             | ObjectivityLtd      | No                   | No                    | No                                   |
-| [Cake.Deploy.Azure.Management.WebSites](https://www.nuget.org/packages/Cake.Deploy.Azure.Management.WebSites)   | ObjectivityLtd      | No                   | No                    | No                                   |
-| [Cake.Deploy.Azure.ResourceManager](https://www.nuget.org/packages/Cake.Deploy.Azure.ResourceManager)           | ObjectivityLtd      | No                   | No                    | No                                   |
-| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                                         | lowcase             | No                   | No                    | No                                   |
-| [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                                         | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Environment](https://www.nuget.org/packages/Cake.Storm.Environment)                                 | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Fluent](https://www.nuget.org/packages/Cake.Storm.Fluent)                                           | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Fluent.Android](https://www.nuget.org/packages/Cake.Storm.Fluent.Android)                           | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Fluent.DotNetCore](https://www.nuget.org/packages/Cake.Storm.Fluent.DotNetCore)                     | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Fluent.iOS](https://www.nuget.org/packages/Cake.Storm.Fluent.iOS)                                   | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Fluent.NuGet](https://www.nuget.org/packages/Cake.Storm.Fluent.NuGet)                               | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Fluent.Transformations](https://www.nuget.org/packages/Cake.Storm.Fluent.Transformations)           | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                                 | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration)           | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                             | Julien-Mialon       | No                   | No                    | No                                   |
-| [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                             | marcosnz            | Yes                  | No                    | No                                   |
-| [Cake.Umbraco.PackageUploader](https://www.nuget.org/packages/Cake.Umbraco.PackageUploader)                     | ObjectivityLtd      | No                   | No                    | No                                   |
-| [Cake.Xamarin.Binding.Util](https://www.nuget.org/packages/Cake.Xamarin.Binding.Util)                           | Xamarin             | No                   | No                    | No                                   |
-| [CakeApp](https://www.nuget.org/packages/CakeApp)                                                               | secana              | Yes                  | No                    | No                                   |
-| [Code.Cake](https://www.nuget.org/packages/Code.Cake)                                                           | olivier-spinelli    | No                   | No                    | No                                   |
-| [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                                   | olivier-spinelli    | No                   | No                    | No                                   |
-| [ScriptCs.Cake](https://www.nuget.org/packages/ScriptCs.Cake)                                                   | redth               | Yes                  | No                    | No                                   |
+| Name                                                                                                            | Maintainer          | Maintainer contacted |
+|-----------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
+| [ArchitectNow.Cake](https://www.nuget.org/packages/ArchitectNow.Cake)                                           | ArchitectNow        | No                   |
+| [AutoCake.Build](https://www.nuget.org/packages/AutoCake.Build)                                                 | tmorgner            | Yes                  |
+| [AutoCake.Release](https://www.nuget.org/packages/AutoCake.Release)                                             | tmorgner            | Yes                  |
+| [AutoCake.TaskAliases](https://www.nuget.org/packages/AutoCake.TaskAliases)                                     | tmorgner            | Yes                  |
+| [Cake.CD](https://www.nuget.org/packages/Cake.CD)                                                               | ObjectivityLtd      | Yes                  |
+| [Cake.CK.Pack](https://www.nuget.org/packages/Cake.CK.Pack)                                                     | olivier-spinelli    | Yes                  |
+| [Cake.Deploy.Variables](https://www.nuget.org/packages/Cake.Deploy.Variables)                                   | ObjectivityLtd      | No                   |
+| [Cake.Deploy.Azure.Authentication](https://www.nuget.org/packages/Cake.Deploy.Azure.Authentication)             | ObjectivityLtd      | No                   |
+| [Cake.Deploy.Azure.Management.WebSites](https://www.nuget.org/packages/Cake.Deploy.Azure.Management.WebSites)   | ObjectivityLtd      | No                   |
+| [Cake.Deploy.Azure.ResourceManager](https://www.nuget.org/packages/Cake.Deploy.Azure.ResourceManager)           | ObjectivityLtd      | No                   |
+| [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                                         | lowcase             | No                   |
+| [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                                         | Julien-Mialon       | No                   |
+| [Cake.Storm.Environment](https://www.nuget.org/packages/Cake.Storm.Environment)                                 | Julien-Mialon       | No                   |
+| [Cake.Storm.Fluent](https://www.nuget.org/packages/Cake.Storm.Fluent)                                           | Julien-Mialon       | No                   |
+| [Cake.Storm.Fluent.Android](https://www.nuget.org/packages/Cake.Storm.Fluent.Android)                           | Julien-Mialon       | No                   |
+| [Cake.Storm.Fluent.DotNetCore](https://www.nuget.org/packages/Cake.Storm.Fluent.DotNetCore)                     | Julien-Mialon       | No                   |
+| [Cake.Storm.Fluent.iOS](https://www.nuget.org/packages/Cake.Storm.Fluent.iOS)                                   | Julien-Mialon       | No                   |
+| [Cake.Storm.Fluent.NuGet](https://www.nuget.org/packages/Cake.Storm.Fluent.NuGet)                               | Julien-Mialon       | No                   |
+| [Cake.Storm.Fluent.Transformations](https://www.nuget.org/packages/Cake.Storm.Fluent.Transformations)           | Julien-Mialon       | No                   |
+| [Cake.Storm.iOS](https://www.nuget.org/packages/Cake.Storm.iOS)                                                 | Julien-Mialon       | No                   |
+| [Cake.Storm.JsonBuildConfiguration](https://www.nuget.org/packages/Cake.Storm.JsonBuildConfiguration)           | Julien-Mialon       | No                   |
+| [Cake.Storm.Nuget](https://www.nuget.org/packages/Cake.Storm.Nuget)                                             | Julien-Mialon       | No                   |
+| [Cake.Tin](https://www.nuget.org/packages/Cake.Tin)                                                             | marcosnz            | Yes                  |
+| [Cake.Umbraco.PackageUploader](https://www.nuget.org/packages/Cake.Umbraco.PackageUploader)                     | ObjectivityLtd      | No                   |
+| [Cake.Xamarin.Binding.Util](https://www.nuget.org/packages/Cake.Xamarin.Binding.Util)                           | Xamarin             | No                   |
+| [CakeApp](https://www.nuget.org/packages/CakeApp)                                                               | secana              | Yes                  |
+| [Code.Cake](https://www.nuget.org/packages/Code.Cake)                                                           | olivier-spinelli    | No                   |
+| [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                                   | olivier-spinelli    | No                   |
+| [ScriptCs.Cake](https://www.nuget.org/packages/ScriptCs.Cake)                                                   | redth               | Yes                  |
 
 # Deprecated
 

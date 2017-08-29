@@ -17,9 +17,9 @@ Currently:
 
 | Name                                                                | Maintainer   | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation | Uses cake-contrib logo | Supports .Net Core |
 |---------------------------------------------------------------------|--------------|----------------------|-----------------------|--------------------------------------|------------------------------------|------------------------|--------------------|
-| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13        | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
-| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13        | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
-| [Cake.Mug](https://www.nuget.org/packages/Cake.Mug)                 | fwinkelbauer | No                   | No                    | No                                   | No                                 |                        |                    |
+| [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13        | Yes                  | No                    | Yes                                  | Yes                                | No                     | Yes                |
+| [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13        | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Mug](https://www.nuget.org/packages/Cake.Mug)                 | fwinkelbauer | No                   | No                    | No                                   | No                                 | Yes                    | Not sure           |
 
 # Modules
 

@@ -1,15 +1,15 @@
 In total, there are:
 
-* 168 addins (and supporting NuGet packages)
+* 169 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 4 of them have been deprecated
-* 182 Total
+* 183 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [166 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [175 of them](https://www.nuget.org/profiles/cake-contrib)
 * 75 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -131,6 +131,7 @@ Currently:
 | [Cake.Mage](https://www.nuget.org/packages/Cake.Mage)                                          | enkafan                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [MagicChunks](https://www.nuget.org/packages/MagicChunks/)                                     | Sergey Zwezdin              | Yes                  | Yes                   | Not Required                         | Not Required                       |                        |                    |
 | [Cake.Markdown-Pdf](https://www.nuget.org/packages/Cake.Markdown-Pdf)                          | wozzo17                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
+| [Cake.MarkdownToPdf](https://www.nuget.org/packages/Cake.MarkdownToPdf)                        | twenzel                     | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.MicrosoftTeams](https://www.nuget.org/packages/Cake.MicrosoftTeams)                      | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools)                          | redth                       | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask)                            | marcosnz                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |

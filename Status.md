@@ -1,15 +1,15 @@
 In total, there are:
 
-* 169 addins (and supporting NuGet packages)
+* 172 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 4 of them have been deprecated
-* 183 Total
+* 187 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [175 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [178 of them](https://www.nuget.org/profiles/cake-contrib)
 * 75 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -124,6 +124,15 @@ Currently:
 | [Cake.Intellisense.Core](https://www.nuget.org/packages/Cake.Intellisense.Core/)               | meirb                       | No                   | No                    | No                                   | No                                 |                        |                    |
 | [Cake.IntellisenseGenerator](https://www.nuget.org/packages/Cake.IntellisenseGenerator/)       | meirb                       | No                   | No                    | No                                   | No                                 |                        |                    |
 | [Cake.ISO](https://www.nuget.org/packages/Cake.ISO/)                                           | austinlparker               | No                   | No                    | No                                   | No                                 |                        |                    |
+| [Cake.Issues](https://www.nuget.org/packages/Cake.Issues)                                      | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.DocFx](https://www.nuget.org/packages/Cake.Issues.DocFx)                          | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.EsLint](https://www.nuget.org/packages/Cake.Issues.EsLint)                        | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.InspectCode](https://www.nuget.org/packages/Cake.Issues.InspectCode)              | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.Markdownlint](https://www.nuget.org/packages/Cake.Issues.Markdownlint)            | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.MsBuild](https://www.nuget.org/packages/Cake.Issues.MsBuild)                      | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.PullRequests](https://www.nuget.org/packages/Cake.Issues.PullRequests)            | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.PullRequests.Tfs](https://www.nuget.org/packages/Cake.Issues.PullRequests.Tfs)    | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.Testing](https://www.nuget.org/packages/Cake.Issues.Testing)                      | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.JMeter](https://www.nuget.org/packages/Cake.JMeter)                                      | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.Json](https://www.nuget.org/packages/Cake.Json)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.KeePass](https://www.nuget.org/packages/Cake.KeePass)                                    | Codedlogic                  | No                   | Yes                   | Yes                                  | No                                 |                        |                    |

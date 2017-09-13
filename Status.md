@@ -36,9 +36,10 @@ Currently:
 
 # Websites
 
-| Name                                                                   | Maintainer   |
-|------------------------------------------------------------------------|--------------|
-| [Cake.Prca.Website](https://github.com/cake-contrib/Cake.Prca.Website) | pascalberger |
+| Name                                                                       | Maintainer   |
+|----------------------------------------------------------------------------|--------------|
+| [Cake.Issues.Website](https://github.com/cake-contrib/Cake.Issues.Website) | pascalberger |
+| [Cake.Prca.Website](https://github.com/cake-contrib/Cake.Prca.Website)     | pascalberger |
 
 
 # Addins

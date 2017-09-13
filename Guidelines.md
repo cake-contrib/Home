@@ -12,7 +12,7 @@ Addins which are part of the cake-contrib organisation should use the [Cake.Reci
 
 ## Supported Cake Version
 
-To have the best support for different versions of Cake, the addin should currently be build against Cake version 0.22.0,
+To have the best support for different versions of Cake, the addin should currently be built against Cake version 0.22.0,
 or, if a specific newer functionality is required, the lowest version providing the specific functionality.
 
 If the addin is built against newer versions it might not be compatible with previous versions of Cake.
@@ -62,5 +62,5 @@ Follow the instructions [here](https://github.com/cake-build/website/blob/develo
 [Costura.Fody NuGet package]: https://nuget.org/packages/Costura.Fody/
 [ILMerge]: https://www.microsoft.com/en-us/download/details.aspx?id=17630
 [Wyam]: https://wyam.io/ 
-[Cake Documentation Guidelines]: http://cakebuild.net/docs/contributing/documentation
-[How to create gh-pages branch]: http://www.gep13.co.uk/blog/how-to-create-gh-pages-branch
+[Cake Documentation Guidelines]: https://cakebuild.net/docs/contributing/documentation
+[How to create gh-pages branch]: https://www.gep13.co.uk/blog/how-to-create-gh-pages-branch

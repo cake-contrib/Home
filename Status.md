@@ -1,15 +1,15 @@
 In total, there are:
 
-* 172 addins (and supporting NuGet packages)
+* 173 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 4 of them have been deprecated
-* 187 Total
+* 188 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [179 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [180 of them](https://www.nuget.org/profiles/cake-contrib)
 * 75 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -140,6 +140,7 @@ Currently:
 | [Cake.Json](https://www.nuget.org/packages/Cake.Json)                                          | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.KeePass](https://www.nuget.org/packages/Cake.KeePass)                                    | Codedlogic                  | No                   | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.Kudu](https://www.nuget.org/packages/Cake.Kudu)                                          | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
+| [Cake.Liquibase](https://www.nuget.org/packages/Cake.Liquibase)                                | papauorg                    | No                   | No                    | Yes                                  | No                                 | Yes                    | No                 |
 | [Cake.Mage](https://www.nuget.org/packages/Cake.Mage)                                          | enkafan                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [MagicChunks](https://www.nuget.org/packages/MagicChunks/)                                     | Sergey Zwezdin              | Yes                  | Yes                   | Not Required                         | Not Required                       |                        |                    |
 | [Cake.Markdown-Pdf](https://www.nuget.org/packages/Cake.Markdown-Pdf)                          | wozzo17                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |

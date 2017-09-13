@@ -12,7 +12,7 @@ Addins which are part of the cake-contrib organisation should use the [Cake.Reci
 
 ## Supported Cake Version
 
-To have the best support for different versions of Cake, the addin should currently be build against Cake version 16.2,
+To have the best support for different versions of Cake, the addin should currently be build against Cake version 0.22.0,
 or, if a specific newer functionality is required, the lowest version providing the specific functionality.
 
 If the addin is built against newer versions it might not be compatible with previous versions of Cake.

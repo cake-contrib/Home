@@ -1,15 +1,15 @@
 In total, there are:
 
-* 164 addins (and supporting NuGet packages)
+* 165 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 11 of them have been deprecated
-* 188 Total
+* 189 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [180 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [181 of them](https://www.nuget.org/profiles/cake-contrib)
 * 75 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -134,6 +134,7 @@ Currently:
 | [Cake.Issues.PullRequests](https://www.nuget.org/packages/Cake.Issues.PullRequests)            | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.Issues.PullRequests.Tfs](https://www.nuget.org/packages/Cake.Issues.PullRequests.Tfs)    | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.Issues.Reporting](https://www.nuget.org/packages/Cake.Issues.Reporting)                  | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Issues.Reporting.Generic](https://www.nuget.org/packages/Cake.Issues.Reporting.Generic)  | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.Issues.Reporting.Html](https://www.nuget.org/packages/Cake.Issues.Reporting.Html)        | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.Issues.Testing](https://www.nuget.org/packages/Cake.Issues.Testing)                      | pascalberger                | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.JMeter](https://www.nuget.org/packages/Cake.JMeter)                                      | pitermarx                   | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

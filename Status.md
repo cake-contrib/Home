@@ -1,10 +1,10 @@
 In total, there are:
 
-* 165 addins (and supporting NuGet packages)
+* 166 addins (and supporting NuGet packages)
 * 7 modules 
 * 3 Recipe
 * 11 of them have been deprecated
-* 189 Total
+* 190 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
@@ -147,6 +147,7 @@ Currently:
 | [Cake.Markdown-Pdf](https://www.nuget.org/packages/Cake.Markdown-Pdf)                          | wozzo17                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [Cake.MarkdownToPdf](https://www.nuget.org/packages/Cake.MarkdownToPdf)                        | twenzel                     | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.MicrosoftTeams](https://www.nuget.org/packages/Cake.MicrosoftTeams)                      | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
+| [Cake.MobileCenter](https://www.nuget.org/packages/Cake.MobileCenter)                          | mihies                      | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools)                          | redth                       | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask)                            | marcosnz                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.MsDeploy](https://www.nuget.org/packages/Cake.MsDeploy)                                  | louisfischer                | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |

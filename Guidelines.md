@@ -17,6 +17,18 @@ or, if a specific newer functionality is required, the lowest version providing 
 
 If the addin is built against newer versions it might not be compatible with previous versions of Cake.
 
+## Cake.Core / Cake.Common references
+
+Those references are being implicitly added by the Cake engine. Thus there is no need to add them as dependencies
+inside the nuspec file. This is not too hard to accomplish of you write your own nuspec file. But if you are using
+`dotnet.exe pack` to create the nuget package you need to explicitly mark those references as private assets inside
+the new csproj format.
+
+    <ItemGroup>
+      <PackageReference Include="Cake.Core" Version="0.22.0" PrivateAssets="All" />
+      <PackageReference Include="Cake.Common" Version="0.22.0" PrivateAssets="All" />
+    </ItemGroup>
+
 ## Assembly References
 
 Assemblies required by the addin should be merged with or embedded in the Cake addin.

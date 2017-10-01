@@ -290,6 +290,7 @@ Currently:
 | [Cake.Xamarin.Binding.Util](https://www.nuget.org/packages/Cake.Xamarin.Binding.Util)                           | Xamarin             | No                   |
 | [CakeApp](https://www.nuget.org/packages/CakeApp)                                                               | secana              | Yes                  |
 | [Code.Cake](https://www.nuget.org/packages/Code.Cake)                                                           | olivier-spinelli    | No                   |
+| [RAC.Cake.Npm](https://www.nuget.org/packages/RAC.Cake.Npm)                                                     | RACDigitalDevOps    | Yes                  |
 | [SimpleGitVersion.Cake](https://www.nuget.org/packages/SimpleGitVersion.Cake)                                   | olivier-spinelli    | No                   |
 | [ScriptCs.Cake](https://www.nuget.org/packages/ScriptCs.Cake)                                                   | redth               | Yes                  |
 

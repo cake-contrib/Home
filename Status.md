@@ -252,7 +252,8 @@ Currently:
 | Cake.SignClient                                                                                   | mihamarkic                  | No                   |
 | Cake.Skype                                                                                        | phillipsj                   | No                   |
 | [Cake.Streaming](https://github.com/RichiCoder1/Cake.Streaming)                                   | RichiCoder1                 | No                   |
-| Cake.Svn                                                                                          | mholo65                     | No                   |
+| [Cake.Svn](https://github.com/cake-contrib/Cake.Svn)                                              | mholo65                     | No                   |
+| [Cake.Svn](https://github.com/ddevening/Cake.Svn)                                                 | ddevening                   | No                   |
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   |
 | Cake.Unity                                                                                        | patrik                      | Yes                  |
 | [Cake.UrlLoadDirective](https://github.com/Redth/Cake.UrlLoadDirective.Module)                    | redth                       | No                   |

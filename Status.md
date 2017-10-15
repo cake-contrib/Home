@@ -9,9 +9,9 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [182 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [183 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
-* 127 of them appear on the [Cake Website](http://cakebuild.net/addins/)
+* 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
 
@@ -191,6 +191,7 @@ Currently:
 | [Cake.Storyteller](https://www.nuget.org/packages/Cake.Storyteller)                            | bibodha                     | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.StrongNameTool](https://www.nuget.org/packages/Cake.StrongNameTool)                      | krippz                      | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.StyleCop](https://www.nuget.org/packages/Cake.StyleCop)                                  | Codedlogic                  | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
+| [Cake.Svn](https://github.com/cake-contrib/Cake.Svn)                                           | mholo65                     | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                     | ozzymcduff                  | Yes                  | Yes                   | Yes                                  | Not Required                       |                        |                    |
 | [Cake.Terraform](https://www.nuget.org/packages/Cake.Terraform/)                               | erikvanbrakel               | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.Tfx](https://www.nuget.org/packages/Cake.Tfx)                                            | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
@@ -252,7 +253,6 @@ Currently:
 | Cake.SignClient                                                                                   | mihamarkic                  | No                   |
 | Cake.Skype                                                                                        | phillipsj                   | No                   |
 | [Cake.Streaming](https://github.com/RichiCoder1/Cake.Streaming)                                   | RichiCoder1                 | No                   |
-| [Cake.Svn](https://github.com/cake-contrib/Cake.Svn)                                              | mholo65                     | No                   |
 | [Cake.Svn](https://github.com/ddevening/Cake.Svn)                                                 | ddevening                   | No                   |
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   |
 | Cake.Unity                                                                                        | patrik                      | Yes                  |

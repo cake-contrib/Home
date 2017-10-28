@@ -277,6 +277,7 @@ Currently:
 | [Cake.Deploy.Azure.Management.WebSites](https://www.nuget.org/packages/Cake.Deploy.Azure.Management.WebSites)   | ObjectivityLtd      | No                   |
 | [Cake.Deploy.Azure.ResourceManager](https://www.nuget.org/packages/Cake.Deploy.Azure.ResourceManager)           | ObjectivityLtd      | No                   |
 | [Cake.Deploy.Bot.LUIS](https://www.nuget.org/packages/Cake.Deploy.Bot.LUIS)                                     | ObjectivityLtd      | No                   |
+| [Cake.DummyAddin](https://www.nuget.org/packages/Cake.DummyAddin)                                               | nlowe-hyland        | No                   |
 | [Cake.LittleHelpers](https://www.nuget.org/packages/Cake.LittleHelpers)                                         | lowcase             | No                   |
 | [Cake.Storm.Android](https://www.nuget.org/packages/Cake.Storm.Android)                                         | Julien-Mialon       | No                   |
 | [Cake.Storm.Environment](https://www.nuget.org/packages/Cake.Storm.Environment)                                 | Julien-Mialon       | No                   |

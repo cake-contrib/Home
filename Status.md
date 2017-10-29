@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [183 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [184 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -115,7 +115,7 @@ Currently:
 | [Cake.Grunt](https://www.nuget.org/packages/Cake.Grunt)                                        | Ken Lea                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [Cake.Gulp](https://www.nuget.org/packages/Cake.Gulp)                                          | philo                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Handlebars](https://www.nuget.org/packages/Cake.Handlebars)                              | achapman                    | No                   | No                    | No                                   | No                                 |                        |                    |
-| [Cake.Hg](https://www.nuget.org/packages/Cake.Hg)                                              | vCipher                     | No                   | No                    | No                                   | No                                 | Yes                    |                    |
+| [Cake.Hg](https://www.nuget.org/packages/Cake.Hg)                                              | vCipher                     | No                   | No                    | No                                   | Yes                                | Yes                    |                    |
 | [Cake.HipChat](https://www.nuget.org/packages/Cake.HipChat)                                    | scene316                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.HockeyApp](https://www.nuget.org/packages/Cake.HockeyApp)                                | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Hosts](https://www.nuget.org/packages/Cake.Hosts)                                        | trailmax                    | No                   | No                    | Yes                                  | No                                 |                        |                    |

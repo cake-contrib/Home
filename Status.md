@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [184 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [185 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -161,7 +161,7 @@ Currently:
 | [Cake.NSwag.Console](https://www.nuget.org/packages/Cake.NSwag.Console)                        | achapman                    | No                   | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.OctoDeploy](https://www.nuget.org/packages/Cake.OctoDeploy)                              | NinetailLabs                | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.OctoVariapus](https://www.nuget.org/packages/Cake.OctoVariapus)                          | osoykan                     | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
-| [Cake.Openshift](https://www.nuget.org/packages/Cake.Openshift)                                | Meir017                     | Yes                  | No                    | No                                   | No                                 |                        |                    |
+| [Cake.Openshift](https://www.nuget.org/packages/Cake.Openshift)                                | Meir017                     | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.Orchard](https://www.nuget.org/packages/Cake.Orchard)                                    | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |                        |                    |
 | [Cake.Packages](https://www.nuget.org/packages/Cake.Packages/)                                 | tomstaijen                  | Yes                  | No                    | No                                   | No                                 |                        |                    |
 | [Cake.Paket](https://www.nuget.org/packages/Cake.Paket)                                        | larzw                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

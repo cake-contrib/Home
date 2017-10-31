@@ -29,7 +29,7 @@ Once that request has been made, the following process will be followed:
 * Add a new AppVeyor Project for the new repository
 * Go to the Settings section, and click on Notifications
 * Add a slack and web hook notification, using settings from an existing project as a basis
-* The the permission sync tool
+* Run the permission sync tool
   * If this was a new user added to the Organisation, you will need to run the tool for all projects
   * If this was an existing user adding a new project, you will only need to run the tool for one project
 * Check the permissions and environment variables section to make sure that they are filled out

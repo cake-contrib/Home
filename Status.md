@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [185 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [186 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -126,7 +126,7 @@ Currently:
 | [Cake.Intellisense](https://www.nuget.org/packages/Cake.Intellisense/)                         | tpodolak                    | Yes                  | No                    | No                                   | No                                 |                        |                    |
 | [Cake.Intellisense.Core](https://www.nuget.org/packages/Cake.Intellisense.Core/)               | meirb                       | No                   | No                    | No                                   | No                                 |                        |                    |
 | [Cake.IntellisenseGenerator](https://www.nuget.org/packages/Cake.IntellisenseGenerator/)       | meirb                       | No                   | No                    | No                                   | No                                 |                        |                    |
-| [Cake.ISO](https://www.nuget.org/packages/Cake.ISO/)                                           | austinlparker               | Yes                  | No                    | No                                   | No                                 |                        |                    |
+| [Cake.ISO](https://www.nuget.org/packages/Cake.ISO/)                                           | austinlparker               | Yes                  | Yes                   | Yes                                  | No                                 | Yes                    | No                   |
 | [Cake.Issues](https://www.nuget.org/packages/Cake.Issues)                                      | pascalberger                | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.Issues.DocFx](https://www.nuget.org/packages/Cake.Issues.DocFx)                          | pascalberger                | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.Issues.EsLint](https://www.nuget.org/packages/Cake.Issues.EsLint)                        | pascalberger                | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    | No                 |

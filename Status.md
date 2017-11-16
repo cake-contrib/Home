@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [188 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [189 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -147,6 +147,7 @@ Currently:
 | [MagicChunks](https://www.nuget.org/packages/MagicChunks/)                                     | Sergey Zwezdin              | Yes                  | Yes                   | Not Required                         | Not Required                       |                        |                    |
 | [Cake.Markdown-Pdf](https://www.nuget.org/packages/Cake.Markdown-Pdf)                          | wozzo17                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [Cake.MarkdownToPdf](https://www.nuget.org/packages/Cake.MarkdownToPdf)                        | twenzel                     | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
+| [Cake.Microsoft.Extensions.Configuration](https://www.nuget.org/packages/Cake.Microsoft.Extensions.Configuration/) | jonathankuleff | Yes           | Yes                   | Yes                                  | No                                 | Yes                    |                    |
 | [Cake.MicrosoftTeams](https://www.nuget.org/packages/Cake.MicrosoftTeams)                      | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.MobileCenter](https://www.nuget.org/packages/Cake.MobileCenter)                          | mihies                      | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools)                          | redth                       | Yes                  | No                    | Yes                                  | No                                 |                        |                    |

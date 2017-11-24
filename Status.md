@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [190 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [191 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -199,6 +199,7 @@ Currently:
 | [Cake.StyleCop](https://www.nuget.org/packages/Cake.StyleCop)                                  | Codedlogic                  | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.Svn](https://github.com/cake-contrib/Cake.Svn)                                           | mholo65                     | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                     | ozzymcduff                  | Yes                  | Yes                   | Yes                                  | Not Required                       |                        |                    |
+| [Cake.Talend](https://www.nuget.org/packages/Cake.Talend)                                      | RadioSystems                | Yes                  | No                    | Yes                                  | Not Required                       | Yes                    |                    |
 | [Cake.Terraform](https://www.nuget.org/packages/Cake.Terraform/)                               | erikvanbrakel               | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.Tfx](https://www.nuget.org/packages/Cake.Tfx)                                            | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Topshelf](https://www.nuget.org/packages/Cake.Topshelf)                                  | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

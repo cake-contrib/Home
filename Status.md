@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [193 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [194 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -154,7 +154,7 @@ Currently:
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools)                          | redth                       | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask)                            | marcosnz                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.MsDeploy](https://www.nuget.org/packages/Cake.MsDeploy)                                  | louisfischer                | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
-| [Cake.NDepend](https://www.nuget.org/packages/Cake.NDepend/)                                   | joaoasrosa                  | Yes                  | Yes                   | No                                   | No                                 | Yes                    |                    |
+| [Cake.NDepend](https://www.nuget.org/packages/Cake.NDepend/)                                   | joaoasrosa                  | Yes                  | Yes                   | Yes                                  | No                                 | Yes                    |                    |
 | [Cake.Netlify](https://www.nuget.org/packages/Cake.Netlify/)                                   | philllipsj                  | No                   | No                    | Yes                                  | Yes                                |                        |                    |
 | [Cake.Newman](https://www.nuget.org/packages/Cake.Newman)                                      | achapman                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.NewRelic](https://www.nuget.org/packages/Cake.NewRelic)                                  | brysonwilding               | Yes                  | No                    | Yes                                  | No                                 |                        |                    |

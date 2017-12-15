@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [194 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [196 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -100,7 +100,7 @@ Currently:
 | [Cake.EntityFramework](https://www.nuget.org/packages/Cake.EntityFramework)                    | louisfischer                | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.EnvXmlTransform](https://www.nuget.org/packages/Cake.EnvXmlTransform)                    | nengberg                    | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.ExtendedNuGet](https://www.nuget.org/packages/Cake.ExtendedNuGet)                        | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
-| [Cake.Fastlane](https://www.nuget.org/packages/Cake.Fastlane)                                  | RLittlesII                  | Yes                  | No                    | No                                   | No                                 | No                     |                    |
+| [Cake.Fastlane](https://www.nuget.org/packages/Cake.Fastlane)                                  | RLittlesII                  | Yes                  | No                    | Yes                                  | No                                 | No                     |                    |
 | [Cake.Figlet](https://www.nuget.org/packages/Cake.Figlet)                                      | enkafan                     | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    | Yes                |
 | [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers)                            | redth                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.FileSet](https://www.nuget.org/packages/Cake.FileSet)                                    | CleanKludge                 | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
@@ -174,7 +174,7 @@ Currently:
 | [Cake.PinNuGetDependency](https://www.nuget.org/packages/Cake.PinNuGetDependency)              | ghuntley                    | No                   | No                    | Yes                                  | Yes                                |                        |                    |
 | [Cake.Plist](https://www.nuget.org/packages/Cake.Plist)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Powershell](https://www.nuget.org/packages/Cake.Powershell)                              | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
-| [Cake.Proget](https://www.nuget.org/packages/Cake.Proget)                                      | apprenda                    | Yes                  | Yes                   | No                                   | Yes                                |                        |                    |
+| [Cake.Proget](https://www.nuget.org/packages/Cake.Proget)                                      | apprenda                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.ProjHelpers](https://www.nuget.org/packages/Cake.ProjHelpers)                            | almogor                     | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.ProtobufTools](https://www.nuget.org/packages/Cake.ProtobufTools)                        | mihies                      | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Putty](https://www.nuget.org/packages/Cake.Putty)                                        | mihies                      | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

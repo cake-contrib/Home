@@ -9,7 +9,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [197 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [198 of them](https://www.nuget.org/profiles/cake-contrib)
 * 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -190,6 +190,7 @@ Currently:
 | [Cake.SimpleHTTPServer](https://www.nuget.org/packages/Cake.SimpleHTTPServer)                  | wearetherock                | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.SimpleVersionIncrement](https://www.nuget.org/packages/Cake.SimpleVersionIncrement)      | Devneval                    | No                   | No                    | No                                   | No                                 |                        |                    |
 | [Cake.Slack](https://www.nuget.org/packages/Cake.Slack)                                        | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
+| [Cake.SmartAssembly](https://www.nuget.org/packages/Cake.SmartAssembly)                        | mihies                      | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [Cake.Sonar](https://www.nuget.org/packages/Cake.Sonar)                                        | tomstaijen                  | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.SonarScanner](https://www.nuget.org/packages/Cake.SonarScanner)                          | pitermarx                   | No                   | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.SqlPackage](https://www.nuget.org/packages/Cake.SqlPackage)                              | RLittlesII                  | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

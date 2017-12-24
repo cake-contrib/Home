@@ -1,7 +1,7 @@
 In total, there are:
 
 * 166 addins (and supporting NuGet packages)
-* 7 modules 
+* 8 modules 
 * 3 Recipe
 * 11 of them have been deprecated
 * 190 Total
@@ -24,16 +24,17 @@ Currently:
 
 # Modules
 
-| Name                                                                                | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation | Uses cake-contrib logo | Supports .Net Core |
-| ------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|------------------------|--------------------|
-| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                  | agc93      | No                   | No                    | Yes                                  | No                                 | No                     | No                 |
-| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)     | gep13      | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
-| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)         | devlead    | Yes                  | No                    | Yes                                  | Yes                                | No                     | No                 |
-| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)               | larzw      | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
-| [Cake.Parallel.Module](https://www.nuget.org/packages/Cake.Parallel.Module)         | aabenoja   | No                   | No                    | Yes                                  | No                                 | Yes                    | No                 |
-| [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module) | agc93      | No                   | No                    | Yes                                  | No                                 | No                     | No                 |
-| [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                   | agc93      | No                   | No                    | Yes                                  | Yes                                | No                     | No                 |
-
+| Name                                                                                 | Maintainer | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation | Uses cake-contrib logo | Supports .Net Core |
+| -------------------------------------------------------------------------------------|------------|----------------------|-----------------------|--------------------------------------|------------------------------------|------------------------|--------------------|
+| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                   | agc93      | No                   | No                    | Yes                                  | No                                 | No                     | No                 |
+| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)      | gep13      | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)          | devlead    | Yes                  | No                    | Yes                                  | Yes                                | No                     | No                 |
+| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)                | larzw      | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
+| [Cake.Parallel.Module](https://www.nuget.org/packages/Cake.Parallel.Module)          | aabenoja   | No                   | No                    | Yes                                  | No                                 | Yes                    | No                 |
+| [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module)  | agc93      | No                   | No                    | Yes                                  | No                                 | No                     | No                 |
+| [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                    | agc93      | No                   | No                    | Yes                                  | Yes                                | No                     | No                 |
+| [Cake.UrlLoadDirective.Module](https://github.com/Redth/Cake.UrlLoadDirective.Module)| redth      | Yes                  | No                    | No                                   | No                                 | Yes                    | No                 |
+redth
 # Websites
 
 | Name                                                                       | Maintainer   |

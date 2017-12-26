@@ -1,8 +1,9 @@
 In total, there are:
 
+* 4 Recipes
+* 8 modules
+* 2 websites
 * 166 addins (and supporting NuGet packages)
-* 8 modules 
-* 3 Recipe
 * 11 of them have been deprecated
 * 190 Total
 

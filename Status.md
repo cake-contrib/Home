@@ -3,16 +3,16 @@ In total, there are:
 * 4 Recipes
 * 8 modules
 * 2 websites
-* 166 addins (and supporting NuGet packages)
-* 11 of them have been deprecated
+* 193 addins (and supporting NuGet packages)
+* 12 of them have been deprecated
 * 190 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
 * the `cake-contrib` user has been added to [199 of them](https://www.nuget.org/profiles/cake-contrib)
-* 100 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
-* 128 of them appear on the [Cake Website](http://cakebuild.net/addins/)
+* 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
+* 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
 # Recipes
 

@@ -5,7 +5,7 @@ In total, there are:
 * 2 websites
 * 193 addins (and supporting NuGet packages)
 * 12 of them have been deprecated
-* 190 Total
+* 217 Total
 
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 

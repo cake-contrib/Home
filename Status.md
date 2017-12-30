@@ -10,7 +10,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [200 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [201 of them](https://www.nuget.org/profiles/cake-contrib)
 * 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -107,7 +107,7 @@ Currently:
 | [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers)                            | redth                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.FileSet](https://www.nuget.org/packages/Cake.FileSet)                                    | CleanKludge                 | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.FluentMigrator](https://www.nuget.org/packages/Cake.FluentMigrator)                      | FredrikL                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
-| [Cake.Flyaway](https://github.com/buthomas/Cake.Flyway)                                        | buthomas                    | Yes                  | No                    | No                                   | No                                 | No                     | No                 |
+| [Cake.Flyaway](https://github.com/buthomas/Cake.Flyway)                                        | buthomas                    | Yes                  | No                    | Yes                                  | No                                 | No                     | No                 |
 | [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp)                                            | cphill11                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Gem](https://www.nuget.org/packages/Cake.Gem)                                            | gep13                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Genymotion](https://www.nuget.org/packages/Cake.Genymotion)                              | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |

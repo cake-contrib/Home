@@ -10,7 +10,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [204 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [205 of them](https://www.nuget.org/profiles/cake-contrib)
 * 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -90,6 +90,7 @@ Currently:
 | [Cake.CsvHelper](https://www.nuget.org/packages/Cake.CsvHelper/)                               | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |                        |                    |
 | [Cake.Curl](https://www.nuget.org/packages/Cake.Curl)                                          | ecampidoglio                | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.DeployParams](https://www.nuget.org/packages/Cake.DeployParams)                          | wooboo                      | Yes                  | No                    | Yes                                  | No                                 |                        |                    |
+| [Cake.DevicesXunitTestReceiver](https://www.nuget.org/packages/Cake.DevicesXunitTestReceiver/) | pellet                      | No                   | Yes                   | Yes                                  | No                                 | No                     |                    |
 | [Cake.Dialog](https://www.nuget.org/packages/Cake.Dialog)                                      | wearetherock                | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.DocCreator](https://www.nuget.org/packages/Cake.DocCreator)                              | achapman                    | Yes                  | No                    | Yes                                  | Not Required                       |                        |                    |
 | [Cake.DocFx](https://www.nuget.org/packages/Cake.DocFx)                                        | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |

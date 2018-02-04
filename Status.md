@@ -1,6 +1,6 @@
 In total, there are:
 
-* 4 Recipes
+* 3 Recipes
 * 8 modules
 * 2 websites
 * 193 addins (and supporting NuGet packages)
@@ -20,7 +20,6 @@ Currently:
 |---------------------------------------------------------------------|--------------|----------------------|-----------------------|--------------------------------------|------------------------------------|------------------------|--------------------|
 | [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13        | Yes                  | No                    | Yes                                  | Yes                                | No                     | Yes                |
 | [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13        | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
-| [Cake.Mug](https://www.nuget.org/packages/Cake.Mug)                 | fwinkelbauer | No                   | No                    | No                                   | No                                 | Yes                    | Not sure           |
 | [StACS.CakeBase](https://github.com/jnhaffey/StACS.CakeBase)        | jnhaffey     | No                   | No                    | No                                   | No                                 | Yes                    | Yes                |
 
 # Modules

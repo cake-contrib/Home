@@ -3,7 +3,7 @@ In total, there are:
 * 3 Recipes
 * 8 modules
 * 2 websites
-* 193 addins (and supporting NuGet packages)
+* 194 addins (and supporting NuGet packages)
 * 12 of them have been deprecated
 * 217 Total
 
@@ -148,7 +148,8 @@ Currently:
 | [Cake.Json](https://www.nuget.org/packages/Cake.Json)                                          | redth                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Karma](https://www.nuget.org/packages/Cake.Karma)                                        | RaringCoder                 | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
 | [Cake.KeePass](https://www.nuget.org/packages/Cake.KeePass)                                    | Codedlogic                  | No                   | Yes                   | Yes                                  | No                                 |                        |                    |
-| [Cake.Kudu](https://www.nuget.org/packages/Cake.Kudu)                                          | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
+| [Cake.Kudu](https://www.nuget.org/packages/Cake.Kudu)                                          | devlead                     | Yes                  | Yes                   | Yes                                  | Yes     
+| [Cake.Kudu.Client](https://www.nuget.org/packages/Cake.Kudu.Client)                                          | devlead                     | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Liquibase](https://www.nuget.org/packages/Cake.Liquibase)                                | papauorg                    | No                   | No                    | Yes                                  | No                                 | Yes                    | No                 |
 | [Cake.Mage](https://www.nuget.org/packages/Cake.Mage)                                          | enkafan                     | Yes                  | No                    | Yes                                  | Yes                                |                        |                    |
 | [MagicChunks](https://www.nuget.org/packages/MagicChunks/)                                     | Sergey Zwezdin              | Yes                  | Yes                   | Not Required                         | Not Required                       |                        |                    |

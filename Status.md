@@ -10,7 +10,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [206 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [208 of them](https://www.nuget.org/profiles/cake-contrib)
 * 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -50,6 +50,7 @@ Currently:
 | [Cake.ActiveDirectory](https://www.nuget.org/packages/Cake.ActiveDirectory)                    | RadioSystems                | Yes                  | Yes                   | Yes                                  | Not Required                       |                        |                    |
 | [Cake.AliaSql](https://www.nuget.org/packages/Cake.AliaSql)                                    | Richicoder                  | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Android.Adb](https://www.nuget.org/packages/Cake.Android.Adb)                            | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
+| [Cake.Android.AvdManager](https://www.nuget.org/packages/Cake.Android.AvdManager/)             | redth                       | Yes                  | No                    | Yes                                  | No                                 | No                     |                    |
 | [Cake.Android.SdkManager](https://www.nuget.org/packages/Cake.Android.SdkManager)              | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.AndroidAppManifest](https://www.nuget.org/packages/Cake.AndroidAppManifest)              | ghuntley                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Apigee](https://www.nuget.org/packages/Cake.Apigee)                                      | LittleColin                 | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

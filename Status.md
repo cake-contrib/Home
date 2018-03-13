@@ -10,7 +10,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [208 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [209 of them](https://www.nuget.org/profiles/cake-contrib)
 * 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -124,7 +124,7 @@ Currently:
 | [Cake.Grunt](https://www.nuget.org/packages/Cake.Grunt)                                        | Ken Lea                     | Yes                  | No                    | Yes                                  | Yes                                | Yes                    |                    |
 | [Cake.Gulp](https://www.nuget.org/packages/Cake.Gulp)                                          | philo                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.Handlebars](https://www.nuget.org/packages/Cake.Handlebars)                              | achapman                    | No                   | No                    | No                                   | No                                 |                        |                    |
-| [Cake.Helm](https://www.nuget.org/packages/Cake.Helm/)                                         | santey                      | Yes                  | No                    | No                                   | No                                 | No                     |                    |
+| [Cake.Helm](https://www.nuget.org/packages/Cake.Helm/)                                         | santey                      | Yes                  | No                    | Yes                                  | No                                 | No                     |                    |
 | [Cake.Hg](https://www.nuget.org/packages/Cake.Hg)                                              | vCipher                     | Yes                  | Yes                   | Yes                                  | Yes                                | Yes                    |                    |
 | [Cake.HgVersion](https://www.nuget.org/packages/Cake.HgVersion)                                | vCipher                     | Yes                  | No                    | No                                   | No                                 | Yes                    |                    |
 | [Cake.HipChat](https://www.nuget.org/packages/Cake.HipChat)                                    | scene316                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |

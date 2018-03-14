@@ -286,7 +286,6 @@ Currently:
 | [Cake.Svn](https://github.com/ddevening/Cake.Svn)                                                 | ddevening                   | No                   |
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   |
 | Cake.Unity                                                                                        | patrik                      | Yes                  |
-| [Cake.UrlLoadDirective](https://github.com/Redth/Cake.UrlLoadDirective.Module)                    | redth                       | No                   |
 | Cake.VstsReleaseTools                                                                             | fleed                       | Yes                  |
 | Cake.WindowsAppStore                                                                              | geertvanhorrik              | No                   |
 

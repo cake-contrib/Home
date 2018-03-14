@@ -10,7 +10,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [210 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [211 of them](https://www.nuget.org/profiles/cake-contrib)
 * 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -240,6 +240,7 @@ Currently:
 | [Cake.Watch](https://www.nuget.org/packages/Cake.Watch)                                        | wearetherock                | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.WebDeploy](https://www.nuget.org/packages/Cake.WebDeploy)                                | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.WebPack](https://www.nuget.org/packages/Cake.WebPack)                                    | philo                       | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
+| [Cake.WindowsAppStore](https://www.nuget.org/packages/Cake.WindowsAppStore/)                   | geertvanhorrik              | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | Yes                |
 | [Cake.WinSCP](https://www.nuget.org/packages/Cake.WinSCP)                                      | ilich                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
 | [Cake.Wyam](https://www.nuget.org/packages/Cake.Wyam)                                          | daveaglick                  | Yes                  | Yes                   | Yes                                  | Not Required                       |                        |                    |
 | [Cake.Xamarin](https://www.nuget.org/packages/Cake.Xamarin)                                    | redth                       | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |
@@ -287,7 +288,6 @@ Currently:
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   |
 | Cake.Unity                                                                                        | patrik                      | Yes                  |
 | Cake.VstsReleaseTools                                                                             | fleed                       | Yes                  |
-| Cake.WindowsAppStore                                                                              | geertvanhorrik              | No                   |
 
 # Needs investigation
 

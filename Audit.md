@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Friday, March 23, 2018 at 12:02:18 AM GMT
+- This report was generated on Friday, March 23, 2018 at 12:03:07 PM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -9,8 +9,8 @@
 - The `YAML` column indicates if there is a `.yml` file describing the addin in this [repo](https://github.com/cake-build/website/tree/develop/addins).
 
 - The analysis discovered 218 addins
-  - 193 were successfully audited (see the 'Addins' section)
-  - 25 could not be audited (see the 'Exceptions' section)
+  - 192 were successfully audited (see the 'Addins' section)
+  - 26 could not be audited (see the 'Exceptions' section)
 
 # Addins
 
@@ -53,8 +53,7 @@
 | [Cake.CK.Pack](https://github.com/Invenietis/ck-globbing) | 0.13.0 :small_red_triangle: | true :white_check_mark: | 0.13.0 :small_red_triangle: | true :white_check_mark: | v4.5.1 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.CMake](https://github.com/cake-contrib/Cake.CMake) | 0.18.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.CodeAnalysisReporting](https://github.com/cake-contrib/Cake.CodeAnalysisReporting) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.Codecov](https://github.com/cake-contrib/Cake.Codecov) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.CodeCov](https://github.com/cake-contrib/Cake.Codecov) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
+| [Cake.CodeCov](https://github.com/cake-contrib/Cake.Codecov) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Compression](https://github.com/akordowski/Cake.Compression/) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | v4.6.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Coveralls](https://github.com/cake-contrib/Cake.Coveralls) | 0.22.2 :small_red_triangle: | false :small_red_triangle: |  |  | net46, netstandard1.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.CsvHelper](https://github.com/RadioSystems/Cake.CsvHelper) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
@@ -219,6 +218,8 @@
 **Cake.ClickTwice**: DownloadProjectFilesAsync: repos/agc93/clicktwice/contents/src/ClickTwice.Handlers.Core/ClickTwice.Handlers.Core.csproj was not found.
 DownloadProjectFilesAsync: repos/agc93/clicktwice/contents/src/ClickTwice.Templates.SolidState.Package/ClickTwice.Templates.SolidState.Package.csproj was not found.
 This addin seem to be referencing neither Cake.Core nor Cake.Common.
+
+**Cake.Codecov**: DownloadNugetMetadataAsync: The process cannot access the file 'C:\projects\cake-addindiscoverer\artifacts\Cake.AddinDiscoverer\Cake.Codecov\nuget.json' because it is being used by another process.
 
 **Cake.FtpDeploy**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
 

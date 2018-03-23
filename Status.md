@@ -24,16 +24,16 @@ Currently:
 
 # Modules
 
-| Name                                                                                 | Maintainer | Maintainer contacted | cake-contrib user added on NuGet.org | Added to cake-contrib organisation | Supports .Net Core |
-| -------------------------------------------------------------------------------------|------------|----------------------|--------------------------------------|------------------------------------|--------------------|
-| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                   | agc93      | No                   | Yes                                  | No                                 | No                 |
-| [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module)  | agc93      | No                   | Yes                                  | No                                 | No                 |
-| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)      | gep13      | Yes                  | Yes                                  | Yes                                | No                 |
-| [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                    | agc93      | No                   | Yes                                  | Yes                                | No                 |
-| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)          | devlead    | Yes                  | Yes                                  | Yes                                | No                 |
-| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)                | larzw      | Yes                  | Yes                                  | Yes                                | No                 |
-| [Cake.Parallel.Module](https://www.nuget.org/packages/Cake.Parallel.Module)          | aabenoja   | No                   | Yes                                  | No                                 | No                 |
-| [Cake.UrlLoadDirective.Module](https://github.com/Redth/Cake.UrlLoadDirective.Module)| redth      | Yes                  | Yes                                  | No                                 | No                 |
+| Name                                                                                 | Maintainer | Maintainer contacted | cake-contrib user added on NuGet.org | Added to cake-contrib organisation |
+| -------------------------------------------------------------------------------------|------------|----------------------|--------------------------------------|------------------------------------|
+| [Cake.APT.Module](https://www.nuget.org/packages/Cake.APT.Module/)                   | agc93      | No                   | Yes                                  | No                                 |
+| [Cake.BuildSystems.Module](https://www.nuget.org/packages/Cake.BuildSystems.Module)  | agc93      | No                   | Yes                                  | No                                 |
+| [Cake.Chocolatey.Module](https://www.nuget.org/packages/Cake.Chocolatey.Module)      | gep13      | Yes                  | Yes                                  | Yes                                |
+| [Cake.DNF.Module](https://www.nuget.org/packages/Cake.DNF.Module)                    | agc93      | No                   | Yes                                  | Yes                                |
+| [Cake.LongPath.Module](https://www.nuget.org/packages/Cake.LongPath.Module)          | devlead    | Yes                  | Yes                                  | Yes                                |
+| [Cake.Paket.Module](https://www.nuget.org/packages/Cake.Paket.Module)                | larzw      | Yes                  | Yes                                  | Yes                                |
+| [Cake.Parallel.Module](https://www.nuget.org/packages/Cake.Parallel.Module)          | aabenoja   | No                   | Yes                                  | No                                 |
+| [Cake.UrlLoadDirective.Module](https://github.com/Redth/Cake.UrlLoadDirective.Module)| redth      | Yes                  | Yes                                  | No                                 |
 
 # Websites
 

@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Thursday, March 22, 2018 at 4:27:07 PM GMT
+- This report was generated on Friday, March 23, 2018 at 12:02:18 AM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -90,7 +90,7 @@
 | [Cake.Gitter](https://github.com/cake-contrib/Cake.Gitter) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | net46, netstandard1.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Gradle](https://github.com/abeggchr/cake-gradle/blob/master/README.md) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Graph](https://github.com/wozzo/Cake.Graph) | 0.25.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
-| [Cake.Grunt](https://github.com/cake-contrib/Cake.Grunt/) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
+| [Cake.Grunt](https://github.com/cake-contrib/Cake.Grunt/) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Gulp](https://github.com/cake-contrib/cake-gulp) | 0.22.0 :small_red_triangle: | true :white_check_mark: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Handlebars](https://github.com/agc93/Cake.Handlebars) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Helm](https://github.com/santey/Cake.Helm) | 0.25.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | false :small_red_triangle: | false :small_red_triangle: |

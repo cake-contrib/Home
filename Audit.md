@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Saturday, March 24, 2018 at 12:01:57 AM GMT
+- This report was generated on Saturday, March 24, 2018 at 12:01:30 PM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -9,8 +9,8 @@
 - The `YAML` column indicates if there is a `.yml` file describing the addin in this [repo](https://github.com/cake-build/website/tree/develop/addins).
 
 - The analysis discovered 218 addins
-  - 193 were successfully audited (see the 'Addins' section)
-  - 25 could not be audited (see the 'Exceptions' section)
+  - 192 were successfully audited (see the 'Addins' section)
+  - 26 could not be audited (see the 'Exceptions' section)
 
 # Addins
 
@@ -147,7 +147,6 @@
 | [Cake.Path](https://github.com/CleanKludge/Cake.Path) | 0.19.5 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net45, netcoreapp1.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Plist](https://github.com/cake-contrib/Cake.Plist) | 0.22.2 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Powershell](https://github.com/SharpeRAD/Cake.Powershell) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.Proget](https://github.com/apprenda/Cake.ProGet/) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.ProGet](https://github.com/apprenda/Cake.ProGet) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.ProtobufTools](https://github.com/cake-contrib/Cake.ProtobufTools) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | net46, netstandard1.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Putty](https://github.com/MihaMarkic/Cake.Putty) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, netcoreapp2.0 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -254,6 +253,8 @@ This addin seem to be referencing neither Cake.Core nor Cake.Common.
 **Cake.PinNuGetDependency**: FindSolutionPathAsync: Value cannot be null.
 Parameter name: owner
 This addin seem to be referencing neither Cake.Core nor Cake.Common.
+
+**Cake.Proget**: DownloadNugetMetadataAsync: The process cannot access the file 'C:\projects\cake-addindiscoverer\artifacts\Cake.AddinDiscoverer\Cake.Proget\nuget.json' because it is being used by another process.
 
 **Cake.ProjHelpers**: DownloadProjectFilesAsync: repos/orialmog/Cake.ProjHelpers/contents/src/Cake.ProjHelpers/Cake.ProjHelpers.csproj was not found.
 This addin seem to be referencing neither Cake.Core nor Cake.Common.

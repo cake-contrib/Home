@@ -10,7 +10,7 @@ In total, there are:
 hosted on [NuGet.org](https://www.nuget.org/packages?q=cake).
 
 Currently:
-* the `cake-contrib` user has been added to [212 of them](https://www.nuget.org/profiles/cake-contrib)
+* the `cake-contrib` user has been added to [213 of them](https://www.nuget.org/profiles/cake-contrib)
 * 110 of them have been moved to the [Cake Contribution Organization](https://github.com/cake-contrib)
 * 144 of them appear on the [Cake Website](http://cakebuild.net/addins/)
 
@@ -129,6 +129,7 @@ Currently:
 | [Cake.HgVersion](https://www.nuget.org/packages/Cake.HgVersion)                                | vCipher                     | Yes                  | No                    | No                                   | No                                 | Yes                    |                    |
 | [Cake.HipChat](https://www.nuget.org/packages/Cake.HipChat)                                    | scene316                    | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.HockeyApp](https://www.nuget.org/packages/Cake.HockeyApp)                                | reicheltp                   | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
+| [Cake.Homebrew](https://www.nuget.org/packages/Cake.Homebrew/)                                 | RLittlesII                  | Yes                  | No                    | Yes                                  | No                                 | Yes                    |                    |
 | [Cake.Hosts](https://www.nuget.org/packages/Cake.Hosts)                                        | trailmax                    | No                   | No                    | Yes                                  | No                                 |                        |                    |
 | [Cake.Http](https://www.nuget.org/packages/Cake.Http)                                          | LouisFischer                | Yes                  | Yes                   | Yes                                  | Yes                                |                        |                    |
 | [Cake.IIS](https://www.nuget.org/packages/Cake.IIS)                                            | sharperad                   | Yes                  | Yes                   | Yes                                  | No                                 |                        |                    |

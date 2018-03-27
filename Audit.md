@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Monday, March 26, 2018 at 12:02:45 PM GMT
+- This report was generated on Tuesday, March 27, 2018 at 12:03:33 AM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -8,9 +8,9 @@
 - The `Icon` column indicates if the nuget package for your addin uses the cake-contrib icon.
 - The `YAML` column indicates if there is a `.yml` file describing the addin in this [repo](https://github.com/cake-build/website/tree/develop/addins).
 
-- The analysis discovered 217 addins
+- The analysis discovered 216 addins
   - 192 were successfully audited (see the 'Addins' section)
-  - 25 could not be audited (see the 'Exceptions' section)
+  - 24 could not be audited (see the 'Exceptions' section)
 
 # Addins
 
@@ -74,7 +74,7 @@
 | [Cake.Endpoint](https://github.com/cake-contrib/Cake.Endpoint/) | 0.26.0 :white_check_mark: | true :white_check_mark: | 0.26.0 :white_check_mark: | true :white_check_mark: | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.EntityFramework](https://github.com/cake-contrib/Cake.EntityFramework/) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6, v4.6.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.EnvXmlTransform](https://github.com/nengberg/cake-envxmltransform) | 0.17.0 :small_red_triangle: | true :white_check_mark: | 0.17.0 :small_red_triangle: | true :white_check_mark: | v4.6.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.ExtendedNuGet](https://github.com/Redth/Cake.ExtendedNuGet) | 0.22.0 :small_red_triangle: | true :white_check_mark: | 0.22.0 :small_red_triangle: | true :white_check_mark: | v4.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.ExtendedNuGet](https://github.com/Redth/Cake.ExtendedNuGet) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Fastlane](https://github.com/RLittlesII/Cake.Fastlane) | 0.22.2 :small_red_triangle: | false :small_red_triangle: |  |  | net46, netstandard1.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Figlet](https://github.com/enkafan/Cake.Figlet) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.FileHelpers](https://github.com/Redth/Cake.FileHelpers) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -263,10 +263,7 @@ This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
 **Cake.SquareLogo**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
 
-**Cake.Stylecop**: DownloadProjectFilesAsync: repos/Ashthos/Cake.Stylecop/contents/Cake.Stylecop/Cake.Stylecop.csproj was not found.
-This addin seem to be referencing neither Cake.Core nor Cake.Common.
-
-**Cake.StyleCop**: DownloadProjectFilesAsync: repos/ashthos/Cake.StyleCop/contents/Cake.Stylecop/Cake.Stylecop.csproj was not found.
+**Cake.StyleCop**: DownloadProjectFilesAsync: repos/Ashthos/Cake.StyleCop/contents/Cake.Stylecop/Cake.Stylecop.csproj was not found.
 This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
 **Cake.VersionReader**: DownloadProjectFilesAsync: repos/NinetailLabs/Cake.VersionReader/contents/Cake.VersionReader/Cake.VersionReader.csproj was not found.

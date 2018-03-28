@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Wednesday, March 28, 2018 at 12:02:35 AM GMT
+- This report was generated on Wednesday, March 28, 2018 at 12:03:58 PM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -75,7 +75,7 @@
 | [Cake.EntityFramework](https://github.com/cake-contrib/Cake.EntityFramework/) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6, v4.6.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.EnvXmlTransform](https://github.com/nengberg/cake-envxmltransform) | 0.17.0 :small_red_triangle: | true :white_check_mark: | 0.17.0 :small_red_triangle: | true :white_check_mark: | v4.6.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.ExtendedNuGet](https://github.com/Redth/Cake.ExtendedNuGet) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.Fastlane](https://github.com/RLittlesII/Cake.Fastlane) | 0.22.2 :small_red_triangle: | false :small_red_triangle: |  |  | net46, netstandard1.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.Fastlane](https://github.com/RLittlesII/Cake.Fastlane) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net46, netstandard2.0 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Figlet](https://github.com/enkafan/Cake.Figlet) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.FileHelpers](https://github.com/Redth/Cake.FileHelpers) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.FileSet](https://github.com/CleanKludge/Cake.FileSet) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net46, netcoreapp1.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
@@ -97,7 +97,7 @@
 | [Cake.HgVersion](https://github.com/vCipher/Cake.HgVersion) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net461 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.HipChat](https://github.com/cake-contrib/Cake.HipChat) | 0.17.0 :small_red_triangle: | true :white_check_mark: | 0.17.0 :small_red_triangle: | true :white_check_mark: | v4.5.2 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.HockeyApp](https://github.com/cake-contrib/Cake.HockeyApp) | 0.26.0 :white_check_mark: | true :white_check_mark: |  |  | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.Homebrew](https://github.com/RLittlesII/Cake.Homebrew) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
+| [Cake.Homebrew](https://github.com/RLittlesII/Cake.Homebrew) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Hosts](https://github.com/AMVSoftware/Cake.Hosts) | 0.23.0 :small_red_triangle: | true :white_check_mark: |  |  | net46, netcoreapp1.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Http](https://github.com/cake-contrib/Cake.Http) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.IIS](https://github.com/SharpeRAD/Cake.IIS) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | net461, netstandard1.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |

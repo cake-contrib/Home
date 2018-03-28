@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Tuesday, March 27, 2018 at 12:02:28 PM GMT
+- This report was generated on Wednesday, March 28, 2018 at 12:02:35 AM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -148,7 +148,7 @@
 | [Cake.Plist](https://github.com/cake-contrib/Cake.Plist) | 0.22.2 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Powershell](https://github.com/SharpeRAD/Cake.Powershell) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.ProGet](https://github.com/apprenda/Cake.ProGet) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.ProtobufTools](https://github.com/cake-contrib/Cake.ProtobufTools) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | net46, netstandard1.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
+| [Cake.ProtobufTools](https://github.com/cake-contrib/Cake.ProtobufTools) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Putty](https://github.com/MihaMarkic/Cake.Putty) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, netcoreapp2.0 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Raygun](https://github.com/ghuntley/Cake.Raygun) | 0.17.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5.2 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.ReSharperReports](https://github.com/cake-contrib/Cake.ReSharperReports) | 0.26.0 :white_check_mark: | false :small_red_triangle: | 0.26.0 :white_check_mark: | false :small_red_triangle: | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |

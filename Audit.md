@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Monday, April 2, 2018 at 12:02:14 AM GMT
+- This report was generated on Monday, April 2, 2018 at 12:03:33 PM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`

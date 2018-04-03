@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Tuesday, April 3, 2018 at 12:01:42 PM GMT
+- This report was generated on Tuesday, April 3, 2018 at 8:18:41 PM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -8,9 +8,24 @@
 - The `Icon` column indicates if the nuget package for your addin uses the cake-contrib icon.
 - The `YAML` column indicates if there is a `.yml` file describing the addin in this [repo](https://github.com/cake-build/website/tree/develop/addins).
 
+# Statistics
+
 - The analysis discovered 216 addins
   - 192 were successfully audited (see the 'Addins' section)
   - 24 could not be audited (see the 'Exceptions' section)
+
+- Of the 192 audited addins:
+  - 7.8 % are targeting the desired .NET framework
+  - 50.0 % are using the cake-contrib icon
+  - 77.6 % have a YAML file on the cake web site
+
+- Of the 46 audited addins that reference Cake.Core:
+  - 34.8 % are targeting the desired version of Cake.Core
+  - 30.4 % have marked the reference to Cake.Core as private
+
+- Of the 46 audited addins that reference Cake.Common:
+  - 32.6 % are targeting the desired version of Cake.Common
+  - 28.3 % have marked the reference to Cake.Common as private
 
 # Addins
 
@@ -88,7 +103,7 @@
 | [Cake.GitPackager](https://github.com/ilich/Cake.GitPackager) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Gitter](https://github.com/cake-contrib/Cake.Gitter) | 0.26.0 :white_check_mark: | false :small_red_triangle: | 0.26.0 :white_check_mark: | false :small_red_triangle: | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Gradle](https://github.com/abeggchr/cake-gradle/blob/master/README.md) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
-| [Cake.Graph](https://github.com/wozzo/Cake.Graph) | 0.25.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
+| [Cake.Graph](https://github.com/wozzo/Cake.Graph) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | net46 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Grunt](https://github.com/cake-contrib/Cake.Grunt/) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Gulp](https://github.com/cake-contrib/cake-gulp) | 0.22.0 :small_red_triangle: | true :white_check_mark: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Handlebars](https://github.com/agc93/Cake.Handlebars) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |

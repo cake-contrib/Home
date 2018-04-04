@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Wednesday, April 4, 2018 at 12:02:17 AM GMT
+- This report was generated on Wednesday, April 4, 2018 at 12:02:56 PM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -11,21 +11,21 @@
 # Statistics
 
 - The analysis discovered 216 addins
-  - 192 were successfully audited (see the 'Addins' section)
-  - 24 could not be audited (see the 'Exceptions' section)
+  - 193 were successfully audited (see the 'Addins' section)
+  - 23 could not be audited (see the 'Exceptions' section)
 
-- Of the 192 audited addins:
-  - 7.8 % are targeting the desired .NET framework
-  - 50.0 % are using the cake-contrib icon
-  - 77.6 % have a YAML file on the cake web site
+- Of the 193 audited addins:
+  - 8.3 % are targeting the desired .NET framework
+  - 50.3 % are using the cake-contrib icon
+  - 77.2 % have a YAML file on the cake web site
 
-- Of the 191 audited addins that reference Cake.Core:
-  - 31.9 % are targeting the desired version of Cake.Core
-  - 25.1 % have marked the reference to Cake.Core as private
+- Of the 192 audited addins that reference Cake.Core:
+  - 33.3 % are targeting the desired version of Cake.Core
+  - 25.0 % have marked the reference to Cake.Core as private
 
-- Of the 46 audited addins that reference Cake.Common:
-  - 32.6 % are targeting the desired version of Cake.Common
-  - 34.8 % have marked the reference to Cake.Common as private
+- Of the 47 audited addins that reference Cake.Common:
+  - 38.3 % are targeting the desired version of Cake.Common
+  - 34.0 % have marked the reference to Cake.Common as private
 
 # Addins
 
@@ -41,7 +41,7 @@
 | [Cake.AppleSimulator](https://github.com/ghuntley/Cake.AppleSimulator) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.AppPackager](https://github.com/phillipsj/Cake.AppPackager) | 0.16.2 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net45 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Apprenda](https://github.com/apprenda/Cake.Apprenda) | 0.24.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.AppVeyor](https://github.com/Redth/Cake.AppVeyor) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.AppVeyor](https://github.com/Redth/Cake.AppVeyor) | 0.26.0 :white_check_mark: | false :small_red_triangle: | 0.26.0 :white_check_mark: | false :small_red_triangle: | netstandard2.0, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.APT.Module](https://github.com/agc93/Cake.APT.Module) | 0.20.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net45 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.ArgumentHelpers](https://github.com/patridge/Cake.ArgumentHelpers) | Unknown :small_red_triangle: | false :small_red_triangle: | Unknown :small_red_triangle: | false :small_red_triangle: | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.ArtifactDrop](https://github.com/stefandevo/Cake.ArtifactDrop) | 0.20.0 :small_red_triangle: | false :small_red_triangle: | 0.20.0 :small_red_triangle: | false :small_red_triangle: | v4.5 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
@@ -92,7 +92,7 @@
 | [Cake.ExtendedNuGet](https://github.com/Redth/Cake.ExtendedNuGet) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Fastlane](https://github.com/RLittlesII/Cake.Fastlane) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net46, netstandard2.0 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Figlet](https://github.com/enkafan/Cake.Figlet) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.FileHelpers](https://github.com/Redth/Cake.FileHelpers) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.FileHelpers](https://github.com/Redth/Cake.FileHelpers) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.FileSet](https://github.com/CleanKludge/Cake.FileSet) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net46, netcoreapp1.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.FluentMigrator](https://github.com/cake-contrib/Cake.FluentMigrator) | 0.17.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Flyaway](https://github.com/buthomas/Cake.Flyway) | 0.21.1 :small_red_triangle: | true :white_check_mark: | 0.21.1 :small_red_triangle: | true :white_check_mark: | netstandard1.6, net45, net46 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
@@ -160,6 +160,7 @@
 | [Cake.Paket](https://github.com/larzw/Cake.Paket) | Unknown :small_red_triangle: | true :white_check_mark: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Paket.Module](https://github.com/cake-contrib/Cake.Paket) | Unknown :small_red_triangle: | true :white_check_mark: |  |  | v4.6 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Path](https://github.com/CleanKludge/Cake.Path) | 0.19.5 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard1.6, net45, netcoreapp1.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
+| [Cake.PinNuGetDependency](https://github.com/cake-contrib/Cake.PinNuGetDependency) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | net46 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Plist](https://github.com/cake-contrib/Cake.Plist) | 0.22.2 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Powershell](https://github.com/SharpeRAD/Cake.Powershell) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.ProGet](https://github.com/apprenda/Cake.ProGet) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -213,7 +214,7 @@
 | [Cake.WindowsAppStore](https://github.com/cake-contrib/Cake.WindowsAppStore) | 0.26.1 :white_check_mark: | true :white_check_mark: |  |  | netstandard2.0 :white_check_mark: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.WinSCP](https://github.com/ilich/Cake.WinSCP) | 0.17.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Wyam](https://github.com/Wyamio/Wyam) | 0.26.0 :white_check_mark: | true :white_check_mark: |  |  | netstandard2.0, net462 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.Xamarin](https://github.com/Redth/Cake.Xamarin) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.Xamarin](https://github.com/Redth/Cake.Xamarin) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.XCode](https://github.com/Redth/Cake.XCode) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.XComponent](https://github.com/xcomponent/Cake.XComponent) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6, v4.5.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.XdtTransform](https://github.com/phillipsj/Cake.XdtTransform) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
@@ -264,10 +265,6 @@ This addin seem to be referencing neither Cake.Core nor Cake.Common.
 **Cake.Packages**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
 
 **Cake.Parallel.Module**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
-
-**Cake.PinNuGetDependency**: FindSolutionPathAsync: Value cannot be null.
-Parameter name: owner
-This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
 **Cake.ProjHelpers**: DownloadProjectFilesAsync: repos/orialmog/Cake.ProjHelpers/contents/src/Cake.ProjHelpers/Cake.ProjHelpers.csproj was not found.
 This addin seem to be referencing neither Cake.Core nor Cake.Common.

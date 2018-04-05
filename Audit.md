@@ -1,6 +1,6 @@
 # Information
 
-- This report was generated on Wednesday, April 4, 2018 at 12:02:56 PM GMT
+- This report was generated on Thursday, April 5, 2018 at 12:03:04 AM GMT
 - The desired Cake version is `0.26.0`
 - The `Cake Core Version` and `Cake Common Version` columns  show the version referenced by a given addin
 - The `Cake Core IsPrivate` and `Cake Common IsPrivate` columns indicate whether the references are marked as private. In other words, we are looking for references with the `PrivateAssets=All` attribute like in this example: `<PackageReference Include="Cake.Common" Version="0.26.0" PrivateAssets="All" />`
@@ -11,21 +11,21 @@
 # Statistics
 
 - The analysis discovered 216 addins
-  - 193 were successfully audited (see the 'Addins' section)
-  - 23 could not be audited (see the 'Exceptions' section)
+  - 191 were successfully audited (see the 'Addins' section)
+  - 25 could not be audited (see the 'Exceptions' section)
 
-- Of the 193 audited addins:
-  - 8.3 % are targeting the desired .NET framework
+- Of the 191 audited addins:
+  - 11.5 % are targeting the desired .NET framework
   - 50.3 % are using the cake-contrib icon
-  - 77.2 % have a YAML file on the cake web site
+  - 78.0 % have a YAML file on the cake web site
 
-- Of the 192 audited addins that reference Cake.Core:
-  - 33.3 % are targeting the desired version of Cake.Core
-  - 25.0 % have marked the reference to Cake.Core as private
+- Of the 190 audited addins that reference Cake.Core:
+  - 37.4 % are targeting the desired version of Cake.Core
+  - 24.7 % have marked the reference to Cake.Core as private
 
-- Of the 47 audited addins that reference Cake.Common:
-  - 38.3 % are targeting the desired version of Cake.Common
-  - 34.0 % have marked the reference to Cake.Common as private
+- Of the 50 audited addins that reference Cake.Common:
+  - 48.0 % are targeting the desired version of Cake.Common
+  - 32.0 % have marked the reference to Cake.Common as private
 
 # Addins
 
@@ -33,9 +33,9 @@
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Cake.ActiveDirectory](https://github.com/RadioSystems/Cake.ActiveDirectory) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.AliaSql](https://github.com/cake-contrib/Cake.AliaSql) | 0.17.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.Android.Adb](https://github.com/Redth/Cake.Android.Adb) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.Android.Adb](https://github.com/Redth/Cake.Android.Adb) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Android.AvdManager](https://github.com/redth/Cake.Android.AvdManager) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | false :small_red_triangle: | false :small_red_triangle: |
-| [Cake.Android.SdkManager](https://github.com/Redth/Cake.Android.SdkManager) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.Android.SdkManager](https://github.com/Redth/Cake.Android.SdkManager) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.AndroidAppManifest](https://github.com/ghuntley/Cake.AndroidAppManifest) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Apigee](https://github.com/LittleColin/Cake.Apigee) | 0.22.2 :small_red_triangle: | true :white_check_mark: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.AppleSimulator](https://github.com/ghuntley/Cake.AppleSimulator) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -105,7 +105,7 @@
 | [Cake.Gradle](https://github.com/abeggchr/cake-gradle/blob/master/README.md) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.2 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Graph](https://github.com/wozzo/Cake.Graph) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | net46 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Grunt](https://github.com/cake-contrib/Cake.Grunt/) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | false :small_red_triangle: |
-| [Cake.Gulp](https://github.com/cake-contrib/cake-gulp) | 0.22.0 :small_red_triangle: | true :white_check_mark: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
+| [Cake.Gulp](https://github.com/cake-contrib/cake-gulp) | 0.26.0 :white_check_mark: | true :white_check_mark: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Handlebars](https://github.com/agc93/Cake.Handlebars) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.Helm](https://github.com/santey/Cake.Helm) | 0.25.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Hg](https://github.com/cake-contrib/Cake.Hg) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | net461 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -130,7 +130,6 @@
 | [Cake.Issues.PullRequests](https://github.com/cake-contrib/Cake.Issues.PullRequests) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.JMeter](https://github.com/pitermarx/Cake.JMeter) | 0.22.2 :small_red_triangle: | true :white_check_mark: |  |  | v4.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Json](https://github.com/Redth/Cake.Json) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.Karma](https://github.com/cake-contrib/Cake.Karma/) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6.1 :small_red_triangle: | true :white_check_mark: | false :small_red_triangle: |
 | [Cake.KeePass](https://github.com/Ashthos/Cake.KeePass) | 0.19.5 :small_red_triangle: | false :small_red_triangle: |  |  | v4.5.2 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Kudu](https://github.com/cake-contrib/Cake.Kudu) | 0.26.0 :white_check_mark: | false :small_red_triangle: | 0.26.0 :white_check_mark: | false :small_red_triangle: | netstandard2.0, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Kudu.Client](https://github.com/cake-contrib/Cake.Kudu.Client) | 0.26.0 :white_check_mark: | true :white_check_mark: |  |  | netstandard2.0, net461 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
@@ -141,7 +140,7 @@
 | [Cake.MicrosoftTeams](https://github.com/cake-contrib/Cake.MicrosoftTeams) | 0.26.0 :white_check_mark: | true :white_check_mark: |  |  | netstandard2.0, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.MiniCover](https://github.com/nlowe/Cake.MiniCover) | 0.26.0 :white_check_mark: | false :small_red_triangle: | 0.26.0 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.MobileCenter](https://github.com/cake-contrib/Cake.MobileCenter) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.MonoApiTools](https://github.com/Redth/Cake.MonoApiTools) | Unknown :small_red_triangle: | false :small_red_triangle: | Unknown :small_red_triangle: | false :small_red_triangle: | v4.5 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
+| [Cake.MonoApiTools](https://github.com/Redth/Cake.MonoApiTools) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.MSBuildTask](https://github.com/marcosnz/Cake.MSBuildTask) | Unknown :small_red_triangle: | false :small_red_triangle: | Unknown :small_red_triangle: | false :small_red_triangle: | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.MsDeploy](https://github.com/cake-contrib/Cake.MsDeploy) | 0.26.1 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.NDepend](https://github.com/joaoasrosa/cake-ndepend) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | net461, netstandard2.0, netcoreapp2.0 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -171,7 +170,7 @@
 | [Cake.ResxConverter](https://github.com/cake-contrib/Cake.ResxConverter) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.ScheduledTasks](https://github.com/hawker-am/Cake.ScheduledTasks) | 0.10.1 :small_red_triangle: | true :white_check_mark: |  |  | v4.5.2 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Scripty](https://github.com/daveaglick/Scripty) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6, v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.SemVer](https://github.com/Redth/Cake.SemVer) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.SemVer](https://github.com/Redth/Cake.SemVer) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.SendGrid](https://github.com/cake-contrib/Cake.SendGrid/) | 0.26.1 :white_check_mark: | true :white_check_mark: | 0.26.1 :white_check_mark: | true :white_check_mark: | netstandard2.0 :white_check_mark: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Services](https://github.com/SharpeRAD/Cake.Services) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.SimpleHTTPServer](https://github.com/cake-addin/cake-server) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
@@ -197,13 +196,11 @@
 | [Cake.Topshelf](https://github.com/SharpeRAD/Cake.Topshelf) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | net46, netstandard1.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Transifex](https://github.com/cake-contrib/Cake.Transifex) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.Twitter](https://github.com/cake-contrib/Cake.Twitter) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | net46, netstandard2.0 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.UncUtils](https://github.com/kolletzki/Cake.UncUtils) | 0.17.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Unity](https://github.com/cake-contrib/Cake.Unity) | 0.17.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.UrlLoadDirective.Module](https://github.com/Redth/Cake.UrlLoadDirective.Module) | 0.22.2 :small_red_triangle: | false :small_red_triangle: | 0.22.2 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.UServer](https://github.com/cake-addin/cake-u-server) | Unknown :small_red_triangle: | false :small_red_triangle: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Utility](https://github.com/waynebrantley/Cake.Utility) | 0.26.0 :white_check_mark: | false :small_red_triangle: | 0.26.0 :white_check_mark: | false :small_red_triangle: | v4.6.1 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.Vagrant](https://github.com/cake-contrib/Cake.Vagrant) | 0.17.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5.2 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
-| [Cake.ViewCompiler](https://github.com/agc93/Cake.ViewCompiler/) | 0.11.0 :small_red_triangle: | true :white_check_mark: |  |  | v4.5.2 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.VsCode](https://github.com/cake-contrib/Cake.VsCode) | 0.17.0 :small_red_triangle: | true :white_check_mark: | 0.17.0 :small_red_triangle: | true :white_check_mark: | v4.5.2 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.VSforMac](https://github.com/osamarabea/Cake.Xamarin) | Unknown :small_red_triangle: | false :small_red_triangle: | Unknown :small_red_triangle: | false :small_red_triangle: | v4.5 :small_red_triangle: | false :small_red_triangle: | false :small_red_triangle: |
 | [Cake.VsixSignTool](https://github.com/MihaMarkic/Cake.VsixSignTool) | 0.22.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
@@ -215,7 +212,8 @@
 | [Cake.WinSCP](https://github.com/ilich/Cake.WinSCP) | 0.17.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.5 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Wyam](https://github.com/Wyamio/Wyam) | 0.26.0 :white_check_mark: | true :white_check_mark: |  |  | netstandard2.0, net462 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.Xamarin](https://github.com/Redth/Cake.Xamarin) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
-| [Cake.XCode](https://github.com/Redth/Cake.XCode) | 0.22.0 :small_red_triangle: | false :small_red_triangle: | 0.22.0 :small_red_triangle: | false :small_red_triangle: | netstandard1.6, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
+| [Cake.Xamarin.Build](https://github.com/Redth/Cake.Xamarin.Build) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | false :small_red_triangle: |
+| [Cake.XCode](https://github.com/Redth/Cake.XCode) | 0.26.1 :white_check_mark: | false :small_red_triangle: | 0.26.1 :white_check_mark: | false :small_red_triangle: | netstandard2.0 :white_check_mark: | false :small_red_triangle: | true :white_check_mark: |
 | [Cake.XComponent](https://github.com/xcomponent/Cake.XComponent) | 0.23.0 :small_red_triangle: | false :small_red_triangle: |  |  | v4.6, v4.5.1 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.XdtTransform](https://github.com/phillipsj/Cake.XdtTransform) | 0.26.0 :white_check_mark: | false :small_red_triangle: |  |  | v4.6 :small_red_triangle: | true :white_check_mark: | true :white_check_mark: |
 | [Cake.XmlConfigStructureBuilder](https://github.com/graph-uk/Cake.XmlConfigStructureBuilder) | 0.25.0 :small_red_triangle: | false :small_red_triangle: |  |  | netstandard2.0, net46 :small_red_triangle: | false :small_red_triangle: | true :white_check_mark: |
@@ -256,6 +254,8 @@ This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
 **Cake.Jira**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
 
+**Cake.Karma**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
+
 **Cake.LongPath.Module**: This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
 **Cake.Microsoft.Extensions.Configuration**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
@@ -278,8 +278,10 @@ This addin seem to be referencing neither Cake.Core nor Cake.Common.
 **Cake.StyleCop**: DownloadProjectFilesAsync: repos/Ashthos/Cake.StyleCop/contents/Cake.Stylecop/Cake.Stylecop.csproj was not found.
 This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
+**Cake.UncUtils**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
+
 **Cake.VersionReader**: DownloadProjectFilesAsync: repos/NinetailLabs/Cake.VersionReader/contents/Cake.VersionReader/Cake.VersionReader.csproj was not found.
 This addin seem to be referencing neither Cake.Core nor Cake.Common.
 
-**Cake.Xamarin.Build**: This addin seem to be referencing neither Cake.Core nor Cake.Common.
+**Cake.ViewCompiler**: We were unable to determine the Github repo URL. Most likely this means that the PackageProjectUrl is missing from the csproj.
 

@@ -27,7 +27,6 @@ Currently:
 | Name                                                                       | Maintainer   |
 |----------------------------------------------------------------------------|--------------|
 | [Cake.Issues.Website](https://github.com/cake-contrib/Cake.Issues.Website) | pascalberger |
-| [Cake.Prca.Website](https://github.com/cake-contrib/Cake.Prca.Website)     | pascalberger |
 
 
 # Addins
@@ -98,7 +97,7 @@ Currently:
 | [Cake.FileHelpers](https://www.nuget.org/packages/Cake.FileHelpers)                            | redth                       | Yes                  | Yes                                  | Yes                                |
 | [Cake.FileSet](https://www.nuget.org/packages/Cake.FileSet)                                    | CleanKludge                 | Yes                  | Yes                                  | No                                 |
 | [Cake.FluentMigrator](https://www.nuget.org/packages/Cake.FluentMigrator)                      | FredrikL                    | Yes                  | Yes                                  | Yes                                |
-| [Cake.Flyaway](https://github.com/buthomas/Cake.Flyway)                                        | buthomas                    | Yes                  | Yes                                  | No                                 |
+| [Cake.Flyaway](https://www.nuget.org/packages/Cake.Flyway)                                        | buthomas                    | Yes                  | Yes                                  | No                                 |
 | [Cake.Ftp](https://www.nuget.org/packages/Cake.Ftp)                                            | cphill11                    | Yes                  | Yes                                  | Yes                                |
 | [Cake.FtpDeploy](https://www.nuget.org/packages/Cake.FtpDeploy/)                               | ChristopherPink             |                      |                                      |                                    |
 | [Cake.Gem](https://www.nuget.org/packages/Cake.Gem)                                            | gep13                       | Yes                  | Yes                                  | Yes                                |
@@ -143,7 +142,7 @@ Currently:
 | [Cake.Json](https://www.nuget.org/packages/Cake.Json)                                          | redth                       | Yes                  | Yes                                  | Yes                                |
 | [Cake.Karma](https://www.nuget.org/packages/Cake.Karma)                                        | RaringCoder                 | Yes                  | Yes                                  | Yes                                |
 | [Cake.KeePass](https://www.nuget.org/packages/Cake.KeePass)                                    | Codedlogic                  | No                   | Yes                                  | No                                 |
-| [Cake.Kudu](https://www.nuget.org/packages/Cake.Kudu)                                          | devlead                     | Yes                  | Yes                                  | Yes                                |     
+| [Cake.Kudu](https://www.nuget.org/packages/Cake.Kudu)                                          | devlead                     | Yes                  | Yes                                  | Yes                                |
 | [Cake.Kudu.Client](https://www.nuget.org/packages/Cake.Kudu.Client)                            | devlead                     | Yes                  | Yes                                  | Yes                                |
 | [Cake.Liquibase](https://www.nuget.org/packages/Cake.Liquibase)                                | papauorg                    | No                   | Yes                                  | No                                 |
 | [Cake.Mage](https://www.nuget.org/packages/Cake.Mage)                                          | enkafan                     | Yes                  | Yes                                  | Yes                                |
@@ -206,7 +205,7 @@ Currently:
 | [Cake.Storyteller](https://www.nuget.org/packages/Cake.Storyteller)                            | bibodha                     | Yes                  | Yes                                  | No                                 |
 | [Cake.StrongNameTool](https://www.nuget.org/packages/Cake.StrongNameTool)                      | krippz                      | Yes                  | Yes                                  | No                                 |
 | [Cake.StyleCop](https://www.nuget.org/packages/Cake.StyleCop)                                  | Codedlogic                  | Yes                  | Yes                                  | No                                 |
-| [Cake.Svn](https://github.com/cake-contrib/Cake.Svn)                                           | mholo65                     | Yes                  | Yes                                  | Yes                                |
+| [Cake.Svn](https://www.nuget.org/packages/Cake.Svn)                                           | mholo65                     | Yes                  | Yes                                  | Yes                                |
 | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                     | ozzymcduff                  | Yes                  | Yes                                  | Not Required                       |
 | [Cake.Talend](https://www.nuget.org/packages/Cake.Talend)                                      | RadioSystems                | Yes                  | Yes                                  | Not Required                       |
 | [Cake.Terraform](https://www.nuget.org/packages/Cake.Terraform/)                               | erikvanbrakel               | Yes                  | Yes                                  | No                                 |
@@ -218,7 +217,7 @@ Currently:
 | [Cake.TravisCI](https://www.nuget.org/packages/Cake.TravisCI/)                                 | RLittlesII                  | No                   | Yes                                  | No                                 |
 | [Cake.Twitter](https://www.nuget.org/packages/Cake.Twitter)                                    | gep13                       | Yes                  | Yes                                  | Yes                                |
 | [Cake.UncUtils](https://www.nuget.org/packages/Cake.UncUtils/)                                 | kolletzki                   | Yes                  | Yes                                  | No                                 |
-| [Cake.Utility](https://github.com/waynebrantley/Cake.Utility)                                  | waynebrantley               | No                   | No                                   | No                                 |
+| [Cake.Utility](https://www.nuget.org/packages/Cake.Utility)                                  | waynebrantley               | No                   | No                                   | No                                 |
 | [Cake.UServer](https://www.nuget.org/packages/Cake.UServer)                                    | wearetherock                | Yes                  | Yes                                  | No                                 |
 | [Cake.Vagrant](https://www.nuget.org/packages/Cake.Vagrant)                                    | achapman                    | Yes                  | Yes                                  | Yes                                |
 | [Cake.VersionReader](https://www.nuget.org/packages/Cake.VersionReader)                        | NinetailLabs                | Yes                  | Yes                                  | No                                 |

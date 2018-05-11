@@ -36,6 +36,7 @@ Once that request has been made, the following process will be followed:
 * Create environment variable for `WYAM_DEPLOY_REMOTE` and add value (similar to existing projects i.e. `https://github.com/cake-contrib/Cake.Hg`)
 * Go to coveralls.io and add new project using `cake-contrib` account
 * Create environment varialbe for `COVERALLS_REPO_TOKEN` and copy in value from above step
+* If a yml file has been added to the Website Repository, make sure to update the link to the repository
 * Inform user of process being complete
 
 # What permissions will I, as an Addin Author have, once I move it to this Organisation?

@@ -258,6 +258,7 @@ Currently:
 | [Cake.IISExpress](https://github.com/jrnail23/Cake.IISExpress)                                    | jrnail23                    | No                   |
 | [Cake.ImageMagick](https://github.com/MihaMarkic/Cake.ImageMagick)                                | MihaMarkic                  | No                   |
 | Cake.Markdownlint                                                                                 | pascalberger                | No                   |
+| [Cake.MkDocs](https://github.com/michalkowal/Cake.MkDocs)                                         | michalkowal                 | Yes                  |
 | Cake.MSBuild15                                                                                    | phillipsj                   | No                   |
 | [Cake.MSDTC](https://github.com/RagingKore/Cake.MSDTC)                                            | RagingKore                  | No                   |
 | Cake.Node                                                                                         | phillipsj                   | No                   |

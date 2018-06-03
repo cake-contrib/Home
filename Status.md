@@ -6,8 +6,9 @@ Currently:
 | Name                                                                | Maintainer   | Maintainer contacted | Added to Cake Website | cake-contrib user added on NuGet.org | Added to cake-contrib organisation | Uses cake-contrib logo | Supports .Net Core |
 |---------------------------------------------------------------------|--------------|----------------------|-----------------------|--------------------------------------|------------------------------------|------------------------|--------------------|
 | [Cake.Recipe](https://www.nuget.org/packages/Cake.Recipe)           | gep13        | Yes                  | No                    | Yes                                  | Yes                                | No                     | Yes                |
+| [Cake.Sitecore](https://www.nuget.org/packages/Cake.Sitecore)       | asmagin      | Yes                  | No                    | No                                   | Yes                                | Yes                    | No                 |
 | [Cake.Wyam.Recipe](https://www.nuget.org/packages/Cake.Wyam.Recipe) | gep13        | Yes                  | No                    | Yes                                  | Yes                                | Yes                    | No                 |
-| [StACS.CakeBase](https://github.com/jnhaffey/StACS.CakeBase)        | jnhaffey     | No                   | No                    | No                                   | No                                 | Yes                    | Yes                |
+| [StACS.CakeBase](https://github.com/jnhaffey/StACS.CakeBase)        | jnhaffey     | No                   | No                    | No                                   | No                                | Yes                    | Yes                |
 
 # Modules
 
@@ -188,7 +189,6 @@ Currently:
 | [Cake.SendGrid](https://www.nuget.org/packages/Cake.SendGrid)                                  | jericho                     | Yes                  | Yes                                  | Yes                                |
 | [Cake.ServiceOrchestration](https://www.nuget.org/packages/Cake.ServiceOrchestration)          | achapman                    | Yes                  | Yes                                  | No                                 |
 | [Cake.Services](https://www.nuget.org/packages/Cake.Services)                                  | sharperad                   | Yes                  | Yes                                  | No                                 |
-| [Cake.Sitecore](https://www.nuget.org/packages/Cake.Sitecore)                                  | asmagin                     | Yes                  | No                                   | No                                 |
 | [Cake.SimpleHTTPServer](https://www.nuget.org/packages/Cake.SimpleHTTPServer)                  | wearetherock                | Yes                  | Yes                                  | No                                 |
 | [Cake.SimpleVersionIncrement](https://www.nuget.org/packages/Cake.SimpleVersionIncrement)      | Devneval                    | No                   | No                                   | No                                 |
 | [Cake.Slack](https://www.nuget.org/packages/Cake.Slack)                                        | devlead                     | Yes                  | Yes                                  | Yes                                |

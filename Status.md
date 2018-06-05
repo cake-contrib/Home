@@ -152,6 +152,7 @@ Currently:
 | [Cake.Microsoft.Extensions.Configuration](https://www.nuget.org/packages/Cake.Microsoft.Extensions.Configuration/) | jonathankuleff | Yes           | Yes                                  | No                                 |
 | [Cake.MicrosoftTeams](https://www.nuget.org/packages/Cake.MicrosoftTeams)                      | devlead                     | Yes                  | Yes                                  | Yes                                |
 | [Cake.MiniCover](https://www.nuget.org/packages/Cake.MiniCover)                                | nlowe                       | Yes                  | Yes                                  | No                                 |
+| [Cake.MkDocs](https://github.com/michalkowal/Cake.MkDocs)                                      | michalkowal                 | Yes                  | Yes                                  | No                                 |
 | [Cake.MobileCenter](https://www.nuget.org/packages/Cake.MobileCenter)                          | mihies                      | Yes                  | Yes                                  | Yes                                |
 | [Cake.MonoApiTools](https://www.nuget.org/packages/Cake.MonoApiTools)                          | redth                       | Yes                  | Yes                                  | No                                 |
 | [Cake.MSBuildTask](https://www.nuget.org/packages/Cake.MSBuildTask)                            | marcosnz                    | Yes                  | Yes                                  | Yes                                |
@@ -257,7 +258,6 @@ Currently:
 | [Cake.IISExpress](https://github.com/jrnail23/Cake.IISExpress)                                    | jrnail23                    | No                   |
 | [Cake.ImageMagick](https://github.com/MihaMarkic/Cake.ImageMagick)                                | MihaMarkic                  | No                   |
 | Cake.Markdownlint                                                                                 | pascalberger                | No                   |
-| [Cake.MkDocs](https://github.com/michalkowal/Cake.MkDocs)                                         | michalkowal                 | Yes                  |
 | Cake.MSBuild15                                                                                    | phillipsj                   | No                   |
 | [Cake.MSDTC](https://github.com/RagingKore/Cake.MSDTC)                                            | RagingKore                  | No                   |
 | Cake.Node                                                                                         | phillipsj                   | No                   |

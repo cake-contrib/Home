@@ -2,13 +2,13 @@
 
 This document provides some guidelines and best practices for writing Cake addins hosted within the cake-contrib GitHub organization.
 All known addins are audited twice daily to ensure compliance and a summary report as well as a detailed report are generated at the conclusion of each audit.
-As a Cake use you can use the [summary audit report](Audit.md) to verify if the addins you are using are compatible with the version of Cake you are using. 
+As a Cake user you can use the [summary audit report](Audit.md) to verify if the addins you are using are compatible with the version of Cake you are using. 
 As a addin author you should use the [detailed audit report](Audit.xlsx) to verify that you are complying with all recommendations.
 
 ## NuGet Package Icon
 
 Use the Cake Contrib Icon which can be found [here](https://github.com/cake-contrib/graphics), rather than the Cake Icon. 
-In concrete terms, this means adding a line in your `.csprj` that looks like this:
+In concrete terms, this means adding a line in your `.csproj` that looks like this:
 ```xml
 <PackageIconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</PackageIconUrl>
 ```
@@ -75,7 +75,7 @@ For details see [How to create gh-pages branch].
 Addins published to nuget.org should be listed on the cakebuild.net website. This is especially relevant 
 to the audit process because the YAML files are used to build the list of known addins to be audited. As 
 of this writing, the audit process also gathers additional known addins from the addins listed in the
-p"Addins" section of [Status.md](https://github.com/cake-contrib/Home/blob/master/Status.md#addins) in 
+"Addins" section of [Status.md](https://github.com/cake-contrib/Home/blob/master/Status.md#addins) in 
 the cake-contrib github repository but be aware that this manually maintained list will eventually be 
 abandoned when we feel confident that most (if not all) addin author have created a YAML file for their
 addins.

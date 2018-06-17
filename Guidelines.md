@@ -1,21 +1,57 @@
 # Cake-Contrib Guidelines & Best Practices
 
-This document provides some guidelines and best practices for writing Cake addins hosted within the cake-contrib GitHub organisation.
+This document provides some guidelines and best practices for writing Cake addins hosted within the cake-contrib GitHub organization.
+All known addins are audited twice daily to ensure compliance and a summary report as well as a detailed report are generated at the conclusion of each audit.
+As a Cake user you can use the [summary audit report](Audit.md) to verify if the addins you are using are compatible with the version of Cake you are using. 
+As a addin author you should use the [detailed audit report](Audit.xlsx) to verify that you are complying with all recommendations.
+
+## Naming Convention
+
+Your addin should be named `Cake.xxx` where xxx is a meaningful and unique name that describes what your addin does. We strongly encourage you to be consistent and use the same name for the github repo, the C# solution name, the assembly generated from your project and the Nuget package. The `Cake.` prefix in the naming convention is particularly important for the Nuget package and the assembly in your package because it's used by the automated AddinDiscoverer to identify adins for Cake.
+
+For example, `Cake.Email` is the name that clearly identifies the addin for Cake that allows emails to be sent from your build script. This name is used in the [github repo](https://github.com/cake-contrib/Cake.Email), it's the name of the [solution file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email.sln), it's the name of the [project file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj), the name of the [generated assembly](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L10) and finally, it's also the name of the [Nuget package](https://www.nuget.org/packages/Cake.Email/).
 
 ## NuGet Package Icon
 
-Use the Cake Contrib Icon which can be found [here](https://github.com/cake-contrib/graphics), rather than the Cake Icon.
+Addins should use the Cake Contrib Icon rather than the Cake icon. You can do so by adding the following line in your addin's `.csproj`:
+```xml
+<PackageIconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</PackageIconUrl>
+```
+Like in this [example](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L18).
+
+If you are still using a `.nuspec` file rather than the newer `.csproj` format, the line should look like this:
+```xml
+<metadata>
+    <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
+</metadata>
+```
+
+Please note that the source for the icon can be found [here](https://github.com/cake-contrib/graphics).
+
 
 ## Build Infrastructure
 
-Addins which are part of the cake-contrib organisation should use the [Cake.Recipe] scripts for their build process.
+Addins which are part of the cake-contrib organization should use the [Cake.Recipe] scripts for their build process.
 
 ## Supported Cake Version
 
-To have the best support for different versions of Cake, the addin should currently be built against Cake version 0.22.0,
-or, if a specific newer functionality is required, the lowest version providing the specific functionality.
+To have the best support for different versions of Cake, the addin should currently be built against Cake version 0.28.0,
+or, if a specific newer functionality is required, the lowest version providing the specific functionality. Please note 
+that addins built against newer versions of Cake might not be compatible with previous versions of Cake and vice-versa,
+addins built against older versions might not be compatible with future versions of Cake (this is especially true when a
+future version of Cake introduces breaking changes).
 
-If the addin is built against newer versions it might not be compatible with previous versions of Cake.
+It is incumbent on addin authors to upgrade their references and publish new version of their nuget packages when a new 
+version of Cake with breaking changes becomes available.
+
+## Framework
+
+As of Cake 0.26.0, addins should only target `netstandard2.0`. Addins *can* multi-target `net46` (or even `net461`) and
+`netstandard2.0` if you have a compelling reason, but for the vast majority of addins `netstandard2.0` is sufficient. 
+The reason why we recommend netstandard2.0 is that this framework is compatible with both cake and cake.coreclr.
+
+Previously, before moving to dotnet core 2, the only way to support both cake and cake.coreclr was to multitarget (net46 and netstandard1.6). 
+Nowadays there’s (in most cases) no real need to multitarget, but many addins still do (mainly because they did it earlier).
 
 ## Cake.Core / Cake.Common references
 
@@ -24,55 +60,41 @@ inside the nuspec file. This is not too hard to accomplish of you write your own
 `dotnet.exe pack` to create the nuget package you need to explicitly mark those references as private assets inside
 the new csproj format.
 
-    <ItemGroup>
-      <PackageReference Include="Cake.Core" Version="0.22.0" PrivateAssets="All" />
-      <PackageReference Include="Cake.Common" Version="0.22.0" PrivateAssets="All" />
-    </ItemGroup>
-
-## Assembly References
-
-Assemblies required by the addin should be merged with or embedded in the Cake addin.
-Otherwise there might be conflicts which cannot be resolved between different versions required by different addins.
-
-There are different solutions explained below.
-
-### Fody Costura
-
-[Costura] is an addin for [Fody] which embeds dependencies as resources during build.
-It's very easy to setup, in most cases just adding the [Costura.Fody NuGet package].
-Loading assemblies from embedded resources comes with a small performance loss, but which shouldn't be an issue in most cases for Cake addins.
-
-This is therefore the prefered method.
-
-### ILMerge
-
-[ILMerge] is a utility for merging multiple .NET assemblies into a single .NET assembly.
-It is more difficult to setup than Costura, would require additional build steps currently not supported by [Cake.Recipe],
-but would provide better performance than Costura.
+```xml
+<ItemGroup>
+  <PackageReference Include="Cake.Core" Version="0.28.0" PrivateAssets="All" />
+  <PackageReference Include="Cake.Common" Version="0.28.0" PrivateAssets="All" />
+</ItemGroup>
+```
 
 ## Documentation
 
 Addins should follow the [Cake Documentation Guidelines].
 
-### Addin documentation
+## Addin documentation
 
-The prefered tool for creating documentation for the addin is [Wyam].
+The preferred tool for creating documentation for the addin is [Wyam].
 The [Cake.Recipe] scripts support building [Wyam] projects and the created website can be published to
 `https://cake-contrib.github.io/Cake.AddinName/` using a `gh-pages` branch.
 
 For details see [How to create gh-pages branch].
 
-### Integration on Cake website
+## Integration on Cake website
 
-Addins published to nuget.org should be listed on the cakebuild.net website.
+Addins published to nuget.org should be listed on the cakebuild.net website. This is especially relevant 
+to the audit process because the YAML files are used to build the list of known addins to be audited. As 
+of this writing, the audit process also gathers additional known addins from the addins listed in the
+"Addins" section of [Status.md](https://github.com/cake-contrib/Home/blob/master/Status.md#addins) in 
+the cake-contrib github repository but be aware that this manually maintained list will eventually be 
+abandoned when we feel confident that most (if not all) addin author have created a YAML file for their
+addins.
 
-Follow the instructions [here](https://github.com/cake-build/website/blob/develop/README.md#addins).
+Follow the instructions [here](https://github.com/cake-build/website/blob/develop/README.md#addins) to 
+create a YAML file for your addin.
 
-[Cake.Recipe]: https://github.com/cake-contrib/Cake.Recipe
-[Costura]: https://github.com/Fody/Costura
-[Fody]: https://github.com/Fody/Fody/
-[Costura.Fody NuGet package]: https://nuget.org/packages/Costura.Fody/
-[ILMerge]: https://www.microsoft.com/en-us/download/details.aspx?id=17630
-[Wyam]: https://wyam.io/ 
-[Cake Documentation Guidelines]: https://cakebuild.net/docs/contributing/documentation
-[How to create gh-pages branch]: https://www.gep13.co.uk/blog/how-to-create-gh-pages-branch
+## Further reading
+
+- [Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe)
+- [Wyam](https://wyam.io/)
+- [Cake Documentation Guidelines](https://cakebuild.net/docs/contributing/documentation)
+- [How to create gh-pages branch](https://www.gep13.co.uk/blog/how-to-create-gh-pages-branch)

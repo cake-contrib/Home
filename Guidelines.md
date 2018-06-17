@@ -17,6 +17,7 @@ Addins should use the Cake Contrib Icon rather than the Cake icon. You can do so
 ```xml
 <PackageIconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</PackageIconUrl>
 ```
+Like in this [example](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L18).
 
 If you are still using a `.nuspec` file rather than the newer `.csproj` format, the line should look like this:
 ```xml

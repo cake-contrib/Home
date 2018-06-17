@@ -1,25 +1,29 @@
 # Cake-Contrib Guidelines & Best Practices
 
-This document provides some guidelines and best practices for writing Cake addins hosted within the cake-contrib GitHub organization.
-All known addins are audited twice daily to ensure compliance and a summary report as well as a detailed report are generated at the conclusion of each audit.
+This document provides some guidelines and best practices for writing Cake addins hosted within the cake-contrib GitHub Organization (however, these guidelines can also be applied to addin's hosted outside the Orgnanization).
+
+All known addins are audited twice daily to ensure compliance, and a summary report, as well as a detailed report, are generated at the conclusion of each audit.
 As a Cake user you can use the [summary audit report](Audit.md) to verify if the addins you are using are compatible with the version of Cake you are using. 
-As a addin author you should use the [detailed audit report](Audit.xlsx) to verify that you are complying with all recommendations.
+As an addin author you should use the [detailed audit report](Audit.xlsx) to verify that you are complying with all recommendations.
 
 ## Naming Convention
 
-Your addin should be named `Cake.xxx` where xxx is a meaningful and unique name that describes what your addin does. We strongly encourage you to be consistent and use the same name for the github repo, the C# solution name, the assembly generated from your project and the Nuget package. The `Cake.` prefix in the naming convention is particularly important for the Nuget package and the assembly in your package because it's used by the automated AddinDiscoverer to identify adins for Cake.
+Your addin should be named `Cake.xxx` where xxx is a meaningful and unique name that describes what your addin does. We strongly encourage you to be consistent and use the same name for the GitHub repo, the C# solution name, the assembly generated from your project and the NuGet package. The `Cake.` prefix in the naming convention is particularly important for the NuGet package and the assembly in your package, because it's used by the automated [AddinDiscoverer](https://github.com/cake-contrib/Cake.AddinDiscoverer) to identify addins for Cake.
 
-For example, `Cake.Email` is the name that clearly identifies the addin for Cake that allows emails to be sent from your build script. This name is used in the [github repo](https://github.com/cake-contrib/Cake.Email), it's the name of the [solution file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email.sln), it's the name of the [project file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj), the name of the [generated assembly](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L10) and finally, it's also the name of the [Nuget package](https://www.nuget.org/packages/Cake.Email/).
+For example, `Cake.Email` is the name that clearly identifies the addin for Cake that allows emails to be sent from your build script. This name is used in the [GitHub repo](https://github.com/cake-contrib/Cake.Email), it's the name of the [solution file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email.sln), it's the name of the [project file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj), the name of the [generated assembly](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L10) and finally, it's also the name of the [NuGet package](https://www.nuget.org/packages/Cake.Email/).
 
 ## NuGet Package Icon
 
-Addins should use the Cake Contrib Icon rather than the Cake icon. You can do so by adding the following line in your addin's `.csproj`:
+Addins should use the Cake Contrib icon rather than the Cake icon. You can do so by adding the following line in your addin's `.csproj`:
+
 ```xml
 <PackageIconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</PackageIconUrl>
 ```
+
 Like in this [example](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L18).
 
 If you are still using a `.nuspec` file rather than the newer `.csproj` format, the line should look like this:
+
 ```xml
 <metadata>
     <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
@@ -31,7 +35,7 @@ Please note that the source for the icon can be found [here](https://github.com/
 
 ## Build Infrastructure
 
-Addins which are part of the cake-contrib organization should use the [Cake.Recipe] scripts for their build process.
+Addins which are part of the cake-contrib Organization should use the [Cake.Recipe] scripts for their build process.
 
 ## Supported Cake Version
 
@@ -41,7 +45,7 @@ that addins built against newer versions of Cake might not be compatible with pr
 addins built against older versions might not be compatible with future versions of Cake (this is especially true when a
 future version of Cake introduces breaking changes).
 
-It is incumbent on addin authors to upgrade their references and publish new version of their nuget packages when a new 
+It is incumbent on addin authors to upgrade their references and publish new version of their NuGet packages when a new 
 version of Cake with breaking changes becomes available.
 
 ## Framework
@@ -85,7 +89,7 @@ Addins published to nuget.org should be listed on the cakebuild.net website. Thi
 to the audit process because the YAML files are used to build the list of known addins to be audited. As 
 of this writing, the audit process also gathers additional known addins from the addins listed in the
 "Addins" section of [Status.md](https://github.com/cake-contrib/Home/blob/master/Status.md#addins) in 
-the cake-contrib github repository but be aware that this manually maintained list will eventually be 
+the cake-contrib GitHub repository but be aware that this manually maintained list will eventually be 
 abandoned when we feel confident that most (if not all) addin author have created a YAML file for their
 addins.
 

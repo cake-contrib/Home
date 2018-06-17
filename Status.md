@@ -219,6 +219,7 @@ Currently:
 | [Cake.TravisCI](https://www.nuget.org/packages/Cake.TravisCI/)                                                     | RLittlesII                  | No                   | Yes                                  | No                                 |
 | [Cake.Twitter](https://www.nuget.org/packages/Cake.Twitter)                                                        | gep13                       | Yes                  | Yes                                  | Yes                                |
 | [Cake.UncUtils](https://www.nuget.org/packages/Cake.UncUtils/)                                                     | kolletzki                   | Yes                  | Yes                                  | No                                 |
+| [Cake.Unity3D](https://www.nuget.org/packages/Cake.Unity3D/)                                                       | samoatesgames                | No                   | No                                   | No                                 |
 | [Cake.Utility](https://www.nuget.org/packages/Cake.Utility)                                                        | waynebrantley               | No                   | No                                   | No                                 |
 | [Cake.UServer](https://www.nuget.org/packages/Cake.UServer)                                                        | wearetherock                | Yes                  | Yes                                  | No                                 |
 | [Cake.Vagrant](https://www.nuget.org/packages/Cake.Vagrant)                                                        | achapman                    | Yes                  | Yes                                  | Yes                                |
@@ -277,7 +278,6 @@ Currently:
 | [Cake.Streaming](https://github.com/RichiCoder1/Cake.Streaming)                                   | RichiCoder1                 | No                   |
 | [Cake.Svn](https://github.com/ddevening/Cake.Svn)                                                 | ddevening                   | No                   |
 | [Cake.TestFairy](https://github.com/hitek123/Cake.TestFairy)                                      | hitek123                    | No                   |
-| Cake.Unity                                                                                        | patrik                      | Yes                  |
 | Cake.VstsReleaseTools                                                                             | fleed                       | Yes                  |
 
 # Needs investigation
@@ -333,4 +333,5 @@ Currently:
 | [Cake.Prca](https://www.nuget.org/packages/Cake.Prca/)                                         | bbtsoftwareag               | Yes                                  | [Cake.Issues](https://www.nuget.org/packages/Cake.Issues), [Cake.Issues.PullRequests](https://www.nuget.org/packages/Cake.Issues.PullRequests) |
 | [Cake.SemVer.FromAssembly](https://www.nuget.org/packages/Cake.SemVer.FromAssembly)            | wallymathieu                | Yes                                  | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                                                                     |
 | [Cake.SemVer.FromBinary](https://www.nuget.org/packages/Cake.SemVer.FromBinary)                | wallymathieu                | Yes                                  | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                                                                     |
+| [Cake.Unity](https://github.com/cake-contrib/Cake.Unity)                                       | patrik                      | Yes                                  | [Cake.Unity3D](https://www.nuget.org/packages/Cake.Unity3D/)                                                                                   |
 | [SemVer.FromAssembly](https://www.nuget.org/packages/SemVer.FromAssembly/)                     | wallymathieu                | Yes                                  | [Cake.SynVer](https://www.nuget.org/packages/Cake.SynVer/)                                                                                     |

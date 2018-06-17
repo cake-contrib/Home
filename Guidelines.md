@@ -5,6 +5,12 @@ All known addins are audited twice daily to ensure compliance and a summary repo
 As a Cake user you can use the [summary audit report](Audit.md) to verify if the addins you are using are compatible with the version of Cake you are using. 
 As a addin author you should use the [detailed audit report](Audit.xlsx) to verify that you are complying with all recommendations.
 
+## Naming Convention
+
+Your addinshould be named `Cake.xxx` where xxx is a meaningful and unique name that describes what your addin does. We strongly encourage you to be consistent and use the same name for the github repo, the C# solution name, the assembly generated from your project and the Nuget package. The `Cake.` prefix in the naming convention is particularly important for the Nuget package and the assembly in your package because it's used by the automated AddinDiscoverer to identify adins for Cake.
+
+For example, `Cake.Email` is the name that clearly identifies the addin for Cake that allows emails to be sent from your build script. This name is used in the [github repo](https://github.com/cake-contrib/Cake.Email), it's the name of the [solution file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email.sln), it's the name of the [project file](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj), the name of the [generated assembly](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L10) and finally, it's also the name of the [Nuget package](https://www.nuget.org/packages/Cake.Email/).
+
 ## NuGet Package Icon
 
 Use the Cake Contrib Icon which can be found [here](https://github.com/cake-contrib/graphics), rather than the Cake Icon. 

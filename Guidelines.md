@@ -13,8 +13,7 @@ For example, `Cake.Email` is the name that clearly identifies the addin for Cake
 
 ## NuGet Package Icon
 
-Use the Cake Contrib Icon which can be found [here](https://github.com/cake-contrib/graphics), rather than the Cake Icon. 
-In concrete terms, this means adding a line in your `.csproj` that looks like this:
+Addins should use the Cake Contrib Icon rather than the Cake icon. You can do so by adding the following line in your addin's `.csproj`:
 ```xml
 <PackageIconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</PackageIconUrl>
 ```
@@ -25,6 +24,9 @@ If you are still using a `.nuspec` file rather than the newer `.csproj` format, 
     <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
 </metadata>
 ```
+
+Please note that the source for the icon can be found [here](https://github.com/cake-contrib/graphics).
+
 
 ## Build Infrastructure
 

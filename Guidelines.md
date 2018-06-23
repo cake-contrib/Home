@@ -92,7 +92,7 @@ From time to time, a previously published addin  needs to be deprecated. This co
 - It is an older package that no longer follows the guidelines.
 - Its package id has been changed to something that better fits with the package naming guidelines.
 
-All versions of this package could simply be unlisted from nuget.org, meaning that they could no longer be installed, however, this solution is not ideal. Any build script referencing this package would no longer works which is far from ideal. When a package needs to be deprecated, it needs to be handled in such a way that existing users will continue to be able to use the old package id, but take advantage of the replacement package, if there is one.
+All versions of this package could simply be unlisted from nuget.org, meaning that they could no longer be found, however, this solution is not ideal. Any build script referencing this package without a specific version would no longer works which is far from ideal. When a package needs to be deprecated, it needs to be handled in such a way that existing users will continue to be able to use the old package id, but take advantage of the replacement package, if there is one.
 
 In order to deprecate an addin, the following steps should be followed:
 

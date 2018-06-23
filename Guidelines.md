@@ -83,18 +83,23 @@ The [Cake.Recipe] scripts support building [Wyam] projects and the created websi
 
 For details see [How to create gh-pages branch].
 
-## Integration on Cake website
+## Deprecating an addin
 
-Addins published to nuget.org should be listed on the cakebuild.net website. This is especially relevant 
-to the audit process because the YAML files are used to build the list of known addins to be audited. As 
-of this writing, the audit process also gathers additional known addins from the addins listed in the
-"Addins" section of [Status.md](https://github.com/cake-contrib/Home/blob/master/Status.md#addins) in 
-the cake-contrib GitHub repository but be aware that this manually maintained list will eventually be 
-abandoned when we feel confident that most (if not all) addin author have created a YAML file for their
-addins.
+From time to time, a previously published addin  needs to be deprecated. This could be for a number of reasons:
 
-Follow the instructions [here](https://github.com/cake-build/website/blob/develop/README.md#addins) to 
-create a YAML file for your addin.
+- It was created in error.
+- It has been superseded by another package.
+- It is an older package that no longer follows the guidelines.
+- Its package id has been changed to something that better fits with the package naming guidelines.
+
+All versions of this package could simply be unlisted from nuget.org, meaning that they could no longer be installed, however, this solution is not ideal. Any build script referencing this package would no longer works which is far from ideal. When a package needs to be deprecated, it needs to be handled in such a way that existing users will continue to be able to use the old package id, but take advantage of the replacement package, if there is one.
+
+In order to deprecate an addin, the following steps should be followed:
+
+- Create a new version of the deprecated addin package.
+- Prepend `[DEPRECATED]` to the title of the package (e.g. "[DEPRECATED] My Cake addin")
+- Update the package description: Why is the package being deprecated?
+- Publish this new version of the package to nuget.org
 
 ## Further reading
 

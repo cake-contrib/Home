@@ -54,6 +54,8 @@ As .NET Framwork < 4.7.2 has issues with running .NET Standard assemblies, and C
 
 This replaces the previous suggestion to only target `netstandard2.0` starting with Cake 0.26.0 as since then issues were found with running `netstandard2.0` on .NET Framwork < 4.7.2.
 
+Multi-targetting was suggested by Microsoft in [this .NET Conf 2018 talk](https://www.youtube.com/watch?v=hLFyycJVo0I#t=44m48s) and the underlying issues are explained in [this tweet](https://twitter.com/terrajobst/status/1031999730320986112)
+
 ## Cake.Core / Cake.Common references
 
 Those references are being implicitly added by the Cake engine. Thus there is no need to add them as dependencies

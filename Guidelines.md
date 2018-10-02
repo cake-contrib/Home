@@ -102,7 +102,12 @@ In order to deprecate an addin, the following steps should be followed:
 
 ## Further reading
 
-- [Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe)
-- [Wyam](https://wyam.io/)
-- [Cake Documentation Guidelines](https://cakebuild.net/docs/contributing/documentation)
-- [How to create gh-pages branch](https://www.gep13.co.uk/blog/how-to-create-gh-pages-branch)
+- [Cake.Recipe]
+- [Wyam]
+- [Cake Documentation Guidelines]
+- [How to create gh-pages branch]
+
+[Cake.Recipe]: https://github.com/cake-contrib/Cake.Recipe
+[Wyam]: https://wyam.io/
+[Cake Documentation Guidelines]: https://cakebuild.net/docs/contributing/documentation
+[How to create gh-pages branch]: https://www.gep13.co.uk/blog/how-to-create-gh-pages-branch

@@ -50,12 +50,9 @@ version of Cake with breaking changes becomes available.
 
 ## Framework
 
-As of Cake 0.26.0, addins should only target `netstandard2.0`. Addins *can* multi-target `net46` (or even `net461`) and
-`netstandard2.0` if you have a compelling reason, but for the vast majority of addins `netstandard2.0` is sufficient. 
-The reason why we recommend netstandard2.0 is that this framework is compatible with both cake and cake.coreclr.
+As .NET Framwork < 4.7.2 has issues with running .NET Standard assemblies, and Cake itself can run on .NET Framework 4.6.1 it is suggested to multi-target addins to `netstandard2.0` and `net461` to have the maximum compatibility. 
 
-Previously, before moving to dotnet core 2, the only way to support both cake and cake.coreclr was to multitarget (net46 and netstandard1.6). 
-Nowadays there’s (in most cases) no real need to multitarget, but many addins still do (mainly because they did it earlier).
+This replaces the previous suggestion to only target `netstandard2.0` starting with Cake 0.26.0 as since then issues were found with running `netstandard2.0` on .NET Framwork < 4.7.2.
 
 ## Cake.Core / Cake.Common references
 

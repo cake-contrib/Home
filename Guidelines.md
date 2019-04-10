@@ -17,7 +17,7 @@ For example, `Cake.Email` is the name that clearly identifies the addin for Cake
 Addins should use the Cake Contrib icon rather than the Cake icon. You can do so by adding the following line in your addin's `.csproj`:
 
 ```xml
-<PackageIconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</PackageIconUrl>
+<PackageIconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-medium.png</PackageIconUrl>
 ```
 
 Like in this [example](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L18).
@@ -26,7 +26,7 @@ If you are still using a `.nuspec` file rather than the newer `.csproj` format, 
 
 ```xml
 <metadata>
-    <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-medium.png</iconUrl>
 </metadata>
 ```
 

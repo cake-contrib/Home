@@ -39,7 +39,7 @@ Addins which are part of the cake-contrib Organization should use the [Cake.Reci
 
 ## Supported Cake Version
 
-To have the best support for different versions of Cake, the addin should currently be built against Cake version 0.28.0,
+To have the best support for different versions of Cake, the addin should currently be built against Cake version 0.33.0,
 or, if a specific newer functionality is required, the lowest version providing the specific functionality. Please note 
 that addins built against newer versions of Cake might not be compatible with previous versions of Cake and vice-versa,
 addins built against older versions might not be compatible with future versions of Cake (this is especially true when a
@@ -65,8 +65,8 @@ the new csproj format.
 
 ```xml
 <ItemGroup>
-  <PackageReference Include="Cake.Core" Version="0.28.0" PrivateAssets="All" />
-  <PackageReference Include="Cake.Common" Version="0.28.0" PrivateAssets="All" />
+  <PackageReference Include="Cake.Core" Version="0.33.0" PrivateAssets="All" />
+  <PackageReference Include="Cake.Common" Version="0.33.0" PrivateAssets="All" />
 </ItemGroup>
 ```
 

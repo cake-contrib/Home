@@ -54,19 +54,19 @@ To this end, the following things will happen:
 
 # Tracking Addin's, Modules and Recipes
 
-Due to the growing number of Addin's, Modules and Recipes that are available, we are tracking the current status of each of these.
+Due to the growing number of Addins, Modules and Recipes that are available, we have  implemented an automated process to track the current status of each of these. This process runs twice a day (at noon and midnight UTC) and generates a [summary report](https://github.com/cake-contrib/Home/blob/master/Audit.md).
 
-Ideally, all addin's, modules and recipes will appear on the [Cake Website](http://cakebuild.net/), however, this requires PR's from the maintainers, so in the meantime, you can find this information [here](https://github.com/cake-contrib/Home/blob/master/Status.md).
-
-This tracks things like:
+The generated report contains information such as: 
 
 * the fact that the addin/module/recipe actually exists
-* a link to the NuGet package
+* a link to the github project (or the NuGet package if unable to determine the project URL)
+* whether the addin is compatible with the latest release of Cake
 * information about the maintainer
-* whether the maintainer has been contacted about providing additional information
 * whether the cake-contrib user has been added as a co-maintainer to the NuGet packages
-* whether the addin has been added to the Cake Build website
 * whether the addin repository has been moved to the Cake Contrib Organisation
+* whether the addin follows all recommendations
+
+This process also automatically generates and updates the YAML file for each addin that is subsequently used to generate the publicly available documentation for a given addin. This YAML used to be manually maintained by the addin author but this is no longer necessary since the automation takes care of it. However, it's important to note that the content of the YAML file is generated based on the information contained in the addin's package nuspec file. This means that addin authors must ensure the information in their nuspec files is accurate.
 
 # License
 

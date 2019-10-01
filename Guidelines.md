@@ -14,24 +14,23 @@ For example, `Cake.Email` is the name that clearly identifies the addin for Cake
 
 ## NuGet Package Icon
 
-Addins should use the Cake Contrib icon rather than the Cake icon. You can do so by adding the following line in your addin's `.csproj`:
-
+Addins should use the Cake Contrib icon rather than the Cake icon or any other custom icon. Also, addins should embed the icon in their NuGet package rather than rely on an external web site to host their icon. You can do so by adding the following line in your addin's `.csproj`:
 ```xml
-<PackageIconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-medium.png</PackageIconUrl>
+<PackageIcon>PackageIcon.png</PackageIcon>
 ```
 
-Like in this [example](https://github.com/cake-contrib/Cake.Email/blob/develop/Source/Cake.Email/Cake.Email.csproj#L18).
-
-If you are still using a `.nuspec` file rather than the newer `.csproj` format, the line should look like this:
-
+Your addin's `.csproj` should also contain a reference to your `png` file like so:
 ```xml
-<metadata>
-    <iconUrl>https://cdn.jsdelivr.net/gh/cake-contrib/graphics/png/cake-contrib-medium.png</iconUrl>
-</metadata>
+<ItemGroup>
+    <None Include="..\PackageIcon.png" Pack="true" PackagePath="" />
+</ItemGroup>
 ```
+
+Notice the `Pack` attribute, this is particularly important to ensure the file is embedded in the NuGet package.
 
 Please note that the source for the icon can be found [here](https://github.com/cake-contrib/graphics).
 
+Until early 2019, the recommendation was to reference the cake-contrib icon hosted on the rawgit CDN but rawgit announced that it would shutdown in October 2019 therefore the recommendation changed to reference the cake-contrib icon hosted on the jsDelivr CDN. This recommendation changed once again in the fall of 2019 when NuGet started supporting embedded icons.
 
 ## Build Infrastructure
 
@@ -60,7 +59,7 @@ Multi-targetting was suggested by Microsoft in [this .NET Conf 2018 talk](https:
 
 Those references are being implicitly added by the Cake engine. Thus there is no need to add them as dependencies
 inside the nuspec file. This is not too hard to accomplish of you write your own nuspec file. But if you are using
-`dotnet.exe pack` to create the nuget package you need to explicitly mark those references as private assets inside
+`dotnet.exe pack` to create the NuGet package you need to explicitly mark those references as private assets inside
 the new csproj format.
 
 ```xml

@@ -16,13 +16,13 @@ For example, `Cake.Email` is the name that clearly identifies the addin for Cake
 
 Addins should use the Cake Contrib icon rather than the Cake icon or any other custom icon. Also, addins should embed the icon in their NuGet package rather than rely on an external web site to host their icon. You can do so by adding the following line in your addin's `.csproj`:
 ```xml
-<PackageIcon>MyIconFile.png</PackageIcon>
+<PackageIcon>PackageIcon.png</PackageIcon>
 ```
 
 Your addin's `.csproj` should also contain a reference to your `png` file like so:
 ```xml
 <ItemGroup>
-    <None Include="..\MyIconFile.png" Pack="true" PackagePath="" />
+    <None Include="..\PackageIcon.png" Pack="true" PackagePath="" />
 </ItemGroup>
 ```
 

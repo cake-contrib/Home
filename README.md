@@ -55,7 +55,7 @@ To this end, the following things will happen:
 
 Due to the growing number of Addins, Modules and Recipes that are available, we have  implemented an automated process to track the current status of each of these. This process runs twice a day (at noon and midnight UTC) and generates a [summary report](https://github.com/cake-contrib/Home/blob/master/Audit.md).
 
-The generated report contains information such as: 
+The generated report contains information such as:
 
 * the fact that the addin/module/recipe actually exists
 * a link to the github project (or the NuGet package if unable to determine the project URL)
@@ -73,6 +73,6 @@ This process also automatically generates and updates the YAML file for each add
 
 # Chat Room
 
-Come join in the conversation about anything related to the Cake Contrib Organisation in our Gitter Chat Room
+Come join in the conversation about anything related to the Cake Contrib Organisation in our Gitter Chat Room.
 
 [![Join the chat at https://gitter.im/cake-contrib/Lobby](https://badges.gitter.im/cake-contrib/Lobby.svg)](https://gitter.im/cake-contrib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

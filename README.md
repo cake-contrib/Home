@@ -30,7 +30,7 @@ Once that request has been made, the following process will be followed:
 * Run the permission sync tool
   * If this was a new user added to the Organisation, you will need to run the tool for all projects
   * If this was an existing user adding a new project, you will only need to run the tool for one project
-* Check the permissions and environment variables section to make sure that they are filled out
+* Check the permissions to make sure that they are filled out
 * Create environment variable for `WYAM_DEPLOY_REMOTE` and add value (similar to existing projects i.e. `https://github.com/cake-contrib/Cake.Hg`)
 * Go to coveralls.io and add new project using `cake-contrib` account
 * Create environment varialbe for `COVERALLS_REPO_TOKEN` and copy in value from above step

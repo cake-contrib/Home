@@ -35,19 +35,19 @@ organization level that are available during the build.
 
 The following environment variables are accessible when running builds on the
 AppVeyor CI provider and will be available without further configuration.
-Private variables are noted, which means they will no be available in pull requests.
+Private variables are noted, which means they will not be available in pull requests.
 However, these private variables can be made available in pull requests
 originating from the same repository.
 
 - `APPVEYOR_API_TOKEN` (_secret variable_)
-- `AZURE_PASSWORD`
+- `AZURE_PASSWORD` (_secret variable_)
 - `AZURE_SOURCE`
 - `AZURE_USER`
 - `GITHUB_PASSWORD` (_secret variable, can be used as a GitHub Token_)
 - `GITHUB_USERNAME`
 - `GITTER_ROOM_ID` (_secret variable_)
 - `GITTER_TOKEN` (_secret variable_)
-- `GPR_PASSWORD`
+- `GPR_PASSWORD` (_secret variable_)
 - `GPR_SOURCE`
 - `GPR_USER`
 - `MYGET_API_KEY` (_secret variable_)
@@ -71,7 +71,7 @@ otherwise please see its [Getting Started][cake-recipe-started] on how to procee
 _Please see the [Cake.Recipe documentatian][cake-recipe-migrate] on how to upgrade
 from Cake.Recipe 1.x te 2.x._
 
-If you do not need to specify any additional configuration, and wishes to just
+If you do not need to specify any additional configuration, and wish to just
 have it work with default options.
 Then the most basic build script can be specified as follows:
 
@@ -296,7 +296,7 @@ jobs:
           target: CI
           cake-version: 0.38.4
           cake-bootstrap: true
-      # The followingi is untested, and need verification
+      # The following is untested, and needs verification
       - name: Upload artifacts
         uses: actions/upload-artifacts@v2
         with:
@@ -332,7 +332,7 @@ jobs:
       WYAM_ACCESS_TOKEN: ${{ secrets.WYAM_ACCESS_TOKEN }}
       WYAM_DEPLOY_REMOTE: "${{ github.event.repository.html_url }}"
       WYAM_DEPLOY_BRANCH: "gh-pages"
-    # ubuntu-latest is used here due to it is
+    # ubuntu-latest is used here due to it being
     # the one taking the shortest time to execute
     runs-on: ubuntu-latest
 

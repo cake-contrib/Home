@@ -1,76 +1,35 @@
-# What is the Cake Contrib Organisation?
+# What is the Cake Contrib organisation
 
-The Cake Contrib Organisation was created after a discussion on Gitter which questioned what happens when a community contributed Cake Addin becomes unmaintained by the original author.
+The [Cake Contrib organisation] contains community supported extensions for [Cake](https://cakebuild.net/).
 
-The upshot of that conversation was we (the Cake Team):
+Goals of the [Cake Contrib ogranisation] are:
 
-* wanted to provide a central location that Addin Authors could decide to move their Addin's to, when it was clear that they were no longer able to maintain an Addin, which would mean that other interested maintainers could easily be added to the Team to help with the maintenance
-* wanted to provide a central location that Addin Authors could choose to move their Addin's to, even when they were still interested in maintaining the project, and just wanted to take advantage of the benefits of moving into this Organisation
-* wanted to provide the infrastructure to allow Continuous Integration Builds of the Addin's, without having to worry about the setup overhead
-* wanted to provide an option to notify the Cake community about new releases of the Addin via official Cake Contrib communication channels such as Gitter and Slack
+* Provide a central location that extension authors can decide to move their extensions to, when it is clear that they are no longer able to maintain it.
+  In this case other interested maintainers can easily be added to the team to help with the maintenance.
+* Provide a central location that extension authors can choose to move their extensions to, when they were still interested in maintaining the project, and just want to take advantage of the benefits of moving into this organisation.
+* Provide the infrastructure to allow continuous integration builds of the extensions, without having the extension maintainers to worry about the setup overhead.
+* Provide an automated auditing process for Cake extensions.
+  See [Tracking Addin's, Modules and Recipes](https://github.com/cake-contrib/Home/blob/master/CONTRIBUTING.md#tracking-addins-modules-and-recipes) for details.
+* Provide an option to notify the Cake community about new releases of extensions via official Cake Contrib communication channels such as [Twitter], [Gitter] or [Slack].
 
-# How do I, as an Addin Author, transfer a repository to the Organisation?
+[Twitter]: https://twitter.com/cakecontrib
+[Gitter]: https://gitter.im/cake-contrib
+[Slack]: https://cake-contrib.slack.com
 
-Moving a repository into this organisation is a very simple process, but it does involve a couple hoops.  It is not possible to move a repository directly into the Organisation, unless you are an owner of the Organisation.
+# Joining Cake Contrib organisation
 
-As a result, the easiest way to move a repository into this Organisation is to first transfer the repository to a member of the Cake Team, and from there, they will move it into the Cake Contrib Organisation.
+We're happy to have any repositories which extend the Cake ecosystem in the [Cake Contrib organisation].
 
-Once that request has been made, the following process will be followed:
+Please [start a new discussion](https://github.com/cake-build/cake/discussions) to initiate a new repository in the
+[Cake Contrib organisation] or transfer an existing repository to the [Cake Contrib organisation].
 
-* If the original maintainer of the repo hasn't been invited to the `cake-contrib` organisation, an invite will be sent out
-* If a team has not been created in the Organisation for the original maintainer of the repo, one will be created using the convention `Team <First Name>`
-* Repository will be transferred from Team Member account to `cake-contrib` Organisation, and added to the `Team` and `Team <First Name>` teams
-* Once the transfer is complete, go to the settings of the repository and click on `Collaborators & teams` tab
-* Give Admin permission to all Teams
-* Remove all collaborators, as they should now be included as teams
-* Check with the original owner if they want to use the standard labels for issues in this repository.  If they do, run the label creation tool
-* Go to AppVeyor
-* If this was a new user invited to the organisation, create a matching role for that user and map the GitHub Team to that role
-* Add a new AppVeyor Project for the new repository
-* Run the permission sync tool
-  * If this was a new user added to the Organisation, you will need to run the tool for all projects
-  * If this was an existing user adding a new project, you will only need to run the tool for one project
-* Check the permissions to make sure that they are filled out
-* Create environment variable for `WYAM_DEPLOY_REMOTE` and add value (similar to existing projects i.e. `https://github.com/cake-contrib/Cake.Hg`)
-* Go to coveralls.io and add new project using `cake-contrib` account
-* Create environment varialbe for `COVERALLS_REPO_TOKEN` and copy in value from above step
-* Inform user of process being complete
+For details about the process see [Joining Cake Contrib organisation](https://github.com/cake-contrib/Home/blob/master/CONTRIBUTING.md).
 
-# What permissions will I, as an Addin Author have, once I move it to this Organisation?
+# Discuss
 
-The bottom line is, we want you, as the original Addin creator, and potential continued maintainer, to have the exact same permissions that you had when you created the repository in the first place.
+Come join in the conversation about anything related to the [Cake Contrib organisation] in one of our discussion channels:
 
-To this end, the following things will happen:
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/cakecontrib?style=for-the-badge)](https://twitter.com/cakecontrib)
+[![Join the chat at Gitter](https://img.shields.io/gitter/room/cake-contrib/Lobby?style=for-the-badge)](https://gitter.im/cake-contrib/Lobby)
 
-* A new GitHub Team will be created for yourself
-* Any repositories that you are going to be maintaining will be added to this Team with full admin permissions
-* An AppVeyor Project will be created for the new repositories in the Organisation
-* An AppVeyor Role will be created which will map to the new GitHub Team
-* This AppVeyor Role will be provided with the correct permissions to access each AppVeyor Project
-* The necessary settings will be added to the AppVeyor project to allow notifications to be sent via the official Cake Contrib communication channels
-
-# Tracking Addin's, Modules and Recipes
-
-Due to the growing number of Addins, Modules and Recipes that are available, we have  implemented an automated process to track the current status of each of these. This process runs twice a day (at noon and midnight UTC) and generates a [summary report](https://github.com/cake-contrib/Home/blob/master/Audit.md).
-
-The generated report contains information such as:
-
-* the fact that the addin/module/recipe actually exists
-* a link to the github project (or the NuGet package if unable to determine the project URL)
-* whether the addin is compatible with the latest release of Cake
-* information about the maintainer
-* whether the cake-contrib user has been added as a co-maintainer to the NuGet packages
-* whether the addin repository has been moved to the Cake Contrib Organisation
-* whether the addin follows all recommendations
-
-This process also automatically generates and updates the YAML file for each addin that is subsequently used to generate the publicly available documentation for a given addin. This YAML used to be manually maintained by the addin author but this is no longer necessary since the automation takes care of it. However, it's important to note that the content of the YAML file is generated based on the information contained in the addin's package nuspec file. This means that addin authors must ensure the information in their nuspec files is accurate.
-
-# License
-
-[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/cake-contrib/Cake.Recipe/blob/develop/LICENSE)
-
-# Chat Room
-
-Come join in the conversation about anything related to the Cake Contrib Organisation in our Gitter Chat Room.
-
-[![Join the chat at https://gitter.im/cake-contrib/Lobby](https://badges.gitter.im/cake-contrib/Lobby.svg)](https://gitter.im/cake-contrib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[Cake Contrib organisation]: https://github.com/cake-contrib

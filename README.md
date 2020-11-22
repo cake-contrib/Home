@@ -2,7 +2,7 @@
 
 The [Cake Contrib organisation] contains community supported extensions for [Cake](https://cakebuild.net/).
 
-Goals of the [Cake Contrib ogranisation] are:
+Goals of the [Cake Contrib organisation] are:
 
 * Provide a central location that extension authors can decide to move their extensions to, when it is clear that they are no longer able to maintain it.
   In this case other interested maintainers can easily be added to the team to help with the maintenance.

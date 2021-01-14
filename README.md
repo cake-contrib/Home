@@ -10,10 +10,10 @@ Goals of the [Cake Contrib organisation] are:
 * Provide the infrastructure to allow continuous integration builds of the extensions, without having the extension maintainers to worry about the setup overhead.
 * Provide an automated auditing process for Cake extensions.
   See [Tracking Addin's, Modules and Recipes](https://github.com/cake-contrib/Home/blob/master/CONTRIBUTING.md#tracking-addins-modules-and-recipes) for details.
-* Provide an option to notify the Cake community about new releases of extensions via official Cake Contrib communication channels such as [Twitter], [Gitter] or [Slack].
+* Provide an option to notify the Cake community about new releases of extensions via official Cake Contrib communication channels such as [Twitter], [GitHub Discussions] or [Slack].
 
 [Twitter]: https://twitter.com/cakecontrib
-[Gitter]: https://gitter.im/cake-contrib
+[GitHub Discussions]: https://github.com/cake-build/cake/discussions/categories/extension-q-a
 [Slack]: https://cake-contrib.slack.com
 
 # Joining Cake Contrib organisation
@@ -30,6 +30,6 @@ For details about the process see [Joining Cake Contrib organisation](https://gi
 Come join in the conversation about anything related to the [Cake Contrib organisation] in one of our discussion channels:
 
 [![Follow us on Twitter](https://img.shields.io/twitter/follow/cakecontrib?style=for-the-badge)](https://twitter.com/cakecontrib)
-[![Join the chat at Gitter](https://img.shields.io/gitter/room/cake-contrib/Lobby?style=for-the-badge)](https://gitter.im/cake-contrib/Lobby)
+[![Join the discussion at GitHub](https://img.shields.io/badge/Discuss-On%20GitHub-green?style=for-the-badge)](https://github.com/cake-build/cake/discussions/categories/extension-q-a)
 
 [Cake Contrib organisation]: https://github.com/cake-contrib
